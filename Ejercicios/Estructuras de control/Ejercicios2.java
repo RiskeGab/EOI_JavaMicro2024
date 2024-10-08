@@ -196,13 +196,25 @@ public class Ejercicios2 {
         System.out.println("Cifras: " + cifras);  // Mostrar la cantidad de cifras
     }
 
+    public static void apartado19() {
+        System.out.print("Introduce un núm: ");
+        int num = sc.nextInt();  // Leer un número
+
+        for(int i = 1; i <= num; i++) {
+            System.out.print(i);
+            if(i < num) {
+                System.out.print(", ");
+            }
+        }
+    }
+
     // Método principal que llama a cada uno de los apartados
     public static void main(String[] args) throws IOException {
         boolean ejecutando = true;  // Variable que controla si el bucle sigue ejecutándose
 
         // Mostrar un menú al usuario
         while (ejecutando) {
-            System.out.print("\nSeleccione el apartado a ejecutar (1-15) o 0 para salir: ");
+            System.out.print("\nSeleccione el apartado a ejecutar (1-15,19) o 0 para salir: ");
             int opcion = sc.nextInt();  // Leer la opción del usuario
             sc.nextLine();  // Quitar el salto de línea sobrante
 
