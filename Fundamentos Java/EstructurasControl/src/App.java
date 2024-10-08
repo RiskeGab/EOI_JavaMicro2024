@@ -68,6 +68,7 @@ public class App {
         }
     }
 
+    // Dibujar un rectángulo
     public static void ejemploBucleAnidado2() {
         int alto = 5;
         int ancho = 8;

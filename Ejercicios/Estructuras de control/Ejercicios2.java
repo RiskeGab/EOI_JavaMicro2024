@@ -208,13 +208,34 @@ public class Ejercicios2 {
         }
     }
 
+    public static void apartado26() {
+        System.out.print("Introduce un núm: ");
+        int num = sc.nextInt();  // Leer un número
+
+        // Con bucles anidados
+        // for(int i = 1; i <= num; i++) {
+        //     for(int j = 1; j <= num - i; j++) {
+        //         System.out.print(" ");
+        //     }
+        //     for(int j = 1; j <= i; j++) {
+        //         System.out.print("*");
+        //     }
+        //     System.out.println();
+        // }
+
+        // Sin bucles anidados
+        for(int i = 1; i <= num; i++) {
+            System.out.println(" ".repeat(num - i) + "*".repeat(i));
+        }
+    }
+
     // Método principal que llama a cada uno de los apartados
     public static void main(String[] args) throws IOException {
         boolean ejecutando = true;  // Variable que controla si el bucle sigue ejecutándose
 
         // Mostrar un menú al usuario
         while (ejecutando) {
-            System.out.print("\nSeleccione el apartado a ejecutar (1-15,19) o 0 para salir: ");
+            System.out.print("\nSeleccione el apartado a ejecutar (1-15,19,26) o 0 para salir: ");
             int opcion = sc.nextInt();  // Leer la opción del usuario
             sc.nextLine();  // Quitar el salto de línea sobrante
 
