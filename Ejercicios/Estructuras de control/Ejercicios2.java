@@ -202,7 +202,7 @@ public class Ejercicios2 {
 
         // Mostrar un menú al usuario
         while (ejecutando) {
-            System.out.print("\nSeleccione el apartado a ejecutar (1-12) o 0 para salir: ");
+            System.out.print("\nSeleccione el apartado a ejecutar (1-15) o 0 para salir: ");
             int opcion = sc.nextInt();  // Leer la opción del usuario
             sc.nextLine();  // Quitar el salto de línea sobrante
 
