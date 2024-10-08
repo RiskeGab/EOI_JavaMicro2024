@@ -229,13 +229,46 @@ public class Ejercicios2 {
         }
     }
 
+    public static void apartado27() {
+        System.out.print("Alto: ");
+        int alto = sc.nextInt();  // Leer un número
+        System.out.print("Ancho: ");
+        int ancho = sc.nextInt();
+
+        // for (int fila = 1; fila <= alto; fila++) {
+        //     for (int col = 1; col <= ancho; col++) {
+        //         System.out.print(fila == 1 || fila == alto || col == 1 || col == ancho ? "*" : " ");
+        //     }
+        //     System.out.println(); // Generamos salto de línea
+        // }
+
+        // Sin anidar bucles
+        for(int i = 0; i < alto; i++) {
+            if (i == 0 || i == alto - 1) {
+                System.out.println("*".repeat(ancho));
+            }
+            if (i > 0 && i < alto - 1) {
+                System.out.println("*"+" ".repeat(ancho-2)+"*");
+            }
+        }
+    }
+
+    public static void apartado28() {
+        System.out.print("Alto: ");
+        int alto = sc.nextInt();  // Leer un número
+
+        for(int i = 1; i <= alto; i++) {
+            System.out.println(" ".repeat(alto - i) + "*".repeat(i * 2 - 1));
+        }
+    }
+
     // Método principal que llama a cada uno de los apartados
     public static void main(String[] args) throws IOException {
         boolean ejecutando = true;  // Variable que controla si el bucle sigue ejecutándose
 
         // Mostrar un menú al usuario
         while (ejecutando) {
-            System.out.print("\nSeleccione el apartado a ejecutar (1-15,19,26) o 0 para salir: ");
+            System.out.print("\nSeleccione el apartado a ejecutar (1-15,19,26,27,28) o 0 para salir: ");
             int opcion = sc.nextInt();  // Leer la opción del usuario
             sc.nextLine();  // Quitar el salto de línea sobrante
 
