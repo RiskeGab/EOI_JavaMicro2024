@@ -127,6 +127,45 @@ public class App {
         System.out.println(Arrays.toString(nums)); // [6, 9, 12, 15, 20] (Ordenados)
     }
 
+    static void arrayMulti() {
+        int[][] array2D;
+
+        array2D = new int[5][];
+        array2D[0] = new int[]{1,2,3,4};
+        array2D[1] = new int[4];
+        array2D[2] = new int[6];
+        array2D[3] = new int[3];
+        array2D[4] = new int[4];
+        System.out.println(Arrays.deepToString(array2D));
+        //[[1, 2, 3, 4], [0, 0, 0, 0], [0, 0, 0, 0, 0, 0], [0, 0, 0], [0, 0, 0, 0]]
+
+        for(int i = 0; i < array2D.length; i++) {
+            for(int j = 0; j < array2D[i].length; j++) {
+                System.out.printf("[%d, %d] -> %d, ", i, j, array2D[i][j]);
+            }
+            System.out.println();
+        }
+
+        System.out.println("************* Foreach ***********");
+        for(int[] nums: array2D) {
+            for(int n: nums) {
+                System.out.print(n + ", ");
+            }
+            System.out.println();
+        }
+    }
+
+    public static void recorreCadenas() {
+        String cad = "Programando en Java";
+        for(int i = 0; i < cad.length(); i++) {
+            System.out.printf("%d: %s, ", i, cad.charAt(i));
+        }
+    }
+
+    public static void parametrosPrograma(String[] args) {
+        System.out.println(Arrays.toString(args));
+    }
+
     public static void main(String[] args) throws Exception {
         // ejemploArrays1();
         // ejemploArrays2();
@@ -135,7 +174,10 @@ public class App {
         // buscarEnArray2();
         // redimensionaArray();
         // redimensionaArray2();
-        ordenarArrays();
-        ordenarArrays2();
+        // ordenarArrays();
+        // ordenarArrays2();
+        // arrayMulti();
+        // recorreCadenas();
+        parametrosPrograma(args);
     }
 }
