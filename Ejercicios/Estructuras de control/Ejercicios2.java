@@ -249,11 +249,11 @@ public class Ejercicios2 {
         } 
         // Si es mayor de edad pero no jubilado
         else if (edad < 65) {
-            System.out.print("¿Eres socio? (sí/no): ");
+            System.out.print("¿Eres socio? (s/n): ");
             String esSocio = sc.nextLine().toLowerCase();  // Leer si es socio
 
             // Si es socio, aplicar un descuento del 40%
-            if (esSocio.equals("sí")) {
+            if (esSocio.equals("s")) {
                 precioEntrada *= 0.60;
                 System.out.println("Eres socio. El precio de la entrada con un 40% de descuento es: " + precioEntrada);
             } else {
@@ -327,7 +327,7 @@ public class Ejercicios2 {
         }
         System.out.println();  // Salto de línea al final
 
-        System.out.println("Línea de asteriscos sin usar bucle for:");
+        System.out.println("Línea de asteriscos con repeat:");
         // Dibujar la línea de asteriscos sin usar bucle for (usando repeat)
         System.out.println("*".repeat(num));
     }
@@ -425,17 +425,22 @@ public class Ejercicios2 {
         }
     }
 
-    // Método que dibuja un cuadrado de asteriscos según el tamaño introducido
+    // Método que dibuja un cuadrado de asteriscos usando for y repeat
     public static void apartado24() {
         System.out.print("Introduce el tamaño del cuadrado: ");
-        int tam = sc.nextInt();  // Leer el tamaño
+        int tam = sc.nextInt();  // Leer el tamaño del cuadrado
 
-        // Usar dos bucles for anidados para dibujar el cuadrado
+        System.out.println("Cuadrado usando bucles for:");
         for (int i = 0; i < tam; i++) {
             for (int j = 0; j < tam; j++) {
                 System.out.print("*");  // Dibujar un asterisco
             }
             System.out.println();  // Salto de línea al final de cada fila
+        }
+
+        System.out.println("\nCuadrado usando repeat:");
+        for (int i = 0; i < tam; i++) {
+            System.out.println("*".repeat(tam));  // Dibujar una fila completa usando repeat
         }
     }
 
@@ -445,7 +450,6 @@ public class Ejercicios2 {
         int tam = sc.nextInt();  // Leer el tamaño
 
         System.out.println("Escalera usando bucles anidados:");
-        // Usar un bucle for anidado para dibujar la escalera
         for (int i = 1; i <= tam; i++) {
             for (int j = 1; j <= i; j++) {
                 System.out.print("*");  // Dibujar un asterisco
@@ -453,8 +457,7 @@ public class Ejercicios2 {
             System.out.println();  // Salto de línea al final de cada fila
         }
 
-        System.out.println("\nEscalera sin usar bucles anidados:");
-        // Usar un bucle for sin anidar para dibujar la escalera
+        System.out.println("\nEscalera usando repeat:");
         for (int i = 1; i <= tam; i++) {
             System.out.println("*".repeat(i));  // Dibujar directamente la cantidad de asteriscos usando repeat()
         }
@@ -514,45 +517,87 @@ public class Ejercicios2 {
         }
     }
 
-    // Método que dibuja una pirámide hueca
+    // Método que dibuja una pirámide hueca, con y sin bucles for
     public static void apartado29() {
         System.out.print("Introduce la altura de la pirámide: ");
         int altura = sc.nextInt();  // Leer la altura de la pirámide
 
-        // Dibujar cada fila de la pirámide
+        System.out.println("Pirámide hueca usando bucles for:");
+        for (int i = 1; i <= altura; i++) {
+            // Imprimir los espacios antes de los asteriscos
+            for (int j = 1; j <= (altura - i); j++) {
+                System.out.print(" ");
+            }
+
+            // Dibujar los asteriscos y los espacios internos
+            if (i == 1) {
+                System.out.println("*");  // El vértice superior de la pirámide
+            } else if (i == altura) {
+                // Imprimir la fila completa de asteriscos en la base
+                for (int j = 1; j <= (2 * i - 1); j++) {
+                    System.out.print("*");
+                }
+                System.out.println();
+            } else {
+                System.out.print("*");  // El primer asterisco
+                for (int j = 1; j <= (2 * i - 3); j++) {
+                    System.out.print(" ");  // Espacios internos
+                }
+                System.out.println("*");  // El último asterisco
+            }
+        }
+
+        System.out.println("\nPirámide hueca sin bucles for (usando repeat):");
         for (int i = 1; i <= altura; i++) {
             // Espacios antes de los asteriscos
             System.out.print(" ".repeat(altura - i));
 
-            // Dibujar los asteriscos (solo en los bordes o en la última fila)
+            // Dibujar los asteriscos y espacios
             if (i == 1) {
-                System.out.println("*");  // El vértice superior de la pirámide
+                System.out.println("*");  // Vértice superior
             } else if (i == altura) {
-                System.out.println("*".repeat(2 * i - 1));  // La base completa de la pirámide
+                System.out.println("*".repeat(2 * i - 1));  // Base completa
             } else {
-                System.out.println("*" + " ".repeat(2 * i - 3) + "*");  // Fila intermedia, solo con bordes
+                System.out.println("*" + " ".repeat(2 * i - 3) + "*");  // Lados de la pirámide con espacios en el medio
             }
         }
     }
 
-    // Método que dibuja una pirámide invertida
+    // Método que dibuja una pirámide invertida, con y sin bucles for
     public static void apartado30() {
         System.out.print("Introduce la altura de la pirámide invertida: ");
         int altura = sc.nextInt();  // Leer la altura de la pirámide
 
-        // Dibujar cada fila de la pirámide invertida
+        System.out.println("Pirámide invertida usando bucles for:");
         for (int i = altura; i >= 1; i--) {
-            // Espacios antes de los asteriscos
+            // Imprimir los espacios antes de los asteriscos
+            for (int j = 1; j <= (altura - i); j++) {
+                System.out.print(" ");
+            }
+
+            // Imprimir los asteriscos en cada fila
+            for (int j = 1; j <= (2 * i - 1); j++) {
+                System.out.print("*");
+            }
+
+            // Salto de línea después de cada fila
+            System.out.println();
+        }
+
+        System.out.println("\nPirámide invertida usando repeat:");
+        for (int i = altura; i >= 1; i--) {
+            // Imprimir los espacios antes de los asteriscos
             System.out.print(" ".repeat(altura - i));
 
-            // Dibujar la fila de asteriscos
-            System.out.println("*".repeat(2 * i - 1));  // El ancho disminuye en cada fila
+            // Imprimir la fila de asteriscos
+            System.out.println("*".repeat(2 * i - 1));
         }
     }
 
-    // Método que dibuja un rombo
+    // Método que dibuja un rombo, con y sin bucles for y repeat
     public static void apartado31() {
         int ancho;
+        
         // Pedir al usuario un número impar para el ancho del rombo
         do {
             System.out.print("Introduce un número impar para el ancho del rombo: ");
@@ -561,22 +606,45 @@ public class Ejercicios2 {
 
         int altura = (ancho + 1) / 2;  // Calcular la altura de la mitad del rombo
 
-        // Dibujar la parte superior (pirámide)
+        System.out.println("Rombo usando bucles for (sin repeat):");
         for (int i = 1; i <= altura; i++) {
             // Espacios antes de los asteriscos
-            System.out.print(" ".repeat(altura - i));
-
-            // Dibujar la fila de asteriscos
-            System.out.println("*".repeat(2 * i - 1));  // Ancho de la fila
+            for (int j = 1; j <= altura - i; j++) {
+                System.out.print(" ");
+            }
+            // Asteriscos
+            for (int j = 1; j <= 2 * i - 1; j++) {
+                System.out.print("*");
+            }
+            System.out.println();  // Salto de línea al final de cada fila
         }
 
-        // Dibujar la parte inferior (pirámide invertida)
+        // Dibujar la parte inferior (pirámide invertida) sin usar repeat()
         for (int i = altura - 1; i >= 1; i--) {
             // Espacios antes de los asteriscos
-            System.out.print(" ".repeat(altura - i));
+            for (int j = 1; j <= altura - i; j++) {
+                System.out.print(" ");
+            }
+            // Asteriscos
+            for (int j = 1; j <= 2 * i - 1; j++) {
+                System.out.print("*");
+            }
+            System.out.println();  // Salto de línea al final de cada fila
+        }
 
-            // Dibujar la fila de asteriscos
-            System.out.println("*".repeat(2 * i - 1));  // Ancho de la fila
+        System.out.println("\nRombo usando repeat:");
+
+        for (int i = 1; i <= altura; i++) {
+            // Espacios y asteriscos
+            System.out.print(" ".repeat(altura - i));  // Espacios
+            System.out.println("*".repeat(2 * i - 1));  // Asteriscos
+        }
+
+        // Dibujar la parte inferior (pirámide invertida) usando repeat()
+        for (int i = altura - 1; i >= 1; i--) {
+            // Espacios y asteriscos
+            System.out.print(" ".repeat(altura - i));  // Espacios
+            System.out.println("*".repeat(2 * i - 1));  // Asteriscos
         }
     }
 
