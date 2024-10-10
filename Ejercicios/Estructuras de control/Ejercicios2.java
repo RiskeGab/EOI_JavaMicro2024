@@ -1,6 +1,4 @@
-import java.util.Random;
 import java.util.Scanner;
-import java.io.IOException;
 
 public class Ejercicios2 {
 
@@ -263,7 +261,7 @@ public class Ejercicios2 {
     }
 
     // Método principal que llama a cada uno de los apartados
-    public static void main(String[] args) throws IOException {
+    public static void main(String[] args) {
         boolean ejecutando = true;  // Variable que controla si el bucle sigue ejecutándose
 
         // Mostrar un menú al usuario
@@ -280,7 +278,7 @@ public class Ejercicios2 {
                     // Llamar al método correspondiente según la opción seleccionada
                     Ejercicios2.class.getMethod("apartado" + opcion).invoke(null);
                 } catch (Exception e) {
-                    System.out.println("Error: No se encontró el apartado o ocurrió un problema.");
+                    System.out.println("Error: No se encontró el apartado o se produjo otro problema.");
                 }
             }
         }
