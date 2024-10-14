@@ -46,6 +46,7 @@ public class Empresa {
         }
     }
 
+    // ["Juan", "Jose", "Merche", "Luis", "Gabriel"];
     public void despideEmpleado(int pos) {
         for(int i=pos; i < numEmpleados - 1; i++) {
             empleados[i] = empleados[i+1];
@@ -53,6 +54,7 @@ public class Empresa {
         numEmpleados--;
     } 
 
+    // ["Juan", "Jose", "Merche", "Luis", "Gabriel"];
     public void despideEmpleado(String nombre) {
         for(int i=0; i < numEmpleados; i++) {
             if (empleados[i].getNombre().equals(nombre)) {
@@ -60,6 +62,5 @@ public class Empresa {
                 break;
             }
         }
-        numEmpleados--;
     } 
 }
