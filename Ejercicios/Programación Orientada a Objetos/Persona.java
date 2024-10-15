@@ -5,9 +5,7 @@ public class Persona {
     // Constructor: inicializa los atributos nombre y edad, valida que la edad sea no negativa
     public Persona(String nombre, int edad) {
         this.nombre = nombre;
-        if (edad >= 0) {  // Verificación de que la edad sea válida
-            this.edad = edad;
-        }
+        setEdad(edad);
     }
 
     // Constructor copia: crea una nueva Persona a partir de otra, copiando nombre y edad

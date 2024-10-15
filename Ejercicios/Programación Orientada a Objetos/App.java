@@ -149,13 +149,33 @@ public class App {
         empresa.mostrarEmpleados();
     }
 
+    /*
+     * Crea un record llamado PersonaRecord con las mismas características que la clase 
+     * Persona hasta el apartado 4 de los ejercicios de POO
+     * Crea el apartado 11 que sea igual que el apartado 4 pero utilizando 
+     * PersonaRecord en lugar de la clase Persona 
+     */
+    public static void apartado11() {
+        PersonaRecord[] personas = {
+            new PersonaRecord("Ana", 30),
+            new PersonaRecord("David", 15),
+            new PersonaRecord("Pepe", 22),
+            new PersonaRecord("Paco", 45)
+        };
+
+        // Itera sobre el array y llama al método saluda() de cada persona
+        for(PersonaRecord persona: personas) {
+            persona.saluda();
+        }
+    }
+
     // Método principal que ejecuta los apartados según la selección del usuario
     public static void main(String[] args) throws Exception {
         boolean ejecutando = true;  // Variable que controla si el bucle sigue ejecutándose
 
         // Mostrar un menú al usuario
         while (ejecutando) {
-            System.out.print("\nSeleccione el apartado a ejecutar (1-10) o 0 para salir: ");
+            System.out.print("\nSeleccione el apartado a ejecutar (1-11) o 0 para salir: ");
             int opcion = sc.nextInt();  // Leer la opción del usuario
             sc.nextLine();  // Limpiar el buffer
 
