@@ -7,6 +7,7 @@ import java.util.Scanner;
 
 public class Traductor_v1 {
     private static Map<String, String> inglesEspanol = new HashMap<>();
+    private static Map<String, String> espanolIngles = new HashMap<>();
     static Scanner scanner = new Scanner(System.in);
 
     public static void main(String[] args) {
@@ -24,6 +25,7 @@ public class Traductor_v1 {
                 String fraseEspanol = lineasEspanol.get(i);
 
                 inglesEspanol.put(fraseIngles, fraseEspanol);
+                espanolIngles.put(fraseEspanol, fraseIngles);
             }
         }
         catch (Exception e) {
@@ -36,9 +38,15 @@ public class Traductor_v1 {
         System.out.println(frase + " -> " + traduccion);
     }
 
+    private static void traducirEspanolIngles(String frase) {
+        String traduccion = espanolIngles.get(frase);
+        System.out.println(frase + " -> " + traduccion);
+    }
+
     private static void menu() {
         while(true) {
             System.out.println("1. Traducir de inglés a español");
+            System.out.println("2. Traducir de espanol a inglés");
             System.out.println("0. Salir");
             System.out.print("Elige una opción: ");
 
@@ -49,6 +57,11 @@ public class Traductor_v1 {
                     System.out.print("Introduce algo: ");
                     String fraseIngles = scanner.next();
                     traducirInglesEspanol(fraseIngles);
+                    break;
+                case "2":
+                    System.out.print("Introduce algo: ");
+                    String fraseEspanol = scanner.next();
+                    traducirEspanolIngles(fraseEspanol);
                     break;
                 case "0":
                     return;
