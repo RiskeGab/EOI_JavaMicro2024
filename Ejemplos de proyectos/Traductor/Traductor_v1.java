@@ -50,17 +50,17 @@ public class Traductor_v1 {
             System.out.println("0. Salir");
             System.out.print("Elige una opción: ");
 
-            String opcion = scanner.next();
+            String opcion = scanner.nextLine();
 
             switch(opcion) {
                 case "1":
                     System.out.print("Introduce algo: ");
-                    String fraseIngles = scanner.next();
+                    String fraseIngles = scanner.nextLine();
                     traducirInglesEspanol(fraseIngles);
                     break;
                 case "2":
                     System.out.print("Introduce algo: ");
-                    String fraseEspanol = scanner.next();
+                    String fraseEspanol = scanner.nextLine();
                     traducirEspanolIngles(fraseEspanol);
                     break;
                 case "0":
