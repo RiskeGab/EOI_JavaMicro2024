@@ -85,9 +85,17 @@ public class Traductor_v3 {
     // Método que permite seleccionar el diccionario a cargar
     private static void seleccionarDiccionario() {
         // Presenta las opciones de diccionarios
-        System.out.println("1. Naturaleza");
-        System.out.println("2. Mi propio diccionario");
-        System.out.println("3. Books");
+        System.out.println("1. Mi propio diccionario");
+        System.out.println("2. Comida y bebida");
+        System.out.println("3. Naturaleza");
+        System.out.println("4. Medicina y salud");
+        System.out.println("5. Informática");
+        System.out.println("6. Geografía e Historia");
+        System.out.println("7. Deportes");
+        System.out.println("8. Emojis");
+        System.out.println("9. Miscelanea");
+        System.out.println("10. Google material");
+        System.out.println("11. Books");
         System.out.print("Elige el diccionario: ");
 
         String opcion = scanner.nextLine();
@@ -98,37 +106,72 @@ public class Traductor_v3 {
         // Selecciona los archivos según la opción elegida
         switch(opcion) {
             case "1":
-                archivoIngles = "naturaleza.en"; 
-                archivoEspanol = "naturaleza.es";
-                break;
-            case "2":
-                archivoIngles = "Books.en-es.en"; 
-                archivoEspanol = "Books.en-es.es";
-                break;
-            case "3":
                 archivoIngles = "en.txt";
                 archivoEspanol = "es.txt";
                 break;
+            case "2":
+                archivoIngles = "comida_y_bebida.en"; 
+                archivoEspanol = "comida_y_bebida.es";
+                break;
+            case "3":
+                archivoIngles = "naturaleza.en"; 
+                archivoEspanol = "naturaleza.es";
+                break;
+            case "4":
+                archivoIngles = "medicina_y_salud.en"; 
+                archivoEspanol = "medicina_y_salud.es";
+                break;
+            case "5":
+                archivoIngles = "informatica.en"; 
+                archivoEspanol = "informatica.es";
+                break;
+            case "6":
+                archivoIngles = "geografia_e_historia.en"; 
+                archivoEspanol = "geografia_e_historia.es";
+                break;
+            case "7":
+                archivoIngles = "deportes.en"; 
+                archivoEspanol = "deportes.es";
+                break;
+            case "8":
+                archivoIngles = "emojis.en"; 
+                archivoEspanol = "emojis.es";
+                break;
+            case "9":
+                archivoIngles = "miscelanea.en"; 
+                archivoEspanol = "miscelanea.es";
+                break;
+            case "10":
+                archivoIngles = "google_material.en"; 
+                archivoEspanol = "google_material.es";
+                break;
+            case "11":
+                archivoIngles = "Books.en-es.en"; 
+                archivoEspanol = "Books.en-es.es";
+                break;
         }
-
-        // Limpia los diccionarios antes de cargar nuevos datos
-        inglesEspanol.clear();
-        espanolIngles.clear();
 
         // Carga el corpus de traducciones usando los archivos seleccionados
         cargarCorpus(archivoIngles, archivoEspanol);
         System.out.println("\nFicheros '" + archivoIngles + "' y '" + archivoEspanol + "' cargados correctamente.");
     }
 
+    // Limpia los diccionarios para cargar nuevos datos
+    private static void vaciarDiccionarios() {
+        inglesEspanol.clear();
+        espanolIngles.clear();
+    }
+
     // Método que muestra el menú de opciones para el usuario
     private static void menu() {
         while(true) {
             System.out.println("");
-            System.out.println("1. Cargar corpus");
+            System.out.println("1. Cargar diccionario");
             System.out.println("2. Traducir de inglés a español (coincidencia exacta)");
             System.out.println("3. Traducir de español a inglés (coincidencia exacta)");
             System.out.println("4. Traducir de inglés a español (usando 'contains')");
             System.out.println("5. Traducir de español a inglés (usando 'contains')");
+            System.out.println("6. Limpiar diccionarios cargados en memoria");
             System.out.println("0. Salir");
             System.out.print("Elige una opción: ");
             String opcion = scanner.nextLine();
@@ -161,6 +204,9 @@ public class Traductor_v3 {
                     System.out.print("Escribe algo en español: ");
                     fraseEspanol = scanner.nextLine();
                     traducirEspanolIngles(fraseEspanol, false);  // Traducción parcial español -> inglés
+                    break;
+                case "6":
+                    vaciarDiccionarios();  // Carga un diccionario
                     break;
                 case "0":
                     return;  // Sale del programa
