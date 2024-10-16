@@ -22,6 +22,41 @@ public class App {
         apartado1();
     }
 
+    public static void apartado3() {
+		Persona p1 = new Persona("43526346T", "Peter", 47);
+		Persona p2 = new Persona("32745786Y", "Elena", 37);
+		Persona p3 = new Persona("38365895G", "Juan", 17);
+		Persona p4 = new Persona("26374854N", "Azucena", 26);
+	    Persona[] personas = {p1, p2, p3, p4};
+	    
+	    Persona copia = new Persona(p3);
+	    copia.setNombre("Marta");
+	    
+	    for(int i = 0; i < personas.length; i++) {
+	    	if(personas[i].equals(copia)) {
+	    		System.out.println("Persona encontrada en la posición " + i);
+	    		System.out.println(personas[i]);
+	    		System.out.println(copia);
+	    	}
+	    }
+    }
+
+    public static void apartado4() {
+        Empresa emp = new Empresa("Mi empresa", new Direccion("Reyes Católicos", 15), 5);
+	    emp.addEmpleado(new Empleado("Pepe", 20000));
+	    emp.addEmpleado(new Empleado("Ana", 18000));
+	    emp.addEmpleado(new Empleado("Juan", 35000));
+	    
+	    Empresa copiaEmp = new Empresa(emp);
+	    copiaEmp.getEmpleado(0).setNombre("María");
+	    copiaEmp.getDireccion().setNumero(99);
+	    copiaEmp.addEmpleado(new Empleado("Paco", 100000));
+	    
+	    System.out.println(emp);
+	    System.out.println("----------------------");
+	    System.out.println(copiaEmp);
+    }
+
     /**
      * Crea una clase llamada Figura. Esta clase será abstracta y tendrá los
      * métodos getPerimetro y getArea como abstractos también. Crea la clase
