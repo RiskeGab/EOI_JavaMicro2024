@@ -1,0 +1,5 @@
+leche;2
+patatas;1
+tomates;2
+aceite de oliva;6
+aceitunas;3
