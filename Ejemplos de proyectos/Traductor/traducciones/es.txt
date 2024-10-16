@@ -1,0 +1,15 @@
+coche
+azul
+lápiz
+cabeza
+cara
+casa
+puerta
+berenjena
+pepino
+perro
+vaso
+teclado
+hombre
+mujer
+negro
