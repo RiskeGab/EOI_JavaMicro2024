@@ -1,0 +1,58 @@
+import java.nio.file.Files;
+import java.nio.file.Paths;
+import java.util.HashMap;
+import java.util.List;
+import java.util.Map;
+import java.util.Scanner;
+
+public class Traductor_v1 {
+    private static Map<String, String> inglesEspanol = new HashMap<>();
+    static Scanner scanner = new Scanner(System.in);
+
+    public static void main(String[] args) {
+        cargarCorpus("en.txt", "es.txt");
+        menu();
+    }
+
+    private static void cargarCorpus(String archivoIngles, String archivoEspanol) {
+        try {
+            List<String> lineasIngles = Files.readAllLines(Paths.get("traducciones/" + archivoIngles));
+            List<String> lineasEspanol = Files.readAllLines(Paths.get("traducciones/" + archivoEspanol));
+
+            for (int i=0; i < lineasIngles.size(); i++) {
+                String fraseIngles = lineasIngles.get(i);
+                String fraseEspanol = lineasEspanol.get(i);
+
+                inglesEspanol.put(fraseIngles, fraseEspanol);
+            }
+        }
+        catch (Exception e) {
+            System.out.println("Error al leer ficheros" + e.getMessage());
+        }
+    }
+
+    private static void traducirInglesEspanol(String frase) {
+        String traduccion = inglesEspanol.get(frase);
+        System.out.println(frase + " -> " + traduccion);
+    }
+
+    private static void menu() {
+        while(true) {
+            System.out.println("1. Traducir de inglés a español");
+            System.out.println("0. Salir");
+            System.out.print("Elige una opción: ");
+
+            String opcion = scanner.next();
+
+            switch(opcion) {
+                case "1":
+                    System.out.print("Introduce algo: ");
+                    String fraseIngles = scanner.next();
+                    traducirInglesEspanol(fraseIngles);
+                    break;
+                case "0":
+                    return;
+            }
+        }
+    }
+}
