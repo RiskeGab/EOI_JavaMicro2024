@@ -85,8 +85,9 @@ public class Traductor_v3 {
     // Método que permite seleccionar el diccionario a cargar
     private static void seleccionarDiccionario() {
         // Presenta las opciones de diccionarios
-        System.out.println("1. Books");
+        System.out.println("1. Naturaleza");
         System.out.println("2. Mi propio diccionario");
+        System.out.println("3. Books");
         System.out.print("Elige el diccionario: ");
 
         String opcion = scanner.nextLine();
@@ -97,10 +98,14 @@ public class Traductor_v3 {
         // Selecciona los archivos según la opción elegida
         switch(opcion) {
             case "1":
+                archivoIngles = "naturaleza.en"; 
+                archivoEspanol = "naturaleza.es";
+                break;
+            case "2":
                 archivoIngles = "Books.en-es.en"; 
                 archivoEspanol = "Books.en-es.es";
                 break;
-            case "2":
+            case "3":
                 archivoIngles = "en.txt";
                 archivoEspanol = "es.txt";
                 break;
