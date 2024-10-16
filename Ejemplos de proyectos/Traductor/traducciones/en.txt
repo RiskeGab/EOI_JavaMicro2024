@@ -1,0 +1,15 @@
+car
+blue
+pencil
+head
+face
+house
+door
+eggplant
+cucumber
+dog
+glass
+keyboard
+man
+woman
+black
