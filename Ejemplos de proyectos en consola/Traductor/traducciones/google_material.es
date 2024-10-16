@@ -1,5162 +1,5098 @@
 línea base 10k
-basal
+base
 10k
-av
+AV
 general
-línea base 10mp
-10mp
+Línea base 10mp
+10 megapíxeles
 imagen
-línea de base 11mp
-11mp
+Línea base 11mp
+11 megapíxeles
 acción
-línea de base 12mp
-12mp
-línea de base 13mp
-13mp
-línea base 14mp
-14mp
-línea de base 15mp
-15mp
-línea de base 16mp
-16mp
-línea base 17mp
-17mp
-Valoración al alza de 18 puntos de referencia
+línea base 12mp
+12 megapíxeles
+Línea base 13mp
+13 megapíxeles
+Línea base 14mp
+14 megapíxeles
+Línea base 15mp
+15 megapíxeles
+Línea base 16mp
+16 megapíxeles
+Línea base 17mp
+17 megapíxeles
+línea base 18 arriba calificación
 arriba
-calificación
+clasificación
 social
-línea de base 18mp
-18mp
-línea de base 19mp
-19mp
+Línea base 18mp
+18 megapíxeles
+Línea base 19mp
+19 megapíxeles
 línea base 1k
 1k
-línea base 1k plus
+línea base 1k más
 más
-línea de base 1x mobiledata
+Línea base 1x datos móviles
 1x
-móvildata
+datos móviles
 dispositivo
-línea de base 20mp
-20mp
-línea base 21mp
-21mp
-línea de base 22mp
-22mp
-línea de base 23mp
-23mp
-línea base 24mp
-24mp
+Línea base 20mp
+20 megapíxeles
+Línea base 21mp
+21 megapíxeles
+Línea base 22mp
+22 megapíxeles
+Línea base 23mp
+23 megapíxeles
+Línea base 24mp
+24 megapíxeles
 línea base 2k
 2k
-línea de base 2k plus
+Línea base 2k más
 línea base 2mp
-2mp
-línea de base 30fps
-30fps
-línea base 30fps seleccionar
+2 megapíxeles
+línea base 30 fps
+30 fps
+Línea base 30 fps seleccionar
 seleccionar
 mapas
-línea de base 3d rotación
-3d
+rotación 3d de línea base
+3 dimensiones
 rotación
-línea de base 3g mobiledata
+datos móviles 3g de línea base
 3g
 línea base 3k
 3k
-línea de base 3k plus
-línea de base 3mp
-3mp
+Línea base 3k más
+línea base 3mp
+3 megapíxeles
 línea base 3p
 3p
 comunicación
-línea de base 4g mobiledata
+datos móviles 4g de línea base
 4g
-línea de base 4g plus mobiledata
+Línea base 4G más datos móviles
 línea base 4k
 4k
-línea base 4k plus
-línea base 4mp
-4mp
+Línea base 4k plus
+Línea base 4mp
+4 megapíxeles
 línea base 5g
 5g
 línea base 5k
 5k
-línea de base 5k plus
+Línea base 5k más
 línea base 5mp
-5mp
-línea de base 6 pies aparte
-ft
-apart
-línea de base 60fps
-60fps
-línea base 60fps seleccionar
-línea base 6k
+5 megapíxeles
+línea base a 6 pies de distancia
+pie
+aparte
+línea base 60 fps
+60 fps
+Línea base 60 fps seleccionar
+Línea base 6k
 6k
-línea de base 6k plus
-línea de base 6mp
-6mp
-línea base 7k
+Línea base 6k más
+Línea base 6mp
+6 megapíxeles
+Línea base 7k
 7k
-línea base 7k plus
-línea base 7mp
-7mp
+Línea base 7k más
+Línea base 7mp
+7 megapíxeles
 línea base 8k
 8k
-línea base 8k plus
-línea de base 8mp
-8mp
-línea base 9k
+Línea base 8k plus
+línea base 8mp
+8 megapíxeles
+Línea base 9k
 9k
-línea de base 9k plus
-línea base 9mp
-9mp
-línea de base abc
-abc
-unidad de CA de línea base
-ac
+Línea base 9k más
+Línea base 9mp
+9 megapíxeles
+Línea base abc
+abecedario
+unidad de aire acondicionado de línea base
+C.A
 unidad
 lugares
-alarma de acceso de línea base
+Alarma de acceso de línea base
 acceso
 alarma
-alarmas de acceso de línea base
-alarmas
-tiempo de acceso inicial
+Alarmas de acceso de línea base
+Alarmas
+tiempo de acceso de referencia
 tiempo
-tiempo de acceso inicial llenado
-llenado
-accesibilidad basal
+tiempo de acceso de línea base completado
+completado
+accesibilidad de línea base
 accesibilidad
-accesibilidad de línea de base nueva
+nueva accesibilidad de línea base
 nuevo
-línea de base accesible
-Accesible
-línea de base accesible hacia adelante
-hacia adelante
-saldo de cuenta de referencia
+línea base accesible
+accesible
+Línea base accesible hacia adelante
+adelante
+saldo de cuenta base
 cuenta
 balance
-cartera de saldo de la cuenta de línea de base
-cartera
+saldo de cuenta base de la billetera
+billetera
 caja de cuenta de línea base
-recuadro
+caja
 círculo de cuenta de línea base
 círculo
-árbol de cuenta de línea base
+árbol de cuentas de línea base
 árbol
 notificación
-ad units de línea de base
-ad
+Unidades de anuncios de línea base
+anuncio
 unidades
 línea base adb
-adb
-línea de base añadir
-añadir
+BAD
+línea base añadir
+agregar
 contenido
-añadir una foto
+Línea base añadir una foto
 a
 foto
-línea de base añadir alarma
-línea de base añadir alerta
+línea base añadir alarma
+línea base agregar alerta
 alerta
-línea de base añadir caja
-línea de base añadir negocio
-negocios
-línea de base añadir tarjeta
+cuadro de agregar línea base
+Línea base para agregar negocio
+negocio
+Añadir tarjeta de línea base
 tarjeta
-gráfico de suma de línea base
-gráfico
+gráfico de adición de línea base
+cuadro
 editor
-línea de base añadir círculo
-línea de base añadir contorno de círculo
-esquema
-línea de base añadir comentario
+Línea base añadir círculo
+Línea base añadir contorno circular
+describir
+línea base añadir comentario
 comentario
-línea de base añadir a casa
-Inicio
-línea de base añadir trabajo en casa
-trabajo
+Línea base para agregar una página de inicio
+hogar
+línea base añadir tarea para casa
+trabajar
 navegación
-línea de base add ic call
-ic
-llamada
-línea de base añadir enlace
+línea base añadir llamada ic
+yo
+llamar
+Agregar enlace de línea base
 enlace
-línea de base añadir ubicación
+ubicación de adición de línea base
 ubicación
 alt
-línea de base añadir moderador
-Moderador
-línea de base añadir foto alternativa
+línea base añadir moderador
+moderador
+Línea base Agregar foto alternativa
 alternar
-reacción de adición basal
+reacción de adición de línea base
 reacción
-línea de base add road
-carretera
-añadir carrito de la compra
+línea base añadir carretera
+camino
+Línea base Agregar carrito de compras
 compras
-carrito
-línea de base agregar tarea
+carro
+Tarea de adición de línea base
 tarea
-añadir a la unidad
+línea base agregar a la unidad
 a
 conducir
-añadir a la pantalla de inicio
+Línea base agregar a la pantalla de inicio
 pantalla
-añadir a las fotos
+línea base añadir a fotos
 fotos
-línea de base añadir a la cola
+línea base agregar a la cola
 cola
-línea de base addchart
-addchart
-escáner adf de línea de base
-adf
+gráfico de adición de línea base
+añadir gráfico
+escáner adf de línea base
+Adf
 escáner
 hardware
-ajuste inicial
+ajuste de línea base
 ajustar
-configuración del panel de administración inicial
-admin
+configuración básica del panel de administración
+administración
 panel
 ajustes
-adobe basal
+línea base de adobe
 adobe
-Haga clic en los anuncios de línea de base
+anuncios de línea base clic
 anuncios
-haga clic
-agricultura de referencia
+hacer clic
+agricultura de base
 agricultura
-línea de base aérea
+aire de línea base
 aire
-asiento plano de línea aérea de línea base
-línea aérea
+Asiento de avión plano de línea base
+aerolínea
 asiento
-plano
-línea base asiento de línea aérea angulado
-angulado
-suite individual con asiento de línea aérea de línea base
+departamento
+Asiento de avión de línea base plano en ángulo
+angular
+Asiento de avión de línea base, suite individual
 individual
 suite
-asiento de línea aérea de línea base extra espacio para las piernas
+Asiento de avión básico con espacio adicional para las piernas
 espacio para las piernas
-extras
-asiento de línea aérea de referencia con espacio para las piernas normal
+extra
+Asiento de avión con espacio para las piernas normal
 normal
-asiento de línea aérea de línea base con espacio reducido para las piernas
+Asiento de avión básico con espacio para las piernas reducido
 reducido
-línea aérea de línea base asiento reclinable extra
+Asiento de avión de línea base con reclinación adicional
 reclinar
-línea aérea de referencia asiento reclinable normal
-líneas aéreas de línea base se detiene
-paradas
-líneas aéreas de línea base
-líneas aéreas
+Asiento de avión con reclinación normal
+escalas de líneas aéreas de referencia
+se detiene
+aerolíneas de línea base
+aerolíneas
 billete de avión de línea base
 avión
-ticket
-línea base airlinemode active
-avionmode
+boleto
+modo avión de línea base activo
+modo avión
 activo
-línea base aeromode inactivo
+modo avión de línea base inactivo
 inactivo
-línea de base airplay
-airplay
-Línea base de transporte al aeropuerto
+emisión de línea base
+salida en antena
+servicio de transporte al aeropuerto de línea base
 aeropuerto
 lanzadera
-alarma de línea de base
-alarma de línea de base añadir
-alarma de línea de base apagada
+Alarma de línea base
+añadir alarma de línea base
+Alarma de línea base desactivada
 apagado
-alarma de línea de base
-on
-álbum de línea base
+Alarma de línea base activada
+en
+Álbum de referencia
 álbum
-línea de base alinear centro horizontal
+Línea base alineada al centro horizontal
 alinear
 horizontal
 centro
-línea de base alinear horizontal izquierda
+Línea base alineada horizontalmente a la izquierda
 izquierda
-línea de base alinear horizontal derecha
-derecha
-línea de base alinear fondo vertical
+Línea base alineada horizontalmente a la derecha
+bien
+Línea base alineada verticalmente hacia abajo
 vertical
-fondo
-línea de base alinear centro vertical
-línea de base alinear vertical superior
-parte superior
-línea de base toda la bandeja de entrada
-todos
+abajo
+Línea base alineada al centro vertical
+Línea base alineada verticalmente hacia arriba
+arriba
+Bandeja de entrada básica para todos
+todo
 bandeja de entrada
-línea de base all inclusive
+Línea base todo incluido
 inclusivo
-línea de base all out
-fuera
-línea de base alt ruta
+Línea base con todo incluido
+afuera
+ruta alternativa de línea base
 ruta
-línea de base alternativa de correo electrónico
+correo electrónico alternativo de línea base
 correo electrónico
-historias de amp de línea de base
-amp
+Historias de amplificadores básicos
+amperio
 historias
 análisis de línea base
-analytics
+analítica
 ancla de línea base
-anclar
-línea de base androide
-android
-animación de línea de base
+ancla
+Android de línea base
+androide
+animación de línea base
 animación
-anuncio de línea de base
+anuncio de línea base
 anuncio
-línea de base aod
-aod
-apartamento de línea de base
-apartamento
-línea de base api
+línea base aod
+AOD-A ...
+Apartamento de línea base
+departamento
+API de línea base
 api
-bloqueo de la aplicación de línea de base
-app
+bloqueo de aplicaciones de línea base
+aplicación
 bloqueo
-registro de aplicación de línea de base
+registro de aplicación de línea base
 registro
-configuración de la aplicación de línea de base
-acceso directo de la aplicación de línea de base
-acceso directo
-línea de base manzana
+configuración básica de la aplicación
+acceso directo a la aplicación de línea base
+atajo
+manzana de línea base
 manzana
-aprobación de línea de base
+aprobación de línea base
 aprobación
 archivo
-aplicaciones de línea de base
-apps
-apagón de aplicaciones de línea de base
-apagón
-arquitectura de línea de base
+aplicaciones de línea base
+aplicaciones
+interrupción de aplicaciones de línea base
+corte
+arquitectura de línea base
 arquitectura
 archivo de línea base
 archivo
-gráfico de área de línea base
+gráfico de área de referencia
 área
 flecha de línea base hacia atrás
 flecha
 atrás
-línea de base flecha hacia atrás ios
-ios
-línea de base flecha hacia atrás ios nuevo
-línea de base círculo de flecha hacia abajo
+flecha de línea base hacia atrás ios
+iOS
+línea base flecha atrás ios nuevo
+Flecha de línea base círculo hacia abajo
 abajo
-línea de base círculo flecha izquierda
-línea de base círculo flecha derecha
-círculo de flecha de línea de base hacia arriba
-línea de base flecha hacia abajo
+flecha de línea base círculo hacia la izquierda
+flecha de línea base círculo hacia la derecha
+Flecha de línea base círculo hacia arriba
+flecha de línea base hacia abajo
 hacia abajo
-línea de base flecha desplegable
+Flecha de línea base desplegable
 gota
-flecha de línea de base círculo desplegable
-línea de base flecha gota hacia arriba
+Línea base flecha círculo desplegable
+Flecha de línea base desplegable hacia arriba
 flecha de línea base hacia adelante
-línea de base flecha hacia adelante ios
-línea de base flecha izquierda
-línea de base flecha hacia afuera
-hacia fuera
-línea de base flecha derecha
-línea de base flecha hacia arriba
+flecha de línea base hacia adelante ios
+flecha de línea base hacia la izquierda
+flecha de línea base hacia afuera
+exterior
+flecha de línea base hacia la derecha
+flecha de línea base hacia arriba
 hacia arriba
-línea de base track de arte
+pista de arte de línea base
 arte
 pista
 artículo de referencia
 artículo
-relación de aspecto basal
+relación de aspecto de línea base
 aspecto
 relación
-evaluación basal
+evaluación de referencia
 evaluación
-asignación de línea de base
+asignación de línea base
 asignación
-asignación de línea de base ind
-ind
-asignación de línea de base tardía
+asignación de línea base ind
+Indiana
+Asignación de línea base con retraso
 tarde
 retorno de asignación de línea base
-volver
-asignación de línea base devuelta
+devolver
+Asignación de línea base devuelta
 devuelto
-asignación de línea de base entregada
-volteado
+Tarea de referencia entregada
+transformado
 en
-línea de base asistente andador
-ayudar
-andador
-asistente de línea de base
+Andador con asistencia de línea base
+asistir
+caminante
+asistente de línea base
 asistente
-línea de base asistente de dirección
+Dirección de asistente de línea base
 dirección
-línea de base asistente foto
-carga de trabajo garantizada de línea de base
-Asegurado
+Foto del asistente de línea base
+Carga de trabajo asegurada de referencia
+seguro
 carga de trabajo
-atm basal
-atm
-línea de base adjuntar correo electrónico
+cajero automático de línea base
+cajero automático
+línea base adjuntar correo electrónico
 adjuntar
-línea de base adjuntar archivo
-línea de base adjuntar dinero
+archivo adjunto de línea base
+línea base adjuntar dinero
 dinero
-fijación basal
+archivo adjunto de línea base
 adjunto
-atracciones de línea de base
+atracciones de base
 atracciones
-atribución de línea de base
+atribución de línea base
 atribución
-archivo de audio básico
+archivo de audio de línea base
 audio
-audiotrack de línea base
-audiopista
-línea de base auto impresionante
+pista de audio de línea base
+pista de audio
+Línea base automática impresionante
 auto
 impresionante
-línea base auto impresionante mosaico
+Línea base automática impresionante mosaico
 mosaico
-línea de base auto impresionante movimiento
-moción
-línea de base auto eliminar
+Línea base de movimiento automático impresionante
+movimiento
+eliminación automática de línea base
 borrar
-línea de base auto fix alta
-fijar
+línea base de corrección automática alta
+arreglar
 alto
-línea de base auto fix normal
-línea de base auto fix off
-línea de base auto graph
+línea base corrección automática normal
+Corrección automática de línea base desactivada
+gráfico automático de línea base
 gráfico
-modo automático de línea de base
+modo automático de línea base
 modo
-Historias automáticas de línea de base
-línea base autofps select
-autofps
-línea de base autorenew
-autorenew
-Temporizador av de línea base
-temporizador
-estación de cambio de bebé de línea base
+Historias de autos de línea base
+Selección automática de FPS de línea base
+FPS automático
+renovación automática de línea base
+renovación automática
+temporizador av de línea base
+minutero
+Estación cambiadora de pañales de referencia
 bebé
-cambiar
+cambio
 estación
-línea de base espalda mano
+mano de atrás de línea base
 mano
-mochila de línea de base
+Mochila de línea base
 mochila
-backspace de línea base
-backspace
-copia de seguridad básica
-copia de seguridad
-tabla de copia de seguridad básica
-tabla
+Retroceso de línea base
+retroceso
+copia de seguridad de línea base
+respaldo
+tabla de respaldo de línea base
+mesa
 insignia de línea base
 insignia
-línea de base panadería comedor
+Comedor de panadería de línea base
 panadería
-comedor
-balance basal
-balcón de línea de base
+comida
+Saldo base
+Balcón de línea base
 balcón
-boleta de línea base
-papeleta
-gráfico de barras
+boleta de votación de base
+votación
+gráfico de barras de línea base
 bar
 código de barras de línea base
 código de barras
-Predicción de lote de línea base
+predicción de lote de referencia
 lote
 predicción
 baño de línea base
 baño
 buscar
-bañera de línea de base
+bañera de línea base
 bañera
-batería de línea base 0 bar
+batería de referencia 0 bar
 batería
-batería de línea base 1 bar
-batería de línea base 2 bar
-batería de línea de base
-batería de línea base 3 bar
-batería de línea base 4 bar
-batería de línea base 5 bar
-batería de línea base 6 bar
-Alerta de batería de línea base
-carga de batería de línea base
-carga
-carga completa de la batería de línea de base
+batería de referencia 1 barra
+batería de referencia 2 barras
+batería de base
+batería de referencia 3 barras
+batería base 4 bar
+batería de referencia 5 bar
+Batería base 6 bar
+alerta de batería de referencia
+carga de batería de referencia
+cargando
+La batería de referencia se está cargando por completo
 lleno
-Batería de línea base llena
+batería de referencia llena
 ahorro de batería de línea base
 ahorrador
-batería de línea de base std
-std
-batería de línea base desconocida
-Desconocido
-acceso a la playa
+batería de referencia estándar
+ETS
+batería de base desconocida
+desconocido
+acceso a la playa de referencia
 playa
-lecho basal
+cama de línea base
 cama
-línea de base dormitorio bebé
+dormitorio base bebe
 dormitorio
-línea de base dormitorio niño
+dormitorio infantil de linea base
 niño
-línea de base dormitorio padre
+dormitorio base para padres
 padre
-hora de acostarse inicial
+hora de acostarse de referencia
 hora de acostarse
-hora de dormir base off
-línea de base behere
-ha estado aquí
-línea de base bento
-bento
-scooter de bicicleta de línea
+Hora de acostarse de referencia
+Línea base estado aquí
+estado aquí
+bento de base
+Bento
+scooter de bicicleta de línea base
 bicicleta
 scooter
-línea de base biotecnológica
-biotech
-mezclador de línea base
+biotecnología de base
+biotecnología
+Licuadora de línea base
 licuadora
-línea de base ciega
-a ciegas
+Línea base ciega
+ciego
 persianas de línea base
 persianas
 persianas de línea base cerradas
 cerrado
-Bloqueo basal
-bloque
+bloque de línea base
+bloquear
 tipo de sangre basal
 tipo de sangre
 línea base bluetooth
-bluetooth
-línea base de audio bluetooth
-línea base bluetooth conectado
+Bluetooth
+audio bluetooth de línea base
+línea base bluetooth conectada
 conectado
-línea base bluetooth desactivado
-discapacitado
-unidad bluetooth de línea de base
-búsqueda bluetooth de línea base
+Bluetooth de línea base deshabilitado
+desactivado
+unidad bluetooth de línea base
+búsqueda de línea base de bluetooth
 búsqueda
-línea de base desenfoque circular
-desenfoque
+Desenfoque de línea base circular
+difuminar
 circular
-línea de base desenfoque lineal
+Desenfoque de línea base lineal
 lineal
-desenfoque de línea de base apagado
-desenfoque de línea de base activado
+Desenfoque de línea base desactivado
+Desenfoque de línea base activado
 perno de línea base
-perno
-libro de línea de base
+tornillo
+libro de referencia
 libro
-libro de línea base en línea
+libro de referencia en linea
 en línea
 marcador de línea base
 marcador
-marcador de línea base añadir
-marcador de línea de base añadido
-añadido
+Agregar marcador de línea base
+Marcador de línea base añadido
+agregado
 borde de marcador de línea base
-frontera
-Marcador de línea base eliminar
+borde
+eliminar marcador de línea base
 eliminar
 marcadores de línea base
-Marcadores
-línea de base border all
-línea de base borde inferior
-borde de línea de base claro
+marcadores
+borde de línea base todo
+borde de línea base inferior
+Borde de línea base claro
 claro
-color de borde de línea base
+color del borde de la línea base
 color
-línea de base borde horizontal
-frontera de línea de base interior
-interior
-línea de base borde izquierdo
-borde de línea de base exterior
+borde de línea base horizontal
+borde interior de la línea base
+interno
+borde de línea base a la izquierda
+borde de línea base exterior
 exterior
-línea de base borde derecha
+borde de línea base derecho
 estilo de borde de línea base
 estilo
-línea de base border top
-línea de base borde vertical
-niño de línea de base
-niño
-marca de agua de marca de línea
-branding
-marca de agua
-comedor de desayuno de línea base
+borde de línea base superior
+borde de línea base vertical
+chico de linea base
+chico
+marca de agua de marca de línea base
+herrada
+filigrana
+Desayuno básico para cenar
 desayuno
-Brillo de línea base
+brillo de línea base
 brillo
-brillo de línea de base auto
-Brillo de línea de base alto
-Brillo basal bajo
+brillo de línea base automático
+brillo de línea base alto
+brillo de línea base bajo
 bajo
-medio de brillo de línea base
+brillo de línea base medio
 medio
-línea de base en casa
-broadcast
-línea de base difusión en personal
+transmisión de línea base en casa
+transmisión
+Transmisión de línea base en forma personal
 personal
-línea de base imagen rota
-quebrado
-línea de base navegar galería
+imagen rota de línea base
+roto
+galería de exploración de línea base
 navegar
 galería
-No se admite el navegador de línea base
+El navegador de línea base no es compatible
 navegador
 no
 apoyado
-navegador de línea de base actualizado
+Navegador de línea base actualizado
 actualizado
-cena de brunch de línea base
-brunch
-cepillo de línea base
-cepillo
-gráfico de burbujas
+cena de brunch de base
+desalmuerzo
+pincel de línea base
+cepillar
+gráfico de burbujas de línea base
 burbuja
 informe de error de línea base
-bug
+bicho
 informe
-construcción de línea de base
+construcción de línea base
 construir
-círculo de construcción de línea de base
-bungalow de línea de base
+círculo de construcción de línea base
+Bungalow de línea base
 bungalow
-modo de ráfaga de línea base
+modo ráfaga de línea base
 explosión
-línea base de alerta de autobús
+alerta de bus de línea base
 autobús
-negocio de línea de base
-centro de negocios
-cabina de línea base
-camarote
+negocio de línea base
+centro de negocios de línea base
+cabina de referencia
+cabina
 cable de línea base
 cable
-línea de base almacenada en caché
-cacheado
-torta de línea de base
+línea base almacenada en caché
+en caché
+pastel de base
 pastel
-línea de base calcular
+cálculo de línea base
 calcular
-mes calendario base
+mes del calendario base
 calendario
 mes
-calendario de línea de base hoy
+calendario base hoy
 hoy
-día de vista de calendario de línea base
+Vista del calendario de referencia por día
 vista
 día
-mes de vista de calendario de línea base
-semana de vista de calendario de línea base
+Vista del calendario de referencia mensual
+vista de calendario de referencia semanal
 semana
-llamada de línea de base
-final de llamada de línea de base
+llamada de línea base
+Fin de la llamada de línea base
 fin
-llamada de línea de base realizada
+Se realizó una llamada de referencia
 hecho
-fusión de llamada de línea base
-merge
-llamada de línea de base perdida
-perdido
-llamada de línea de base perdida saliente
+fusión de llamadas de línea base
+unir
+llamada de línea base perdida
+omitido
+Llamada de línea base perdida saliente
 extrovertido
 llamada de línea base recibida
-recibido
-División de llamada de línea base
-división
-Llamada a la acción
-cámara de línea de base
+recibió
+división de llamadas de línea base
+dividir
+Llamada a la acción de referencia
+cámara de línea base
 cámara
-cámara de línea de base realzar
+Mejora de la cámara de línea base
 mejorar
-frente de cámara de línea de base
+Cámara de línea base frontal
 frente
-cámara de línea de base interior
+Cámara de referencia para interiores
 interior
-cámara de línea de base al aire libre
-al aire libre
-cámara de línea de base trasera
+Cámara de referencia para exteriores
+exterior
+cámara de referencia trasera
 trasero
-rollo de cámara de línea de base
+carrete de cámara de referencia
 rollo
-línea de base cameraswitch
-cameraswitch
-campaña de línea de base
+interruptor de cámara de línea base
+interruptor de cámara
+campaña de línea base
 campaña
-línea de base cancelar
+cancelación de línea base
 Cancelar
-línea de base cancelar presentación
+Cancelar presentación de línea base
 presentación
-línea base cancelar horario enviar
-horario
+línea base cancelar programar enviar
+cronograma
 enviar
 gráfico de velas de línea base
-candelabro
+candelero
 accidente de coche de línea base
-coche
-accidente
-alquiler de coches
+auto
+chocar
+Alquiler de coches de línea base
 alquiler
-reparación de automóviles de línea de base
-reparación
-tarjeta de línea de base
-tarjeta de regalo
-Membresía de tarjeta de línea de base
-Membresía
-viaje de la tarjeta de línea de base
-viajes
+reparación básica de automóviles
+reparar
+Tarjeta de regalo de línea base
+Tarjeta de regalo
+tarjeta de membresía de línea base
+afiliación
+Tarjeta de viaje de línea base
+viajar
 carpintero de línea base
 carpintero
 casos de referencia
 casos
-casino de línea de base
+casino de linea base
 casino
-lanzamiento de línea de base
-yeso
-línea de base fundido conectado
-Reparto de línea de base para la educación
-por
+elenco de línea base
+elenco
+Lanzamiento de línea base conectado
+Reparto de referencia para la educación
+para
 educación
-castillo de línea de base
+Castillo de línea base
 castillo
-línea de base captura pokemon
-captura
-pokemon
-categoría de referencia
+captura de pokemon de linea base
+atractivo
+Pokémon
+categoría de línea base
 categoría
-celebración de línea de base
+celebración de base
 celebración
-torre celular de línea de base
-celda
+torre celular de línea base
+celúla
 torre
-línea base celular wifi
-wifi
-foco central de línea de base fuerte
-enfoque
+Wifi celular de línea base
+Wifi
+Línea base, foco central fuerte
+enfocar
 fuerte
 foco central de línea base débil
 débil
-silla de línea de base
+silla de línea base
 silla
-chalet de línea de base
+chalet de linea base
 chalet
 círculo de cambio de línea base
 cambiar
-historia del cambio de línea de base
+historial de cambios de línea base
 historia
 estación de carga de línea base
-chat de línea base
-chat
-burbuja de chat de línea de base
-línea de base de burbuja de chat
-control basal
-comprobar
-casilla de verificación de línea base
-alternar
-línea de base casilla de verificación contorno en blanco
-en blanco
-línea de base círculo de verificación
-línea de base cheque círculo contorno
+Chat de línea base
+charlar
+Burbuja de chat de línea base
+esquema de burbuja de chat de línea base
+comprobación de línea base
+controlar
+Casilla de verificación de línea base
+palanca
+Casilla de verificación de línea base en blanco
+blanco
+círculo de verificación de línea base
+contorno del círculo de verificación de línea base
 lista de verificación de referencia
-lista de comprobación
+Lista de verificación
 lista de verificación de línea base rtl
-rtl
-sala de control de línea base
-sala de cheques
-baseline chevron left
-chevron
-línea base chevron derecha
-cuidado infantil básico
+derecho
+guardarropa de línea base
+guardarropa
+línea base cheurón izquierda
+cheurón
+línea base cheurón derecha
+Cuidado infantil básico
 cuidado
-línea de base amigable para niños
+Línea base amigable para niños
 amigable
-modo de lector de cromo básico
+Modo de lectura de Chrome de línea base
 cromo
 lector
-iglesia de línea de base
+iglesia de base
 iglesia
 círculo de línea base
-Notificaciones de círculo de línea base
+notificaciones del círculo de referencia
 notificaciones
 clase de línea base
 clase
-línea de base manos limpias
+Manos limpias de referencia
 limpio
 manos
-servicios de limpieza de línea base
+servicios de limpieza de base
 limpieza
 servicios
-línea de base clara
-línea de base clear all
-línea de base close
-cerrar
-línea de base cerrar pantalla completa
+línea base clara
+Línea base borrar todo
+cierre de línea base
+cerca
+Línea base cerrar pantalla completa
 pantalla completa
-línea de base closed caption
+subtítulos cerrados de línea base
 subtítulo
-título cerrado de línea de base deshabilitado
-línea de base closed caption off
+subtítulos cerrados de línea base desactivados
+subtítulos cerrados de línea base desactivados
 nube de línea base
 nube
-círculo de nube de línea base
-nube de línea de base hecho
+círculo de nubes de línea base
+Nube de línea base realizada
 hecho
-descarga de nube de línea de base
+Descarga de la nube de referencia
 descargar
-nube de línea de base apagado
-cola de nube de línea de base
+Nube de línea base apagada
+cola de nubes de línea base
 sincronización de nube de línea base
-Sincronizar
-carga en la nube de línea de base
+sincronizar
+Carga de la nube de referencia
 subir
-línea de base co presente
+línea base co-presente
 co
 presente
-línea base CO2
+CO2 de referencia
 CO2
 código de línea base
 código
-código de línea de base off
-café de línea base
+código de línea base desactivado
+café de base
 café
-cafetera de línea de base
+Cafetera de línea base
 fabricante
-colecciones de línea de base
+colecciones de línea base
 colecciones
 Marcador de colecciones de línea base
-lente de color de línea de base
+lente de color de línea base
 lente
-colorizar la línea de base
+coloración de línea base
 colorear
-comentario de línea de base
-banco de comentarios
+Comentario de base
+banco de comentarios de línea base
 banco
-comentarios de línea de base desactivados
+Comentarios de línea base deshabilitados
 comentarios
-commit de línea de base
-comprométete
-línea de base commute
-conmutar
-línea de base comparar
+compromiso de línea base
+comprometerse
+viaje base
+desplazarse
+comparación de línea base
 comparar
-línea de base comparar flechas
+flechas de comparación de línea base
 flechas
-calibración de brújula de línea base
-compás
+calibración de brújula de referencia
+brújula
 calibración
-compost de línea base
+compost de base
 compost
-línea de base compress
+compresión de línea base
 comprimir
-ordenador de línea de base
-ordenador
-número de confirmación de la línea de base
+computadora de línea base
+computadora
+número de confirmación de línea base
 confirmación
 número
-conexión de línea base sin contacto
+Conexión de línea base sin contacto
 conectar
 sin
 contacto
-línea base de televisión conectada
-TV
-línea de base que conecta aeropuertos
-conectando
+TV conectada de línea base
+televisor
+línea base que conecta aeropuertos
+Conectando
 aeropuertos
-construcción de línea de base
+construcción de línea base
 construcción
-emergencia de contacto de línea de base
+Contacto de línea base de emergencia
 emergencia
-correo de contacto de línea base
+Correo electrónico de contacto de línea base
 correo
-página de contacto básica
+Página de contacto de línea base
 página
-teléfono de contacto de línea base
+Teléfono de contacto de referencia
 teléfono
-soporte de contacto de línea base
+Soporte de contacto de línea base
 apoyo
-línea de base contactless
-sin contacto
+Línea base sin contacto
+Sin contacto
 contactos de línea base
 contactos
 copia de contenido de línea base
-copia
-corte de contenido de línea base
-corte
-pasta de contenido de línea de base
+Copiar
+contenido de base recortado
+cortar
+pegar contenido de línea base
 pasta
-Contenido de la línea de base
+pegar contenido de línea base ir
 ir
-pegar el contenido de la línea de base
-búsqueda de pegado de contenido de línea base
-contraste basal
+pegar contenido de línea base
+búsqueda de pegar contenido de línea base
+contraste de línea base
 contraste
 cámara de control de línea base
 control
-punto de control basal
+punto de control de línea base
 punto
-duplicado del punto de control basal
+punto de control de línea base duplicado
 duplicado
-cookie de línea de base
-cookie
-línea de base copiar todo
+galleta de base
+galleta
+copia de línea base todo
 derechos de autor de línea base
 derechos de autor
-coronavirus basal
+coronavirus de base
 coronavirus
-tarifa corporativa de línea de base
+Tarifa corporativa básica
 corporativo
 tarifa
-casa de campo de línea de base
-casa de campo
+cabaña de línea base
+cabaña
 encimeras de línea base
 encimeras
-línea de base create
+crear línea base
 crear
-línea de base crear nueva carpeta
+línea base crear nueva carpeta
 carpeta
-tarjeta de crédito
+Tarjeta de crédito de línea base
 crédito
-tarjeta de crédito off
-puntuación de crédito de línea de base
-puntuación
-línea de base cuna
+Tarjeta de crédito básica desactivada
+Puntuación crediticia de referencia
+puntaje
+cuna de referencia
 cuna
-alerta de crisis de línea de base
+alerta de crisis de base
 crisis
-cultivo de referencia
+cultivo de base
 cultivo
 cultivo de referencia 16
 cultivo de referencia 3
 cultivo de referencia 5
-cultivo básico 7
+cultivo de referencia 7
 cultivo de referencia din
-din
-cultivo de línea de base libre
+estruendo
+cultivo de línea base libre
 gratis
-paisaje de cultivo de línea de base
+paisaje de cultivos de referencia
 paisaje
-original del cultivo de referencia
+cultivo de base original
 original
-línea de base crop retrato
+retrato de cultivo de línea base
 retrato
-rotación de cultivos de línea de base
-rotar
-línea de base crop square
+rotación de cultivos de línea base
+girar
+cuadrado de recorte de línea base
 cuadrado
-línea de base cruelty free
+línea base libre de crueldad
 crueldad
-línea base css
+CSS de línea base
 css
-línea base de la moneda bitcoin
-moneda
-bitcoin
-cambio de divisas
+moneda base bitcoin
+divisa
+Bitcoin
+tipo de cambio de divisa base
 intercambio
-línea base de divisas franco
+moneda base franco
 franco
-línea de base moneda lira
+moneda base lira
 lira
-línea base divisa libra
+moneda de referencia libra
 libra
-línea base moneda rublo
+moneda base rublo
 rublo
-línea base de la moneda rupia
-rupias
-línea de base moneda yen
+moneda base rupia
+rupia
+moneda base yen
 yen
-divisa de referencia yuan
-yuanes
-cortinas de línea de base
+moneda base yuan
+yuan
+cortinas de linea base
 cortinas
-cortinas de línea de base cerradas
-ciclón de línea de base
+Cortinas de línea base cerradas
+ciclón de base
 ciclón
-línea de base peligrosa
+línea base peligrosa
 peligroso
 modo oscuro de línea base
 oscuro
-dashboard de línea base
-dashboard
-panel de control de línea base personalizar
+tablero de instrumentos de referencia
+panel
+Personalización del panel de control de línea base
 personalizar
-matriz de datos de línea base
+matriz de datos de referencia
 datos
-array
-exploración de datos de línea de base
+formación
+Exploración de datos de referencia
 exploración
 objeto de datos de línea base
 objeto
-ahorro de datos de línea de base apagado
-ahorro de datos de línea base
-umbral de datos de línea base
+protector de datos de línea base desactivado
+protector de datos de línea base activado
+umbralización de datos de referencia
 umbralización
-uso de datos de línea de base
+Uso de datos de referencia
 uso
-conjunto de datos de línea base
+conjunto de datos de referencia
 conjunto de datos
-conjunto de datos de línea base vinculado
-vinculados
+conjunto de datos de referencia vinculado
+vinculado
 rango de fechas de referencia
 fecha
 rango
-deblur basal
-deblur
+desenfocar línea base
+desenfocar
 cubierta de línea base
 cubierta
-deshaze basal
-dehaze
-línea de base eliminar
-línea de base eliminar para siempre
-Para siempre
-línea de base eliminar esquema
-línea de base delete sweep
+Desneblina de línea base
+Desempañar
+eliminar línea base
+Borrar la línea base para siempre
+para siempre
+Borrar esquema de línea base
+barrido de eliminación de línea base
 barrer
-línea de base entrega comedor
+servicio de entrega de comidas de referencia
 entrega
-densidad basal grande
+densidad de línea base grande
 densidad
 grande
-medio de densidad basal
-Densidad basal pequeña
+Densidad media de referencia
+densidad de línea base pequeña
 pequeño
-tablero de partida de línea base
-salida
-tablero
-descripción de línea de base
+tablero de salida de línea base
+partida
+junta
+Descripción de línea base
 descripción
-línea de base deseleccionar
-Anule la selección
-servicios de diseño de líneas de base
+deseleccionar línea base
+deseleccionar
+servicios de diseño de línea base
 diseño
-escritorio de línea base
+Escritorio de línea base
 escritorio
-Acceso de escritorio de línea de base deshabilitado
-escritorio
-línea de base de escritorio mac
-mac
-ventanas de escritorio de línea de base
-Ventanas
-detalles de línea base
+Acceso al escritorio de línea base deshabilitado
+de oficina
+escritorio base mac
+impermeable
+ventanas de escritorio de línea base
+ventanas
+detalles de la línea base
 detalles
-tablero de desarrollador de línea base
-desarrollador
-tablero de desarrollo de línea base apagado
-Modo de desarrollador básico
+placa de desarrollo de línea base
+revelador
+Placa de desarrollo de línea base desactivada
+modo de desarrollador de línea base
 concentrador de dispositivo de línea base
-hub
-termostato de dispositivo de línea base
+centro
+termostato del dispositivo de línea base
 termostato
 dispositivo de línea base desconocido
-dispositivos de línea de base
+dispositivos de línea base
 dispositivos
-dispositivos de línea de base se pliegan
-plegar
-dispositivos de línea base otros
-otros
-línea de base dialer sip
-dialer
+Los dispositivos de línea base se pliegan
+doblar
+otros dispositivos de línea base
+otro
+Marcador de línea base SIP
+marcador
 sorbo
-dialpad de línea base
-dialpad
+teclado de línea base
+teclado de marcación
 diamante de línea base
 diamante
-diferencia basal
+diferencia de línea base
 diferencia
-comedor de línea base
-cena de línea de base
+comedor de base
+cena de base
 cena
-instrucciones de línea base
-direcciones
-direcciones de línea de base bicicleta
-barco de direcciones de línea de base
-barco
-direcciones de línea de base barco lleno
-línea de base direcciones bus
-líneas de base bus lleno
-coche de direcciones de línea de base
-línea de base direcciones coche lleno
-direcciones de línea de base off
-línea de base direcciones ferrocarril
+direcciones de referencia
+instrucciones
+Instrucciones de referencia para bicicletas
+direcciones de referencia del barco
+bote
+instrucciones de base barco lleno
+indicaciones de línea base del autobús
+indicaciones de línea base autobús lleno
+indicaciones de referencia para el coche
+Instrucciones de referencia del coche lleno
+direcciones de línea base desactivadas
+indicaciones de línea base del ferrocarril
 ferrocarril
-líneas de base ferrocarril lleno
-direcciones de línea de base ejecutar
-ejecutar
-línea de base direcciones metro
+Indicaciones de línea base del ferrocarril llenas
+direcciones de línea base ejecutar
+correr
+indicaciones de línea base del metro
 metro
-líneas de base metro lleno
-tránsito de direcciones de línea base
+Indicaciones de línea base del metro llenas
+indicaciones de línea base de tránsito
 tránsito
-líneas de base tránsito lleno
-las direcciones de línea de base caminan
+indicaciones de línea base tránsito lleno
+Indicaciones de base para caminar
 caminar
-lente sucia de línea de base
+lente sucia de línea base
 sucio
-línea de base deshabilitada por defecto
+Línea base deshabilitada de forma predeterminada
 por
-predeterminado
-línea de base deshabilitada visible
+por defecto
+Línea base deshabilitada visible
 visible
-línea de base disco lleno
-disco
-discordia de línea de base
+disco de línea base lleno
+desct
+discordia de base
 discordia
-descuento de línea base
+descuento de base
 descuento
-configuración de pantalla de línea base
+configuración de visualización de línea base
 mostrar
-diversidad de línea de base
+diversidad de base
 diversidad
-división de línea base
+línea base divisoria
 dividir
 matemáticas
-línea de base dns
-dns
-línea de base do perturbar
+DNS de línea base
+Nombre de dominio
+La línea base no molesta
 hacer
-perturbar
-línea de base hacer perturbar apagado
-línea de base hacer perturbar en
-línea de base no molestar
-línea de base no molestar
-línea de base no molestar en
-línea de base no molestar en el silencio total
+molestar
+La línea base no molesta
+La línea base no molesta
+Línea base no molestar
+Línea base no molestar apagado
+Línea base no molestar en
+Línea base no molestar en silencio total
 total
 silencio
-línea de base no paso
+Línea base no pisar
 paso
-línea de base no tocar
-toque
-muelle de línea base
+Línea base no tocar
+tocar
+Muelle de línea base
 muelle
 escáner de documentos de línea base
 documento
 dominio de línea base
 dominio
-añadir dominio de línea base
-Dominio de línea de base deshabilitado
-Verificación de dominio de línea base
+dominio de línea base agregar
+dominio de línea base deshabilitado
+verificación del dominio de referencia
 verificación
-línea de base hecho
-línea de base hecho todo
-línea de base hecho esquema
-donut de línea de base grande
-donut
-donut de línea de base pequeño
-puerta de línea de fondo
+línea base hecha
+Línea base hecha toda
+esquema de línea base hecho
+donut grande de línea base
+rosquilla
+donut de línea base pequeño
+puerta de línea base trasera
 puerta
-frente de puerta de línea de base
-corredera de puerta de línea base
-Deslizamiento
+puerta frontal de línea base
+puerta corrediza de línea base
+corredizo
 timbre de línea base
-timbre
-línea de base doble flecha
+timbre de la puerta
+flecha doble de línea base
 doble
-línea de base esquí alpino
-Descenso
-esquí
+Esquí alpino de línea base
+cuesta abajo
+esquiar
+Descarga de línea base
+Descarga de línea base realizada
+Descarga de línea base para uso sin conexión
+desconectado
 descarga de línea base
-descarga de línea de base hecho
-descargar gratis basic download
-fuera de línea
-descarga de línea base
-descarga
-borradores de línea de base
-borradores
+descargando
+borradores de línea base
+damas
 manija de arrastre de línea base
 arrastrar
 manejar
-indicador de arrastre de línea base
+Indicador de arrastre de línea base
 indicador
-sorteo de línea base
-sorteo
-unidad de línea de base eta
-eta
-movimiento de archivo de unidad de línea de base
+sorteo de línea de base
+dibujar
+línea base de conducción eta
+Estaré
+movimiento de archivo de unidad de línea base
 mover
-línea de base drive file mover rtl
-línea de base drive file cambiar el nombre del esquema
-renombrar
-carga de carpeta de unidad de línea de base
-línea de base seca
+archivo de unidad de línea base mover rtl
+Esquema de cambio de nombre de archivo de unidad de línea base
+rebautizar
+Carga de carpeta de unidad base
+línea base seca
 seco
-línea de base de limpieza en seco
-línea de base duo
-duo
-línea base dvr
-dvr
-alimentación dinámica de línea de base
-dinámico
-piensos
-forma dinámica de línea de base
+limpieza en seco de línea base
+dúo de línea base
+dúo
+DVR de línea base
+grabadora de video digital
+Alimentación dinámica de línea base
+dinámica
+alimentar
+forma dinámica de línea base
 forma
-línea de base e mobiledata
-e
+línea base y datos móviles
+mi
 auriculares de línea base
 auriculares
-batería de auriculares de línea base
-línea de base este
-Oriente
-línea de base eco
-eco
-línea de base edgesensor alto
-sensor de borde
-línea de base edgesensor bajo
-línea de base editar
+Batería de los auriculares básicos
+línea base este
+este
+eco de línea base
+Ecológico
+sensor de borde de línea base alto
+sensor de bordes
+Sensor de borde de línea base bajo
+edición de línea base
 editar
 atributos de edición de línea base
 atributos
-línea de base editar calendario
-ubicación de edición de línea base
-nota de edición básica
+calendario de edición de línea base
+Ubicación de edición de línea base
+nota de edición de línea base
 nota
-línea de base editar notificaciones
-línea de base edit off
-línea de base editar carretera
+notificaciones de edición de línea base
+Edición de línea base desactivada
+línea base de edición de ruta
 huevo de línea base
 huevo
-eyección basal
-eyectar
-de edad basal
-ancianos
-línea de base mujer mayor
+expulsión de línea base
+expulsar
+Línea base de ancianos
+anciano
+mujer mayor de línea base
 mujer
-bicicleta eléctrica de la línea de fondo
+bicicleta eléctrica de línea base
 eléctrico
 perno eléctrico de línea base
-Coche eléctrico de la línea de fondo
-medidor eléctrico de línea de base
+coche eléctrico básico
+medidor eléctrico de línea base
 metro
-ciclomotor eléctrico de línea de base
+ciclomotor eléctrico de línea base
 ciclomotor
-línea de base rickshaw eléctrico
-rickshaw
-scooter eléctrico de línea de base
-servicios eléctricos de línea de base
-eléctricos
-línea de base elevador
+rickshaw eléctrico de línea base
+jinrikisha
+Patinete eléctrico básico
+servicios eléctricos de línea base
+eléctrico
+Elevador de línea base
 ascensor
-correo electrónico de línea de base
-Emergencia de línea de base
-grabación de emergencia de línea de base
+correo electrónico de referencia
+emergencia de línea base
+Grabación de emergencia de referencia
 grabación
-cuota de emergencia básica
+acción de emergencia de línea base
 compartir
-emociones emoji de línea de base
-emoji
+emociones emoji de base
+Emojis
 emociones
-eventos de emoji de línea de base
+eventos de emoji de línea base
 eventos
-banderas de emoji de línea base
+banderas emoji de línea base
 banderas
-bebida de alimentos emoji de línea de base
-alimentos
-bebidas
-línea base emoji naturaleza
+Emoji de referencia de comida y bebida
+alimento
+bebida
+Emoji de línea base de la naturaleza
 naturaleza
-objetos emoji de línea de base
+objetos emoji de línea base
 objetos
-personas emoji de línea de base
-personas
+Emoji de personas de línea base
+gente
 símbolos emoji de línea base
 símbolos
-transporte de emoji de línea base
+Emoji de transporte de línea base
 transporte
-hoja de ahorro de energía de línea de base
+Hoja de ahorro de energía de referencia
 energía
-ahorro
+ahorros
 hoja
-ingeniería de línea de base
+ingeniería de línea base
 ingeniería
-cifrado mejorado de línea de base
+cifrado mejorado de línea base
 mejorado
 cifrado
 ecualizador de línea base
-ecualizador
-línea de base es igual
+igualada
+La línea base es igual a
 es igual
-error de línea de base
+Error de línea base
 error
 esquema de error de línea base
-escalera mecánica de línea base
+base escalera mecánica
 escalera mecánica
-advertencia de escalera mecánica de línea base
-aviso
-línea de base euro
+Advertencia de escalera mecánica de línea base
+advertencia
+euro de referencia
 euro
-símbolo del euro
+símbolo básico del euro
 símbolo
-línea base estación ev
-ev
-evento de línea de base
+estación base ev
+todos
+evento de referencia
 evento
-evento de línea de base disponible
+evento de referencia disponible
 disponible
-evento de línea de base ocupado
+evento de línea base ocupado
 ocupado
-nota de evento de línea base
-repetición de evento de línea de base
+nota de evento de referencia
+repetición del evento de referencia
 repetir
-asiento de evento de línea de base
-línea de base de salida a la aplicación
+Asiento del evento de referencia
+salida de línea base a la aplicación
 salida
-línea de base expandir
-ampliar
-línea de base expandir círculo hacia abajo
-línea de base expandir menos
-Menos
-línea de base expand más
+línea base expandir
+expandir
+Línea base expandir círculo hacia abajo
+La línea base se expande menos
+menos
+Línea base expandir más
 más
-línea de base explícita
+línea base explícita
 explícito
-línea de base explorar
+Exploración de línea base
 explorar
-línea de base explorar apagado
-exposición basal
+Exploración de línea base desactivada
+exposición de referencia
 exposición
-exposición basal neg
-Neg
-exposición basal plus
-exposición basal cero
+exposición de referencia negativa
+negativo
+exposición de referencia más
+exposición de referencia cero
 cero
-Extensión basal
+extensión de línea base
 extensión
-línea de base extensión off
-línea de base cara
-cara
-línea de base retoque facial natural
+extensión de línea base desactivada
+cara de línea base
+rostro
+Retoque facial de línea base natural
 retoque
 natural
-retoque facial de línea de base apagado
-línea de base facebook
-facebook
-verificación de hechos de línea de base
+Retoque facial básico desactivado
+Línea base de Facebook
+Facebook
+verificación de hechos de referencia
 hecho
-fábrica de línea de base
+fábrica de línea base
 fábrica
-baño de línea base de la familia
+Baño familiar básico
 familia
 baño
-línea de base fast forward
+avance rápido de línea base
 rápido
-línea de base rebobinado rápido
+rebobinado rápido de línea base
 rebobinar
-comida rápida de línea base
-comida rápida
-línea de base favorita
+comida rápida de base
+Comida rápida
+favorito de línea base
 favorito
-línea base borde favorito
-línea de base fax
+borde favorito de línea base
+fax de línea base
 fax
-línea de base lista de juegos destacados
-destacado
+lista de reproducción destacada de línea base
+presentado
 jugar
 lista
-línea de base vídeo destacado
-vídeo
-pienso de línea base
+Vídeo destacado de la línea base
+video
+alimentación de línea base
 retroalimentación de línea base
-retroalimentación
-línea de base hembra
-mujer
-valla de línea de base
+comentario
+Línea base femenina
+femenino
+valla de línea base
 cerca
-festival de línea de base
+festival de línea base
 festival
-línea base fibra dvr
+DVR de fibra de línea base
 fibra
-registro manual de fibra base
+registro manual de fibra de referencia
 manual
 registro
-fibra de línea base nueva
-Pin de fibra base
-pin
-registro inteligente de fibra base
-inteligente
-copia de archivo de línea de base
-descarga de archivo de línea base
-descarga de archivo de línea de base hecho
-descarga de archivo de línea de base apagado
-archivo de línea de base abierto
-abrir
-archivo de línea de base presente
-carga de archivos de línea base
+nueva fibra de base
+Pin de fibra de línea base
+alfiler
+registro inteligente de fibra de referencia
+elegante
+copia de archivo de línea base
+Descargar archivo de línea base
+Descarga del archivo de línea base realizada
+Descarga de archivo de línea base desactivada
+archivo de línea base abierto
+abierto
+archivo de línea base presente
+Carga de archivo de línea base
 filtro de línea base
-filtro
-línea de base filtro 9 plus
-filtro de línea de base alt off
-filtro de línea base b y w
+filtrar
+filtro de línea base 9 plus
+filtro de línea base alt desactivado
+Filtro de línea base b y w
 b
-and
-w
-enfoque central del filtro de línea base
-drama de filtro de línea de base
+y
+el
+Filtro de línea base, enfoque central
+Filtro de línea base del drama
 drama
-marcos de filtro de línea base
-marcos
+Marcos de filtro de línea base
+Marcos
 filtro de línea base hdr
-hdr
+HDR-10
 lista de filtros de línea base
-lista de filtros de línea base off
-filtro de línea de base ninguno
+lista de filtros de línea base desactivada
+filtro de línea base ninguno
 ninguno
 cambio de inclinación del filtro de línea base
 inclinación
-shift
-línea de base filtro vintage
-vintage
-Buscar línea base en la página
+cambio
+filtro de línea base vintage
+antiguo
+Búsqueda de línea base en la página
 encontrar
-línea de base encontrar reemplazar
-sustituir
-huella dactilar basal
+línea base buscar reemplazar
+reemplazar
+huella dactilar de línea base
 huella dactilar
 extintor de incendios de línea base
 fuego
 extintor
-hidrante contra incendios de línea base
-hydrant
-camión de bomberos
+boca de incendios de línea base
+boca de aguas
+camión de bomberos de línea base
 camión
-chimenea de línea de base
-chimenea
-línea de base primera página
+Chimenea de línea base
+hogar
+primera página de línea base
 primero
 pantalla de ajuste de línea base
-ajuste
-línea de base fitbit
-fitbit
-centro de fitness
-aptitud
+adaptar
+Línea base de Fitbit
+Fitbit-1
+centro de fitness de línea base
+aptitud física
 bandera de línea base
 bandera
-círculo de bandera de línea base
-línea de base escamosa
-escamosa
-exacerbación basal
-bengala
-línea de base flash auto
+Círculo de bandera de línea base
+línea base escamosa
+escamoso
+llamarada de base
+llamarada
+Flash de línea base automático
+destello
+Flash de línea base apagado
+Flash de línea base activado
+linterna de línea base apagada
 flash
-flash de línea de base apagado
-flash de línea base encendido
-Linterna de línea de base apagada
-linterna
-linterna de línea base encendida
-cubiertos de línea de base
-cubiertos
-vuelo de línea base
+linterna de base encendida
+cubiertos de línea base
+mostrada
+vuelo de referencia
 vuelo
-clase de vuelo base
-línea de base vuelo tierra
+clase de vuelo de referencia
+vuelo de línea base tierra
 tierra
-despegue de vuelo
-despegue
-flip línea de base
+despegue del vuelo de referencia
+despegar
+cambio de línea de base
 voltear
-línea de base flip cámara android
-línea de base flip cámara ios
-línea de base flip a la espalda
-línea de base flip to front
-inundación de línea de base
+Cámara flip básica para Android
+cámara flip básica ios
+volteo de línea base hacia atrás
+Giro de línea de base hacia el frente
+inundación de base
 inundación
-línea de base fluorescente
+fluorescente de línea base
 fluorescente
 línea base fluorescente
 fluorescente
-guion de aleteo de línea de base
+línea base de aleteo y guión
 aleteo
-dash
-línea de base fmd malo
-fmd
-mal
-línea de base fmd buena
-bueno
-carpeta de línea de base
+estrellarse
+Línea base de FMD mala
+enfermedad por fiebre aftosa
+malo
+La condición basal es buena
+bien
+carpeta de línea base
 copia de carpeta de línea base
-carpeta de línea de base eliminar
-carpeta de línea de base apagada
-carpeta de línea de base abierta
-carpeta de línea de base compartida
-compartidos
-carpeta de línea de base especial
+eliminar carpeta base
+carpeta de línea base desactivada
+carpeta de línea base abierta
+carpeta de línea base compartida
+compartido
+Carpeta de línea base especial
 especial
-zip de carpeta de línea base
-zip
-línea de base seguir los signos
+carpeta base zip
+cremallera
+Línea base sigue las señales
 seguir
-los
-signos
-fuente baseline descargar
+el
+señales
+Descargar fuente de línea base
 fuente
-descargar fuente base off
-banco de alimentos
-bosque de línea de base
+Descarga de fuente de línea base desactivada
+banco de alimentos de base
+bosque de referencia
 bosque
-izquierda horquilla de línea de base
+línea base horquilla izquierda
 tenedor
-horquilla de línea de base derecha
-Centro de alineación de formato de línea base
+horquilla de línea base derecha
+formato de línea base alinear al centro
 formato
-formato de línea de base alinear justificar
-justifica
-formato de línea de base alinear a la izquierda
-formato de línea de base alinear a la derecha
+formato de línea base alinear justificar
+justificar
+formato de línea base alinear a la izquierda
+formato de línea base alinear a la derecha
 formato de línea base negrita
-negrita
-formato de línea de base claro
-relleno de color de formato de línea base
+atrevido
+formato de línea base claro
+formato de línea base relleno de color
 llenar
-restablecimiento de color de formato de línea base
+Restablecimiento de color del formato de línea base
 reiniciar
-texto de color de formato de línea base
+formato de línea base color texto
 texto
-disminución de sangría de formato de línea base
-indent
-disminución
-incremento de sangría de formato de línea base
+formato de línea base sangría disminuir
+sangrar
+disminuir
+formato de línea base aumentar sangría
 aumentar
-formato de línea de base cursiva
-cursiva
-espaciamiento de línea de formato de línea base
+formato de línea base cursiva
+itálico
+interlineado del formato de línea base
 línea
-espaciamiento
-lista de formato de línea base con viñetas
-balas
-lista de formato de línea base numerada
+espaciado
+formato de línea base lista con viñetas
+con viñetas
+lista numerada del formato de línea base
 numerado
-lista de formato de línea base numerada rtl
-formato de línea de base overline
-overline
-pintura de formato de línea base
-pintura
-presupuesto de formato de línea base
-cotizar
+formato de línea base lista numerada rtl
+formato de línea base sobre línea
+sobre línea
+formato de línea base de pintura
+pintar
+formato de cotización de línea base
+cita
 formas de formato de línea base
 formas
 tamaño del formato de línea base
 tamaño
-formato de línea base strikethrough
-strikethrough
-formato de línea de base textdirection l a r
-textdirection
-l
-r
-formato de línea base textdirection r a l
-formato de línea de base subrayado
-subrayado
-fuerte de línea de base
-fort
-foro de línea base
+formato de línea base tachado
+tachado
+formato de línea base dirección del texto de izquierda a derecha
+dirección de texto
+yo
+a
+formato de línea base dirección del texto de r a l
+formato de línea base subrayado
+testado
+Fuerte de línea base
+fuerte
+foro de base
 foro
 línea de base hacia adelante
-línea de base hacia adelante a la bandeja de entrada
-fundación de línea de base
-fundación
-Desayuno gratis
-línea de base cancelación gratuita
-Cancelación
-mano delantera de línea de base
-línea de base fullscreen
-salida de pantalla completa
-funciones de línea de base
+Línea base reenviar a la bandeja de entrada
+Fundación base
+base
+Desayuno gratuito básico
+Cancelación gratuita de la línea base
+cancelación
+Mano delantera de línea base
+línea base de pantalla completa
+línea base salida de pantalla completa
+funciones de línea base
 funciones
-línea base g mobiledata
-g
-línea de base g traducir
+Línea base g mobiledata
+gramo
+línea base g traducir
 traducir
-gamepad de línea de base
-gamepad
-juegos de línea base
+Mando de juego básico
+mando de juego
+juegos de base
 juegos
-garaje de línea de base
-garaje
-medidor de gas de línea base
+garaje de línea base
+cochera
+medidor de gas de referencia
 gas
-línea de base
+mazo de referencia
 mazo
-tokens de generación de línea base
-generar
-tokens
+Tokens generadores de línea base
+generando
+fichas
 gesto de línea base
 gesto
-aplicación get de línea de base
-get
-gif de referencia
+línea base obtener aplicación
+conseguir
+gif de línea base
 gif
-caja de gif de línea base
-chica de línea de base
-niña
+cuadro gif de línea base
+chica de linea base
+chica
 casa rural de línea base
 casa rural
-Campo de golf
+campo de golf de línea base
 golf
 curso
-línea de base gpp mala
-gpp
-línea de base gpp buena
-línea de base gpp tal vez
-Tal vez
-línea base gps fija
-gps
-fijo
-gps de línea base no fijos
-gps de línea de base apagados
-grado basal
-grado
-gradiente basal
+Línea base gpp incorrecta
+PPP
+GPP de línea base bueno
+GPP de línea base tal vez
+tal vez
+GPS de línea base fijo
+GPS
+fijado
+El GPS de línea base no está fijo
+GPS de línea base desactivado
+calificación de referencia
+calificación
+gradiente de línea base
 gradiente
-gradación basal
-gradación
-grano de línea base
+calificación de referencia
+calificación
+grano de base
 grano
-gráfico de línea base eq
+ecualizador gráfico de línea base
 gráfico
-eq
-pasto de línea base
-pasto
-línea de base mayor que
-mayor
+ecualizador
+Césped de línea base
+césped
+línea base mayor que
+mayor que
 que
-línea de base mayor que igual
+línea base mayor que igual
 igual
-cuadrícula de referencia 3x3
-cuadrícula
+cuadrícula de línea base 3x3
+red
 3x3
-cuadrícula de referencia 4x4
+cuadrícula de base 4x4
 4x4
-Goldenratio de cuadrícula de línea base
-goldenratio
-cuadrícula de línea de base apagada
-cuadrícula de línea de base on
+cuadrícula de línea base proporción áurea
+proporción áurea
+cuadrícula de línea base desactivada
+cuadrícula de línea base activada
 vista de cuadrícula de línea base
-grupo basal
+grupo de referencia
 grupo
-grupo de línea base añadir
-grupo de línea de base apagado
-grupo de línea de base eliminar
-trabajo de grupo de referencia
-grupos basales
+añadir grupo de línea base
+grupo de línea base fuera
+eliminar grupo de línea base
+trabajo en grupo de base
+grupos de base
 grupos
-línea de base h mobiledata
-h
-línea base h plus mobiledata
-granizo de línea base
+Línea base h mobiledata
+yo
+línea base h más datos móviles
+granizo de base
 granizo
-handshake de línea de base
+apretón de manos de línea base
 apretón de manos
-línea de base handyman
-handyman
+Manitas de línea base
+factótum
 hardware de línea base
 línea base hd
-hd
-línea base hdr auto
-línea base hdr auto select
-hdr de línea base mejorado select
-línea de base hdr off
-línea de base hdr off select
-línea de base hdr on
-línea de base hdr en select
-línea base hdr plus
-línea base hdr fuerte
-línea de base hdr débil
+alta definición
+línea base hdr automática
+Selección automática de HDR de línea base
+Selección mejorada HDR de línea base
+HDR de línea base desactivado
+Línea base HDR desactivada seleccionar
+línea base hdr activada
+HDR de línea base en selección
+Línea base HDR Plus
+Línea base HDR fuerte
+Línea base HDR débil
 auriculares de línea base
 auriculares
-batería de auriculares de línea base
+Batería de auriculares de línea base
 auriculares de línea base
 auriculares
 micrófono de auriculares de línea base
-mic
-auriculares de línea base apagados
-curación basal
-curación
-Salud y seguridad en el trabajo
+micrófono
+Auriculares de línea base apagados
+curación de base
+cicatrización
+salud y seguridad de base
 salud
 seguridad
-Audición basal
+Audiencia de línea base
 audiencia
-Audición básica con discapacidad
-línea de base corazón roto
+discapacidad auditiva de base
+Línea base corazón roto
 corazón
-bomba de calor
+bomba de calor de línea base
 calor
 bomba
-altura de línea base
+altura de referencia
 altura
-ayuda de línea de base
+ayuda de línea base
 ayuda
-Centro de ayuda
-esquema de ayuda de línea de base
+Centro de ayuda de línea base
+esquema de ayuda de línea base
 línea base hevc
 hevc
-hexágono basal
+hexágono de línea base
 hexágono
-línea de base ocultar imagen
-ocultar
-fuente de ocultación de línea base
+Ocultar imagen de línea base
+esconder
+Ocultar fuente de línea base
 fuente
-línea de base de alta calidad
+línea base de alta calidad
 calidad
-resaltado de línea base
+punto destacado de la línea base
 destacar
-línea de base resaltado apagado
-senderismo de línea base
+Resaltar la línea base desactivada
+Senderismo de línea de base
 senderismo
-historia de línea de base
-historia de línea de base edu
-edu
-historia de línea de base desactivar
-colmena de línea de base
+Historial de referencia
+Historia de la línea base edu
+educación
+Historial de línea base desactivado
+colmena de línea base
 colmena
-línea de base hls
+línea base hls
 hls
-línea de base hls apagado
-aldea de vacaciones de línea base
-vacaciones
-pueblo
-línea de base home
-línea de base home max
-max
-línea de base casa mini
+línea base hls desactivada
+Pueblo de vacaciones de línea base
+día festivo
+aldea
+Inicio de línea base
+línea base máxima en casa
+máximo
+Casa base mini
 mini
-servicio de reparación de casa de línea de base
+servicio básico de reparación de viviendas
 servicio
-Trabajo en el hogar
-línea de base horizontal distribuir
-Distribuir
-regla horizontal de línea de base
+tarea básica para casa
+distribución horizontal de línea base
+distribuir
+regla horizontal de línea base
 regla
-línea de base división horizontal
+división horizontal de línea base
 bañera de hidromasaje de línea base
 caliente
-tina
-hotel de línea de base
+bañera
+Hotel de línea base
 hotel
-línea de base hotel class
-fondo de reloj de arena de línea base
+clase de hotel de línea base
+Línea base de reloj de arena inferior
 reloj de arena
-reloj de arena de línea de base desactivado
+Reloj de arena de línea base deshabilitado
 reloj de arena de línea base vacío
 vacío
 reloj de arena de línea base lleno
-top de reloj de arena de línea base
-casa de línea de base
+parte superior del reloj de arena de línea base
+casa de linea base
 casa
-revestimiento de la casa de línea base
-revestimiento
-casa flotante de línea de base
+revestimiento de casa de línea base
+vía muerta
+casa flotante de línea base
 casa flotante
-¿Cómo hacer un pedido?
-¿Cómo?
+línea base cómo registrarse
+cómo
 reg
-Línea de base Cómo Votar
-votación
-línea base html
+línea base cómo votar
+votar
+HTML de línea base
 html
-línea de base http
+línea base http
 http
 línea base https
 https
-concentrador de línea base
-hvac basal
-hvac
-patinaje sobre hielo
+base centro
+sistema de climatización de línea base
+climatización
+patinaje sobre hielo de línea base
 hielo
 patinaje
-helado de línea base
+helado de base
 helado
-imagen de línea base
-relación de aspecto de imagen de referencia
-No se admite la imagen de línea de base
-Búsqueda de imágenes de línea base
-rodillo de búsqueda de imágenes de línea de base
-imagesearch
+imagen de referencia
+relación de aspecto de la imagen de referencia
+imagen de línea base no compatible
+Búsqueda de imágenes de referencia
+rodillo de búsqueda de imágenes de línea base
+búsqueda de imágenes
 rodillo
 contactos de importación de línea base
-importación
-exportación de importación de línea de base
-exportación
-dispositivos importantes de línea de base
+importar
+importación y exportación de referencia
+exportar
+dispositivos importantes de línea base
 importante
-bandeja de entrada de línea base
-línea de base círculo incompleto
+Bandeja de entrada de línea base
+círculo incompleto de línea base
 incompleto
-línea base indeterminada casilla de verificación
-indeterminada
-información de línea base
-info
+Casilla de verificación de línea base indeterminada
+indeterminado
+Información de referencia
+información
 entrada de línea base
-entrada
-<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
-<html><head>
-<title>403 Forbidden</title>
-</head><body>
-<h1>Forbidden</h1>
-<p>You don't have permission to access this resource.</p>
-<hr>
-<address>Apache/2.4.52 (Ubuntu) Server at server1.lookformedical.com Port 443</address>
-</body></html>
+aporte
+gráfico de inserción de línea base
 insertar
-<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
-<html><head>
-<title>403 Forbidden</title>
-</head><body>
-<h1>Forbidden</h1>
-<p>You don't have permission to access this resource.</p>
-<hr>
-<address>Apache/2.4.52 (Ubuntu) Server at server3.lookformedical.com Port 443</address>
-</body></html>
-perfilado
-línea de base insertar comentario
+gráfico de inserción de línea base delineado
+esbozado
+Insertar comentario de línea base
 archivo de unidad de inserción de línea base
-emoticones de inserción de línea base
+emoticón de inserción de línea base
 emoticono
 invitación de inserción de línea base
 invitación
-línea de base insertar enlace
-salto de página de inserción de línea base
-break
-línea de base insertar foto
-insights de línea base
-insights
-instalación de escritorio de línea de base
+enlace de inserción de línea base
+línea base insertar salto de página
+romper
+Foto de inserción de línea base
+Perspectivas de referencia
+perspectivas
+Instalación básica de escritorio
 instalar
-línea de base install mobile
+Instalación básica en dispositivos móviles
 móvil
 instrucciones de integración de línea base
 integración
 instrucciones
-Intereses de línea de base
+intereses de base
 intereses
-Modo de intérprete básico
+modo de intérprete de línea base
 intérprete
-inventario de línea de base
+inventario de base
 inventario
-Invertir colores de línea de base
+colores invertidos de línea base
 invertir
-colores
-línea de base invertir colores apagados
-línea de base ios share
-basal de hierro
+bandera
+Línea base invertida colores desactivados
+Compartir en iOS de línea base
+hierro de base
 hierro
-línea base iso
-iso
+iso de línea base
+anonimo
 línea base javascript
-javascript
-línea de base unirse completo
+Javascript
+línea base unirse completa
 unirse
-línea de base unirse interior
-línea de base unirse a la izquierda
-línea de base unirse a la derecha
+línea base unirse interna
+línea base unirse a la izquierda
+línea base unirse a la derecha
 Kayak de línea base
-kayaking
-línea de base kebab comedor
-kebab
-clave de línea de base
-clave
-clave de línea de base apagada
+kayak
+Cena de kebab de base
+brocheta
+clave de línea base
+llave
+tecla de línea base desactivada
 teclado de línea base
 teclado
-línea de base del teclado flecha hacia abajo
+flecha hacia abajo del teclado de línea base
 flecha izquierda del teclado de línea base
 flecha derecha del teclado de línea base
 flecha hacia arriba del teclado de línea base
-backspace del teclado de línea base
-capslock de teclado de línea base
-capslock
-Tecla de comando de teclado de línea base
-comando
-tecla de control de teclado de línea base
-línea de base teclado doble flecha hacia abajo
-teclado de línea de base doble flecha izquierda
-línea de base teclado doble flecha derecha
-línea de base teclado doble flecha hacia arriba
+tecla de retroceso del teclado de línea base
+Bloqueo de mayúsculas del teclado de línea base
+Bloq Mayús
+Tecla de comando del teclado de línea base
+dominio
+Tecla de control del teclado de línea base
+teclado de línea base doble flecha hacia abajo
+Teclado de línea base con doble flecha hacia la izquierda
+Teclado de línea base con doble flecha derecha
+teclado de línea base doble flecha hacia arriba
 Ocultar teclado de línea base
-Tecla de opción de teclado de línea base
+tecla de opción del teclado de línea base
 opción
-retorno de teclado de línea base
-pestaña de teclado de línea de base
-ficha
-voz de teclado de línea base
+retorno del teclado de línea base
+pestaña de teclado de línea base
+pestaña
+Voz de teclado de línea base
 voz
-cama de matrimonio
+cama king size de línea base
 rey
-línea de base cocina
+cocina de linea base
 cocina
-kitesurf de línea base
+Kitesurf de línea de base
 kitesurf
-etiqueta basal
+etiqueta de línea base
 etiqueta
-etiqueta basal importante
-etiqueta de línea de base off
+etiqueta de línea base importante
+etiqueta de línea base desactivada
 línea base lan
 lan
-paisaje de línea de base
+paisaje de referencia
 deslizamiento de tierra de línea base
-deslizamiento
-lenguaje de línea base
+corrimiento de tierras
+idioma base
 idioma
-portátil de línea de base
-portátil
-portátil de línea de base chromebook
-chromebook
-portátil de línea de base mac
-línea de base laptop windows
-línea de base última página
+computadora portátil de línea base
+computadora portátil
+computadora portátil chromebook de línea base
+Chromebook
+computadora portátil mac de línea base
+Línea base de Windows para portátiles
+Línea base última página
 último
-lanzamiento de línea de base
+Lanzamiento de línea base
 lanzamiento
 capas de línea base
 capas
-capas de línea de base claras
-línea base leaderboard
+Capas de línea base limpias
+tabla de clasificación de línea base
 tabla de clasificación
-fuga de línea de base añadir
-fuga
-eliminación de fugas de línea de base
-dejar bolsas de línea de base en casa
-permiso
+Fuga de línea base añadida
+filtración
+eliminar fuga de línea base
+línea base deja las bolsas en casa
+dejar
 bolsas
 en
-línea de base leyenda toggle
+alternar leyenda de línea base
 leyenda
 lente de línea base
-desenfoque de lente basal
-línea de base menor que
-línea de base menor que igual
-biblioteca de línea de base añadir
+Desenfoque de lente de línea base
+línea base menor que
+línea base menor que igual
+agregar biblioteca de línea base
 biblioteca
-biblioteca de línea de base add check
-libros de biblioteca
+comprobación de adición de biblioteca de línea base
+libros de la biblioteca de referencia
 libros
-música de biblioteca de línea de base
+biblioteca de música de línea base
 música
-luz de línea base
+luz de base
 luz
 modo de luz de línea base
 bombilla de línea base
 bombilla
 círculo de bombilla de línea base
-eje de línea de base
+eje de la línea base
 eje
-estilo de línea de base
-línea de base peso
+estilo de línea base
+Grosor de la línea de base
 peso
-escala lineal basal
+escala lineal de referencia
 escala
 enlace de línea base
-enlace de línea de base apagado
-cámara conectada de línea base
-licor de línea base
-licor
+Enlace de línea base desactivado
+cámara vinculada a la línea base
+licor de base
+espíritu
 lista de referencia
-línea base live help
+Ayuda en vivo de línea base
 vivir
-línea de base live tv
-línea de base living
-vivir
-línea base de actividad local
+Televisión en vivo de línea base
+vida de base
+viviendo
+Actividad local de referencia
 local
 actividad
-Línea base del aeropuerto local
-línea base atm local
-Barra local de referencia
-línea de base café local
-café
-línea de base lavado de coches local
+aeropuerto local de referencia
+ATM local de línea base
+barra local de línea base
+Cafetería local de referencia
+cafetería
+Lavado de autos local de línea base
 lavar
-tienda de conveniencia local de línea base
+tienda de conveniencia local de referencia
 conveniencia
-tienda
-línea de base comedor local
-bebida local de línea de base
+almacenar
+Restaurantes locales básicos
+bebida local de base
 beber
-Departamento de Bomberos Locales
+Departamento de bomberos local de referencia
 departamento
-línea de base florista local
+floristería local de referencia
 florista
-línea de base gasolinera local
-línea de base tienda de comestibles local
+Estación de servicio local de referencia
+tienda de comestibles local de referencia
 tienda de comestibles
-línea base del hospital local
+Hospital local de referencia
 hospital
-línea base hotel local
-línea de base servicio de lavandería local
-lavandería
-biblioteca local de línea de base
-centro comercial local de línea base
+Hotel local de línea base
+Servicio de lavandería local básico
+lavadero
+biblioteca local de referencia
+centro comercial local de referencia
 centro comercial
-películas locales de línea de base
-películas
-línea de base oferta local
+Películas locales de referencia
+cine
+oferta local de base
 oferta
-Línea base de estacionamiento local
+Estacionamiento local de referencia
 aparcamiento
-línea de base farmacia local
+farmacia local de referencia
 farmacia
-teléfono local de línea base
-línea de base pizza local
+línea base de teléfono local
+pizza local de base
 pizza
-juego local de línea de base
-Línea de base de la policía local
+Juego local de línea base
+Policía local de referencia
 policía
-línea de base oficina de correos local
-puesto
+Oficina de correos local de referencia
+correo
 oficina
-línea de base local printshop
-printshop
-línea de base local ver
+imprenta local de referencia
+imprenta
+línea base local ver
 ver
-línea de base de envío local
+Envío local de línea base
 envío
-línea de base taxi local
-taxi
-ciudad de ubicación de línea de base
+línea base de taxi local
+Taxi
+ciudad de ubicación base
 ciudad
+Ubicación de referencia deshabilitada
 Ubicación de línea base desactivada
-ubicación de línea de base apagado
-ubicación de referencia en
-búsqueda de ubicación de línea de base
+Ubicación de referencia en
+búsqueda de ubicación de línea base
 bloqueo de línea base
-cerradura
+cerrar
 reloj de bloqueo de línea base
 reloj
-cerradura de línea de base abierta
+bloqueo de línea base abierto
 persona de bloqueo de línea base
 persona
-reinicio de bloqueo de línea base
-inicio de sesión inicial
-log
+Restablecimiento del bloqueo de línea base
 inicio de sesión de línea base
-inicio de sesión inicial
-inicio de sesión
-línea base logo dev
+registro
+Cerrar sesión de línea base
+base acceso
+acceso
+desarrollo de logotipo de línea base
 logo
-dev
-cierre de sesión inicial
-cierre de sesión
-looks de línea de base
-se ve
-línea de base se ve uno
+Desarrollador
+cierre de sesión de línea base
+cerrar sesión
+Miradas de línea base
+aspecto
+La línea base se ve una
 uno
-línea de base se ve dos
+La línea base se ve dos
 dos
 bucle de línea base
 bucle
-lupa basal
-lupe
-línea de base de baja prioridad
+lupa de línea base
+lupa
+Línea base de baja prioridad
 prioridad
-lealtad de línea de base
+lealtad de base
 lealtad
-línea de base lte mobiledata
+datos móviles lte de línea base
 lte
-línea de base lte plus mobiledata
-Equipaje de línea base
+Línea base lte más datos móviles
+equipaje de línea base
 equipaje
-almuerzo de línea base
+almuerzo de base
 almuerzo
-letra de línea base
-lyrics
-línea de base macro off
+Letra de la canción base
+lírica
+macro de línea base desactivada
 macro
 correo de línea base
-bloqueo de correo de línea base
-esquema de correo de línea base
-basal masculino
-machos
-línea de base hombre
+Bloqueo de correo de línea base
+esquema de correo de referencia
+Línea base masculina
+masculino
+hombre de línea base
 hombre
-línea de base administrar cuentas
+administrar cuentas de línea base
 administrar
 cuentas
-Historial de gestión de línea de base
-línea de base administrar la búsqueda
-mapa de línea base
+historial de gestión de línea base
+gestión de búsqueda de línea base
+mapa de referencia
 mapa
-Mapas de línea base trabajo en casa
-mapas de línea base ugc
+Mapas de referencia, tarea para casa
+mapas de referencia ugc
 ugc
-margen de referencia
+margen de línea base
 margen
-marca de línea de base como no leída
+Marca de línea base como no leída
 marca
 como
-sin leer
-línea de base mark chat read
-lee
-línea de base mark chat sin leer
-marca de línea de base correo electrónico leído
-marca de línea de base correo electrónico sin leer
-marca de línea de base chat no leído
-línea de base markunread
-markunread
-buzón de línea base markunread
+no leído
+Marca de línea base Chat Leer
+leer
+Marca de línea base Chat no leído
+Marca de referencia de correo electrónico leído
+Marca de línea base como no leído el correo electrónico
+Marca de línea base del chat no leído
+Marca de línea base como no leído
+marcar como no leído
+Marca de línea base como buzón no leído
 buzón
 máscaras de línea base
 máscaras
-línea de base maximize
+línea base maximizar
 maximizar
-medios de línea base bluetooth apagado
+Bluetooth de los medios de referencia desactivado
 medios de comunicación
-medios de comunicación bluetooth encendido
-mediación de línea de base
+medios de comunicación de línea base con bluetooth activado
+mediación de línea base
 mediación
-información médica básica
+Información médica de referencia
 médico
 información
-servicios médicos de referencia
-medicación de línea de base
-medicamentos
-líquido de medicación de línea base
+servicios médicos básicos
+medicación de base
+medicamento
+medicamento de base líquido
 líquido
-Sala de reuniones básica
+Sala de reuniones de línea base
 reunión
 habitación
-memoria basal
+memoria de línea base
 memoria
-menú de línea base
+Menú de referencia
 menú
-libro de menú de línea base
-menú de línea de base abierto
-fusión de línea de base
+Libro de menú de base
+Menú de línea base abierto
+fusión de línea base
 tipo de fusión de línea base
 tipo
 mensaje de línea base
 mensaje
-Micrófono de línea base
-Micrófono de línea de base externo apagado
-externos
-Micrófono de línea base externo encendido
-Micrófono de línea base ninguno
-Micrófono de línea base apagado
+micrófono de línea base
+Micrófono de línea base externo apagado
+externo
+micrófono de línea base externo activado
+micrófono de línea base ninguno
+micrófono de línea base apagado
 microondas de línea base
-microondas
-tecnología militar de línea de base
-militares
-tecnologia
-línea de base minimizar
+microonda
+tecnología militar de base
+militar
+tecnología
+línea base minimizar
 minimizar
-choque menor de línea de base
+accidente menor de línea base
 menor
 línea base menos
 menos
-servicios diversos de línea de base
-misceláneo
-línea base perdida videollamada
-mm de línea base
-mms
-línea base mobile friendly
-línea de base móvil apagado
-compartir pantalla móvil de línea de base
-base mobiledata apagado
+Servicios varios de línea base
+misceláneas
+videollamada perdida de línea base
+mms de línea base
+Mms
+Línea base compatible con dispositivos móviles
+Línea base móvil apagada
+pantalla compartida móvil de línea base
+datos móviles de línea base desactivados
 modo de línea base
-comentario de modo de línea base
-modo de línea de base editar
-esquema de edición de modo de línea base
-ventilador de modo de línea de base apagado
-fan
-noche de modo de línea base
+comentario del modo de línea base
+editar modo línea base
+esquema de edición del modo de línea base
+modo de línea base ventilador apagado
+admirador
+modo de línea base noche
 noche
-modo de viaje de línea de base
+modo de viaje de referencia
 de
-modo de línea de base en espera
-espera
-entrenamiento de modelo de línea de base
+modo de línea base en espera
+apoyar
+entrenamiento del modelo de línea base
 modelo
-formación
-monetización inicial en
+capacitación
+monetización de línea base en
 monetización
-línea de base dinero
-línea de base dinero apagado
-línea de base de dinero off csred
+dinero de base
+Descuento en el dinero de referencia
+Dinero de referencia desembolsado por csred
 csred
-Monitor de línea base
+monitor de línea base
 monitor
-línea de base monitor corazón
-peso basal del monitor
-línea de base fotos monocromas
+Monitor de línea base del corazón
+Peso del monitor de referencia
+Fotografías monocromas de línea base
 monocromo
 estado de ánimo basal
-estado de ánimo
-estado de ánimo malo
+ánimo
+estado de ánimo basal malo
 ciclomotor de línea base
-línea de base más
-línea de base más horiz
-horiz
-línea de base más tiempo
-línea de base más vert
-vert
-mezquita de línea de base
+línea base más
+línea base más horizontal
+horizontal
+línea base más tiempo
+línea base más vert
+vertical
+Mezquita de línea base
 mezquita
-línea de base fotos de movimiento auto
-fotos de movimiento de línea de base apagado
-fotos de movimiento de línea de base en
-pausa de fotos de movimiento de línea de base
-pausar
-fotos de movimiento de línea de base pausadas
-pausado
-motocicleta de línea de base
+Fotografías de movimiento de línea base automáticas
+fotografías de movimiento de línea base desactivadas
+Fotografías de movimiento de línea base en
+pausa de fotos de movimiento de línea base
+pausa
+Fotografías de movimiento de línea base en pausa
+en pausa
+motocicleta de línea base
 motocicleta
-ratón de línea base
+Ratón de línea base
 ratón
-línea de base mover hacia abajo
-línea de base mover a la bandeja de entrada
-línea de base mover hacia arriba
-película de línea de base
+movimiento de línea base hacia abajo
+mover línea base a bandeja de entrada
+movimiento de línea base hacia arriba
+Película de base
 película
-creación de película de línea de base
+Creación de películas de base
 creación
 filtro de película de línea base
-línea de base móvil
-en movimiento
-línea base mp
-mp
-gráfico multilínea de línea base
-multilínea
-línea base multiple stop
-múltiplos
-parar
-museo de línea de base
+línea base en movimiento
+emocionante
+mp de línea base
+diputado
+gráfico multilineal de línea base
+multiline
+parada múltiple de línea base
+múltiple
+detener
+museo de linea base
 museo
-nota de música de línea base
-música de línea de base apagada
-línea base de vídeo musical
-línea de base mi ubicación
+nota musical de base
+Música de fondo desactivada
+Vídeo musical de referencia
+Línea base de mi ubicación
 mi
-basal nat
-nat
-naturaleza de línea de base
-personas de la naturaleza de línea de base
-línea de base navegar antes
-navegar
+línea base nat
+natural
+naturaleza de línea base
+línea base naturaleza personas
+Línea base navegar antes
+navegar por
 antes
-línea de base navegar siguiente
-siguiente
-navegación de línea base
-línea de base cerca de mí
+Línea base navegar siguiente
+próximo
+Navegación de línea base
+línea base cerca de mí
 cerca
-me
-línea de base cerca de mí desactivado
-línea de base error cercano
-Cercanos
-línea de base cercana
-soporte de cable de leva de nido de línea base
+a mí
+Línea base cerca de mí deshabilitada
+Error cercano a la línea base
+cercano
+línea base cercana a
+Soporte con cable para cámara Nest de línea base
 nido
 leva
 cableado
-stand
-celda de red de línea base
+pararse
+célula de red de línea base
 red
-Comprobación de red de línea base
-la red de línea de base bloqueada
+comprobación de red de línea base
+red de línea base bloqueada
 bloqueado
 ping de red de línea base
-ping
-wifi de red de línea base
-wifi de red de línea base 1 bar
-wifi de red de línea base 2 bar
-wifi de línea base de la red 3 bar
-línea de base nueva etiqueta
-línea de base nuevos lanzamientos
-liberaciones
-periódico de línea de base
+silbido
+red de base wifi
+red de linea base wifi 1 barra
+red de linea base wifi 2 barras
+red de linea base wifi 3 barras
+nueva etiqueta de línea base
+nuevos lanzamientos de línea base
+comunicados
+periódico de base
 periódico
-línea de base siguiente plan
+Plan de línea base siguiente
 plan
-línea de base la próxima semana
-línea base nfc
-nfc
-refugio de noche de línea base
+Línea base la próxima semana
+Línea base NFC
+NFC
+refugio nocturno de referencia
 refugio
-línea de fondo vida nocturna
+Vida nocturna básica
 vida nocturna
-luz de noche de línea base
-luz de la noche
-Estancia de noches de línea base
+luz nocturna de referencia
+luz de noche
+noches de estancia base
 noches
-quedarse
-línea de base sin cuentas
-no
-línea de base sin contenido para adultos
+permanecer
+línea base sin cuentas
+No
+Línea base sin contenido para adultos
 adulto
-línea de base sin mochila
-línea de base ninguna célula
-línea de base no crash
-línea de base sin bebidas
+Línea base sin mochila
+Línea base sin celda
+Línea base sin accidentes
+Línea base sin bebidas
 bebidas
-línea de base sin cifrado
-línea de base sin cifrado gmailerrorred
+Línea base sin cifrado
+Línea base sin cifrado gmailerrorred
 gmailerrorred
-línea de base sin flash
-línea de base sin comida
-línea de base sin equipaje
-línea de base sin comidas
+Línea base sin flash
+Línea base sin comida
+Línea base sin equipaje
+Línea base sin comidas
 comidas
-línea de base sin sala de reuniones
-línea de base sin fotografía
+Línea base sin sala de reuniones
+Línea base sin fotografía
 fotografía
-línea de base no sim
-sim
-línea de base sin cochecito
-cochecito
-línea de base sin transferencia
-transferencia
-consciente del ruido de línea base
+Línea base sin sim
+simulación
+Línea base sin cochecito
+paseante
+Línea base sin transferencia
+transferir
+consciente del ruido de base
 ruido
-conscientes
-control de ruido de línea base apagado
-caminata nórdica de línea de base
+consciente
+Control de ruido de línea base desactivado
+marcha nórdica de base
 nórdico
 caminando
 línea base norte
 norte
-línea de base noreste
-línea de base noroeste
-oeste
-línea de base no accesible
-línea de base no igual
-línea de base no interesada
+línea base noreste
+línea base noroeste
+Oeste
+línea base no accesible
+La línea base no es igual
+Línea base no interesada
 interesado
-línea de base no listada ubicación
-listadas
-línea de base no iniciada
-comenzada
-nota de referencia
-nota de línea base añadir
+ubicación de la línea base no indicada
+listado
+línea base no iniciada
+comenzó
+nota de base
+nota de base agregar
 notas de referencia
 notas
-agregar notificación de línea base
-importante la notificación de la línea de base
-Notificaciones de referencia
-Notificaciones de línea base activas
+notificación de línea base agregar
+Notificación de línea base importante
+notificaciones de línea base
+notificaciones de línea base activas
 Notificaciones de línea base ninguna
-Notificaciones de línea base off
-Notificaciones de línea de base pausadas
+notificaciones de línea base desactivadas
+notificaciones de línea base pausadas
 números de referencia
 números
-línea de base perno fuera de línea
-pin sin conexión de línea base
-línea de base offline share
-barril de petróleo de línea base
+perno fuera de línea de línea base
+PIN sin conexión de línea base
+Compartir sin conexión de línea base
+barril de petróleo de referencia
 aceite
 barril
-línea de base en el entrenamiento del dispositivo
-línea de base video ondemand
-ondemand
-Predicción en línea
-opacidad basal
+Línea base sobre el entrenamiento del dispositivo
+Vídeo a pedido de línea base
+Bajo demanda
+predicción en línea de referencia
+opacidad de línea base
 opacidad
-línea de base abierta en el navegador
-línea de base abierta en su totalidad
-línea de base abierta en nuevo
-línea de base abierta en off nuevo
-línea de base abierta con
+Línea base abierta en el navegador
+Línea base abierta por completo
+línea base abierta en nueva
+Línea base abierta en nuevo off
+línea base abierta con
 con
-línea de base otras casas
+línea base otras casas
 casas
-outbond de línea de base
-outbond
-línea de base outbound
-outbound
-bandeja de salida de línea base
-caja de salida
-Parrilla al aire libre de línea base
+línea base de salida
+bono de salida
+línea base de salida
+saliente
+Bandeja de salida de línea base
+bandeja de salida
+parrilla al aire libre de referencia
 parrilla
-toma de corriente basal
-salida
-línea de base delineada bandera
 salida de línea base
 salida
-relleno de línea de base
+bandera delineada de línea base
+salida de línea base
+producción
+relleno de línea base
 relleno
-páginas de línea base
+páginas de referencia
 páginas
-vista de página de línea base
-pageview
-línea de base pagada
-pagados
+Página de vista de línea base
+Página vista
+línea base pagada
+pagado
 paleta de línea base
 paleta
-herramienta de pan de línea base
-pan
+herramienta de panorámica de línea base
+cacerola
 herramienta
-panorama de línea de base
+panorama de línea base
 panorama
-línea de base panorama ojo de pez
-pescado
+Panorama de línea base de peces ojo
+pez
 ojo
-línea de base panorama horizontal
-línea de base horizontal select
-línea de base panorama fotosfera
-fotósfera
-línea de base panorama fotosfera seleccionar
-línea de base panorama vertical
-línea de base panorama vertical select
-línea de base panorámica gran angular
+Panorama de línea base horizontal
+Selección horizontal de panorama de línea base
+fotosfera panorámica de línea base
+fotosfera
+fotosfera panorámica de línea base seleccionar
+Panorama de línea base vertical
+Selección vertical de panorama de línea base
+Panorama de línea base de gran angular
 ancho
 ángulo
-línea de base panorámica gran angular select
-parapente básico
+Selección de gran angular de panorama de línea base
+Parapente de línea base
 parapente
-parque de línea de base
+parque de línea base
 parque
-modo de partido de línea de base
-partido
+Modo de fiesta base
+fiesta
 contraseña de línea base
 contraseña
-patrón basal
+patrón de línea base
 patrón
 pausa de línea base
-línea de base círculo de pausa
-línea de base círculo de pausa lleno
-línea de base círculo de pausa
+círculo de pausa de línea base
+pausa de línea base círculo lleno
+esquema circular de pausa de línea base
 presentación de pausa de línea base
-pago de línea de base
+pago base
 pago
-pagos de referencia
+pagos de base
 pagos
-línea de base paypal
-paypal
-bicicleta de pedal de línea
+Línea base de PayPal
+PayPal
+bicicleta de pedales de línea base
 pedal
-línea de base pendiente
+línea base pendiente
 pendiente
-línea de base acciones pendientes
-acciones
-pentágono basal
+acciones pendientes de línea base
+comportamiento
+pentágono de línea base
 pentágono
-personas de línea base
-esquema de personas de línea de base
-Porcentaje basal
+gente de línea base
+esquema de personas de línea base
+porcentaje de referencia
 por ciento
-porcentaje basal
+porcentaje de referencia
 porcentaje
-micrófono de cámara perm de línea base
-perm
-calendario de contactos perm de línea base
-configuración de datos perm de línea base
+micrófono de cámara permanente de línea base
+permanente
+Calendario de contactos de la línea base permanente
+configuración de datos permanentes de línea base
 configuración
-información de dispositivo de perm de línea base
-línea de base perm identidad
+Información del dispositivo de línea base permanente
+identidad permanente de línea base
 identidad
 medios permanentes de línea base
-línea base perm teléfono msg
-msg
-línea base perm scan wifi
+mensaje telefónico permanente de línea base
+mensaje
+escaneo permanente de línea base wifi
 escanear
 persona de línea base
-persona de línea de base añadir
-persona de línea de base add deshabilitado
-persona de línea de base apagado
-línea de base persona esquema
-Pin de persona de línea base
-línea de base persona pin círculo
-persona de línea de base eliminar
-búsqueda de persona de línea de base
-lesiones personales de referencia
-daño
-línea de base de vídeo personal
-control de plagas
-plaga
-roedor de control de plagas de línea base
+persona de línea base agregar
+Persona de línea base agregada discapacitada
+persona de línea base fuera
+esquema de persona de línea base
+pin de persona de línea base
+persona de línea base pin círculo
+persona de línea base eliminar
+Búsqueda de personas de referencia
+lesión personal de base
+lesión
+Vídeo personal de referencia
+control de plagas de base
+parásito
+Control de plagas de roedores de base
 roedor
-mascotas de línea base
-mascotas
+Mascotas de línea base
+Mascotas
 phishing de línea base
-phishing
+Suplantación de identidad (phishing)
 teléfono de línea base
-línea base teléfono android
-altavoz bluetooth del teléfono de la línea de base
-orador
-devolución de llamada telefónica de línea base
-callback
-teléfono de línea base deshabilitado
-teléfono de línea base habilitado
-habilitado
-teléfono de línea base reenviado
+Teléfono Android de línea base
+altavoz bluetooth del teléfono de línea base
+vocero
+devolución de llamada telefónica de referencia
+llamar de vuelta
+Teléfono base deshabilitado
+Teléfono de línea base habilitado
+activado
+Línea base de teléfono reenviada
 reenviado
-teléfono de línea base en hablar
+Teléfono base en conversación
 hablar
-teléfono de línea de base iphone
-iphone
-teléfono de línea base bloqueado
-teléfono de línea base perdido
-teléfono de línea base pausado
+Teléfono base iPhone
+iPhone
+Teléfono base bloqueado
+Se perdió el teléfono de referencia
+El teléfono de referencia está en pausa
 enlace telefónico de línea base
 enlace telefónico
-línea base phonelink borrar
+Borrado del enlace telefónico de línea base
 borrar
-bloqueo de enlace telefónico de línea base
-phonelink de línea de base apagado
+bloqueo del enlace telefónico de línea base
+Enlace telefónico de línea base desactivado
 anillo de enlace telefónico de línea base
 anillo
-configuración de enlace telefónico de línea base
+configuración básica del enlace telefónico
 configuración
-foto de línea de base
-álbum de fotos
-cámara de fotos de línea de base
-cámara de fotos back
-frente de cámara de fotos de línea de base
-filtro de foto de línea base
-biblioteca de fotos
-tamaño de la foto de línea de base seleccionar real
-real
-tamaño de la foto de línea de base seleccionar grande
-tamaño de la foto de línea de base seleccionar pequeño
-línea de base php
+Foto de referencia
+Álbum de fotos de línea base
+cámara de fotos de referencia
+cámara de fotos de línea base trasera
+Foto de línea base cámara frontal
+filtro de fotografía de línea base
+biblioteca de fotografías de referencia
+tamaño de foto de referencia seleccione real
+actual
+tamaño de foto de referencia seleccione grande
+tamaño de foto de referencia seleccione pequeño
+línea base php
 php
 piano de línea base
 piano
-piano de línea de fondo apagado
-imagen de línea de base como pdf
+piano de línea base apagado
+imagen de base en formato pdf
 imagen
 pdf
-imagen de línea de base en la imagen
+Imagen de base en imagen
 gráfico circular de línea base
 pastel
-esquema de gráfico circular de línea base
+Esquema de gráfico circular de línea base
 pin de línea base
 caída de pin de línea base
-extremo de pin de línea base
+extremo del pasador de línea base
 invocación de pin de línea base
-Invocar
-pin de línea de base apagado
-pellizco de línea base
+invocar
+pin de línea base desactivado
+pizca de línea base
 pellizco
-gráfico de tabla dinámica
+gráfico de tabla dinámica de línea base
 pivote
-pix basal
-pix
+foto de línea base
+foto
 lugar de referencia
 lugar
-plagio de línea base
+plagio de base
 plagio
-línea de base juego flecha
-círculo de juego de línea base
-círculo de juego de línea base lleno
-círculo de juego de línea base lleno de blanco
+flecha de juego de línea base
+Círculo de juego de base
+Círculo de juego de línea base lleno
+Círculo de juego de línea base lleno de blanco
 blanco
-contorno de círculo de juego de línea base
-juego de línea de base desactivado
-juego de base para el trabajo
-lección de juego de línea base
+Esquema del círculo de juego de base
+Juego de línea base deshabilitado
+Juego de base para el trabajo
+lección de juego de base
 lección
-lista de reproducción de línea base añadir
+Agregar lista de reproducción de línea base
 lista de reproducción
-lista de reproducción de línea base añadir verificación
-línea base lista de reproducción añadir check circle
-lista de reproducción de línea base añadir círculo
-reproducción de lista de reproducción de línea base
+lista de reproducción de línea base agregar verificación
+Agregar círculo de verificación a la lista de reproducción de línea base
+Agregar círculo a la lista de reproducción de línea base
+lista de reproducción de línea base
 eliminar lista de reproducción de línea base
-fontanería de línea de base
-fontanería
-línea de base plus
-línea de base más menos
-línea de base más uno
-podcasts de línea base
+plomería de línea base
+plomería
+línea base más
+línea base más menos
+línea base más uno
+podcasts de base
 podcasts
-punto de referencia de venta
+punto de venta de referencia
 venta
-política de línea de base
+política de base
 política
-encuesta de línea de base
+encuesta de referencia
 encuesta
-línea polilina basal
-polilina
-polímero de línea base
+polilínea de línea base
+polilínea
+polímero de base
 polímero
-grupo de referencia
+fondo de línea base
 piscina
-línea base wifi portátil apagado
+Wifi portátil de línea base desactivado
 portátil
-retrato de línea de base
-línea de base después de añadir
+retrato de línea base
+publicación de línea base agregada
 potencia de línea base
-potencia
-entrada de potencia de línea base
-apagado de línea base
-configuración de potencia de línea base nueva
-fabricación de precisión de línea de base
+fuerza
+Entrada de potencia de referencia
+Apagado de la línea base
+nueva configuración de energía de línea base
+Fabricación de precisión de línea base
 precisión
 fabricación
-línea base mujer embarazada
-embarazadas
-línea de base presente para todos
+mujer embarazada de referencia
+embarazada
+línea base presente para todos
 vista previa de línea base
-vista previa
-cambio de precios de referencia
+avance
+cambio de precio base
 precio
-Verificación de precios de línea base
+comprobación del precio base
 impresión de línea base
 imprimir
-impresión de línea base deshabilitada
-Prioridad de línea base alta
-consejo de privacidad de línea base
+Impresión de línea base deshabilitada
+prioridad de línea base alta
+Consejo básico de privacidad
 privacidad
-tip
-línea de base conectividad privada
+consejo
+Conectividad privada de línea base
 privado
-conectividad
+Conectividad
 límites de cantidad de producción de referencia
 producción
 cantidad
 límites
-línea de base propano
+propano de línea base
 propano
-tanque de propano de línea base
+tanque de propano de referencia
 tanque
-psicología de línea de base
+psicología de base
 psicología
-línea de base pública
+línea base pública
 público
-línea de base pública off
-línea de base publicar
+línea base pública apagada
+publicación de línea base
 publicar
-línea de base publicada con cambios
+Línea base publicada con cambios
 publicado
 cambios
-reloj de perforación de línea base
+reloj de fichaje de línea base
 puñetazo
-Pin de empuje de línea base
+chincheta de línea base
 empujar
-línea de base qr código
-qr
-línea base escáner de código qr
-línea base qrcode
-qrcode
+código qr de línea base
+código QR
+escáner de código qr de línea base
+código qr de línea base
+código qr
 generador de consultas de línea base
 consulta
 constructor
 estadísticas de consulta de línea base
-estadísticas
-respuesta a la pregunta de línea de base
+Estadísticas
+respuesta a la pregunta de base
 pregunta
 respuesta
-línea de base signo de interrogación
-cola de línea de base
-música de cola de línea de base
-línea de base queue play siguiente
-línea de base quickreply
-quickreply
-cuestionario de línea base
-cuestionario
-quora de línea de base
+signo de interrogación de línea base
+cola de línea base
+cola de música de línea base
+cola de línea base reproducir siguiente
+base respuesta rápida
+respuesta rápida
+Cuestionario de referencia
+prueba
+base quora
 quora
-línea de base r mobiledata
+Línea base de datos móviles
 radar de línea base
-radar
-radio de línea base
+Radar
+radio de base
 radio
-Botón de radio de línea base
+Botón de opción de línea base marcado
 botón
 comprobado
-Botón de radio de línea base sin marcar
-sin marcar
-línea de base de alerta ferroviaria
-línea de base ramen comedor
+Botón de opción de línea base sin marcar
+desenfrenado
+alerta ferroviaria de referencia
+cena de ramen de base
 ramen
-línea de base rampa izquierda
+rampa de línea base izquierda
 rampa
 rampa de línea base derecha
-revisión de la tasa de referencia
+Revisión de la tasa de referencia
 tasa
-revisión
-línea de base raw off
-en bruto
-línea de base en bruto
-línea de base read more
-agente de bienes raíces
+revisar
+línea base sin procesar
+crudo
+línea base cruda en
+línea base leer más
+agente inmobiliario de línea base
 real
-finca
+bienes
 agente
-recibo de línea de base
+recibo de base
 recibo
-recibo de línea de base largo
+recibo de línea base largo
 largo
-línea de base actores recientes
+actores recientes de línea base
 reciente
 actores
-línea de base recomendar
-Recomendar
-voz en off de registro de línea de base
-over
+recomendación de línea base
+recomendar
+Grabación de línea base de voz en off
+encima
 rectángulo de línea base
 rectángulo
-reciclaje de línea de base
+Reciclaje de base
 reciclaje
-línea de base reddit
-reddit
-canje de línea de base
+línea base reddit
+Reddit
+canje de línea base
 canjear
-línea de base redo
+rehacer línea base
 rehacer
-línea de base reducir la capacidad
+capacidad de reducción de línea base
 reducir
 capacidad
 actualización de línea base
-actualizar
-línea de base recuérdame
+refrescar
+Línea base recuérdame
 recordar
-línea de base eliminar
-línea de base eliminar círculo
-línea de base eliminar contorno círculo
-línea de base quitar hecho
-línea de base eliminar de la cola
-Desde
-línea de base eliminar moderador
-línea de base eliminar el ojo rojo
+eliminar línea base
+eliminar circulo de linea base
+Línea base eliminar contorno del círculo
+Se eliminó la línea base
+línea base eliminar de la cola
+de
+línea base eliminar moderador
+Línea base para eliminar ojos rojos
 rojo
-línea de base remove road
-línea de base quitar carrito de la compra
-reorden de línea de base
+línea base eliminar carretera
+línea base eliminar carrito de compras
+reordenamiento de línea base
 reordenar
-repartición basal
+repartición de línea base
 repartición
-línea de base repetición
-línea de base repetir en
-línea de base repetir uno
-línea de base repetir uno en
-repetición de línea de base
+repetición de línea base
+Repetición de línea base en
+línea base repetir uno
+línea base repetir uno en
+repetición de línea base
 repetición
-línea de base círculo de repetición lleno
-respuesta de línea de base
-respuesta
-línea de base responder a todos
+Círculo de repetición de línea base lleno
+respuesta de línea base
+responder
+respuesta de línea base a todos
 informe de referencia
-Informe de línea base gmailerrorred
-informe de línea de base off
-problema de informe de línea de base
+informe de referencia gmailerrorred
+informe de referencia desactivado
+Problema del informe de referencia
 problema
-página de solicitud de línea de base
-solicitud
-presupuesto de solicitud de línea de base
-TV de reinicio de línea base
-reinicio inicial
-reiniciar
-restaurante de línea de base
+Página de solicitud de línea base
+pedido
+Solicitud de cotización de línea base
+reinicio de línea base del televisor
+reinicio de línea base
+Reanudar
+restaurante base
 restaurante
-menú de restaurante de línea base
-restauración de línea de base
+Menú básico del restaurante
+restauración de línea base
 restaurar
-línea de base restaurar desde la basura
+Restauración de línea base desde la papelera
 basura
 página de restauración de línea base
 revisiones de línea base
 Reseñas
-tazón de arroz
+tazón de arroz de base
 arroz
-tazón
-volumen del anillo basal
+bol
+volumen del anillo de referencia
 volumen
-cohete de línea de base
+Cohete de línea base
 cohete
-lanzamiento de cohete de línea de base
-cortinas de rodillo de línea base
-tonalidades
-cortinas de rodillo de línea base cerradas
-patines de rodillos de línea base
-techado de línea base
-techado
-habitación de línea de base
-preferencias de habitación de línea base
+Lanzamiento de cohete de línea base
+cortinas enrollables de línea base
+sombras
+Cortinas enrollables de línea base cerradas
+patinaje sobre ruedas de línea de base
+techado de base
+techumbre
+Habitación de línea base
+preferencias de habitación de referencia
 preferencias
-servicio a la habitación
-línea de base gire 90 grados ccw
+servicio de habitaciones básico
+Línea base rotada 90 grados en sentido contrario a las agujas del reloj
 grados
-CCW
-línea de base girar 90 grados cw
-cw
-línea de base girar a la izquierda
-línea de base girar a la derecha
-rotonda de línea de base izquierda
+contra la pared
+Línea base rotar 90 grados en el sentido de las agujas del reloj
+en blanco
+Línea base rotar a la izquierda
+Línea base rotar a la derecha
+rotonda de línea base a la izquierda
 rotonda
-línea de base rotonda derecha
-línea de base redondeada esquina
+rotonda de línea base a la derecha
+esquina redondeada de línea base
 redondeado
 esquina
-ruta basal
-router de línea base
-router
-remo de línea base
+ruta de referencia
+enrutador de línea base
+enrutador
+Remo de línea de base
 remo
-línea base rss feed
+fuente rss de línea base
 rss
-línea base rsvp
-rsvp
-línea de base rtt
-rtt
+RSVP de línea base
+confirmar asistencia
+RTT de línea base
+RTT-R ...
 regla de línea base
 carpeta de reglas de línea base
-línea de base círculo de ejecución
-línea de base corriendo con errores
-corriendo
+Círculo de carrera de línea base
+Línea base funcionando con errores
+correr
 errores
-conexión de rv de línea base
-rv
-conexión
-control de seguridad de línea de base
+Conexión básica para autocaravanas
+vehículo recreativo
+conectar
+comprobación de seguridad de referencia
 divisor de seguridad de línea base
 divisor
 navegación de línea base
 navegación
-desinfectante de línea base
-desinfectante
-satélite de línea de base
+Desinfectante de base
+Desinfectante
+Satélite de línea base
 satélite
-línea de base save
-guardar
-línea de base guardar todo
-línea de base guardar como
-línea de base de búsqueda guardada
-guardado
-ahorro de línea de base
-escala basal
+Guardar línea base
+ahorrar
+línea base guardar todo
+línea base guardar como
+búsqueda guardada de línea base
+salvado
+ahorro de línea base
+escala de referencia
 escáner de línea base
 diagrama de dispersión de línea base
-scatter
-gráfico
-esquema de referencia
-horario de línea base enviar
+dispersión
+trama
+programa de referencia
+programa de línea base enviar
 esquema de línea base
 esquema
-escuela de línea de base
+escuela de base
 escuela
-línea de base ciencia
+ciencia de base
 ciencia
-puntuación inicial
-marcador de línea base
+Puntuación de referencia
+marcador de referencia
 marcador
-paisaje de bloqueo de pantalla de línea base
-retrato de bloqueo de pantalla de línea de base
+bloqueo de pantalla de línea base horizontal
+bloqueo de pantalla de línea base vertical
 rotación de bloqueo de pantalla de línea base
-rotación de pantalla de línea de base
-escritorio de búsqueda de pantalla de línea base
-pantalla de línea de base share
-captura de pantalla de línea de base
+rotación de pantalla de línea base
+Búsqueda en la pantalla de línea base del escritorio
+pantalla compartida de línea base
+captura de pantalla de línea base
 captura de pantalla
-monitor de captura de pantalla de línea base
-línea de base de buceo
-bucear
+Monitor de captura de pantalla de línea base
+buceo de base
+escafandra autónoma
 buceo
-línea base sd
-sd
-tarjeta sd de línea base
-alerta de tarjeta sd de línea base
-almacenamiento sd de línea de base
+desviación estándar de la línea base
+Dakota del Sur
+Tarjeta SD de línea base
+alerta de tarjeta sd de referencia
+almacenamiento sd de línea base
 almacenamiento
-búsqueda de línea de base
-búsqueda de línea de base off
-seguridad de línea de base
+búsqueda de línea base
+búsqueda de línea base desactivada
+seguridad de línea base
 seguridad
-actualización de seguridad básica
-actualización
-actualización de seguridad de línea de base buena
-advertencia de actualización de seguridad de línea de base
+actualización de seguridad de línea base
+actualizar
+Actualización de seguridad de línea base buena
+Advertencia de actualización de seguridad de línea base
 segmento de línea base
 segmento
-línea de base seleccionar todo
-línea de base automejora
-self
+línea base seleccionar todo
+línea base de superación personal
+ser
 mejora
-línea de base sell
+venta de línea base
 vender
-línea de base enviar
-línea de base enviar y archivar
-línea de base enviar extensión de tiempo
-línea de base send to mobile
-puerta de sensor de línea base
+envío de línea base
+línea base enviar y archivar
+extensión del tiempo de envío de línea base
+línea base enviar al móvil
+puerta con sensor de línea base
 sensor
-Sensor de línea base ocupado
-Ocupado
-ventana de sensor de línea base
+sensor de línea base ocupado
+ocupado
+ventana del sensor de línea base
 ventana
 sensores de línea base
 sensores
-sensores de línea de base apagados
-sentimiento de línea de base insatisfecho
-Sentimiento
-insatisfechos
-Sentimiento de línea base neutral
+sensores de línea base apagados
+Sentimiento de base insatisfecho
+sentimiento
+insatisfecho
+Sentimiento de base neutral
 neutral
-sentimiento de línea de base satisfecho
+Sentimiento de base satisfecho
 satisfecho
-Sentimiento de línea base ligeramente insatisfecho
-ligeramente
-Sentimiento de línea base muy insatisfecho
+Sentimiento de base ligeramente insatisfecho
+levemente
+Sentimiento de base: muy insatisfecho
 muy
-Sentimiento de línea base muy satisfecho
-comida establecida de línea de base
-conjunto
+Sentimiento de base muy satisfecho
+menú básico
+colocar
 comida
-ajustes de línea base
-accesibilidad de ajustes de línea de base
+configuración de línea base
+Accesibilidad de la configuración de línea base
 aplicaciones de configuración de línea base
 aplicaciones
-restauración de copia de seguridad de configuración de línea de base
-configuración de línea base bluetooth
-brillo de ajustes de línea base
-celda de ajustes de línea base
+Restaurar copia de seguridad de la configuración de línea base
+configuración básica de bluetooth
+configuración de línea base brillo
+celda de configuración de línea base
 configuración de línea base ethernet
-ethernet
-configuración inicial de la antena de entrada
+Ethernet
+configuración de línea base de entrada de antena
 antena
-componente de entrada de ajustes de línea base
+componente de entrada de configuración de línea base
 componente
-composite de entrada de ajustes de línea base
+configuración de línea base entrada compuesta
 compuesto
-configuración de línea de base entrada hdmi
-hdmi
-configuración de línea de base input svideo
-svideo
-configuración de línea de base overscan
-overscan
-teléfono de ajustes de línea base
-potencia de ajustes de línea base
-configuración de línea de base remota
+configuración de línea base entrada hdmi
+HDMI
+configuración de línea base entrada svideo
+Vídeo en s
+sobreescaneo de configuración de línea base
+sobreescaneo
+configuración de línea base del teléfono
+configuración de línea base de energía
+configuración de línea base remota
 remoto
-valores de referencia sugieren
+La configuración de referencia sugiere
 sugerir
-sistema de ajustes de línea de base ensueño
+configuración de línea base sistema de ensueño
 sistema
-sueña despierto
-configuración de línea de base voz
-línea de base frío severo
+ensueño
+configuración de línea base de voz
+Línea base: resfriado severo
 severo
 frío
 línea de forma de línea base
 forma
-cuota de referencia
-tiempo de llegada de la acción de línea base
+cuota de línea base
+hora de llegada de la acción de referencia
 llegada
-ubicación de la acción de línea base
+Ubicación de la acción de referencia
 escudo de línea base
-escudo
-línea base escudo luna
+blindaje
+escudo de línea base luna
 luna
-tienda de línea de base
-tienda
-tienda de línea de base dos
-línea de base shopify
-shopify
-bolsa de compras de línea de base
+tienda de línea base
+comercio
+tienda de referencia dos
+línea base de shopify
+tienda de compras
+Bolsa de compras básica
 bolsa
-línea base cesta de la compra
+cesta de la compra de referencia
 cesta
-carrito de la compra
-carrito de la compra de la línea de base
-checkout
-línea de base texto corto
+carrito de compras de línea base
+Pago del carrito de compras de línea base
+verificar
+Texto breve de referencia
 corto
 atajo de línea base
-línea base mostrar gráfico
-mostrar
-ducha de línea de base
+gráfico de muestra de línea base
+espectáculo
+ducha de base
 ducha
-barajar línea de base
+barajar línea base
 barajar
-línea de base shuffle on
-velocidad de obturación
+reproducción aleatoria de línea base activada
+velocidad de obturación de referencia
 obturador
 velocidad
-enfermedad basal
-enfermos
-lengua de signos
-signo
-línea base señal celular 0 bar
+enfermedad de base
+enfermo
+lenguaje de señas de base
+firmar
+señal de línea base celular 0 barra
 señal
 celular
-señal de línea base celular 1 bar
-línea base señal celular 2 bar
-línea base señal celular 3 bar
-línea base señal celular 4 bar
+señal de línea base celular 1 barra
+señal de línea base celular 2 barras
+señal de línea base celular 3 barras
+señal de línea base celular 4 barras
 señal de línea base celular
-señal de referencia celular alt 1 bar
-señal de línea base celular alt 2 bar
-señal de línea base celular conectado sin internet 0 bar
-internet
-señal de línea base celular conectado sin internet 1 bar
-señal de línea base celular conectado sin internet 2 bar
-señal de línea base celular conectado sin internet 3 bar
-celular de señal de línea base conectado sin internet 4 bar
-señal de línea base celular no sim
+señal de línea base celular alt 1 barra
+señal de línea base celular alt 2 barra
+señal de línea base celular conectado sin internet 0 barras
+Internet
+señal de línea base celular conectado sin internet 1 barra
+señal de línea base celular conectado sin internet 2 barras
+señal de línea base celular conectado sin internet 3 barras
+señal de línea base celular conectado sin internet 4 barras
+señal de línea base celular sin sim
 señal de línea base celular nodata
-nodata
+Sin datos
 señal de línea base celular nula
-null
-señal de línea de base celular apagado
-señal de línea base wifi 0 bar
-señal de línea base wifi 1 bar
+nulo
+señal de línea base celular apagada
+señal de referencia wifi 0 bar
+señal de referencia wifi 1 barra
 señal de línea base wifi 1 barra de bloqueo
-señal de línea base wifi 2 bar
+señal de referencia wifi 2bar
 señal de línea base wifi 2 barra de bloqueo
-señal de línea base wifi 3 bar
-señal de línea base wifi cerradura de 3 barras
-señal de línea base wifi 4 bar
-señal de línea base wifi 4 bar lock
-señal de línea base wifi malo
-señal de línea base wifi conectado sin internet
-señal de línea base wifi apagado
-barra de estado wifi de señal de línea base 4 bar
+señal de referencia wifi 3 barras
+señal de línea base wifi 3 barra de bloqueo
+señal de referencia wifi 4bar
+señal de línea base wifi 4 barras de bloqueo
+señal de línea base wifi mala
+señal de base wifi conectada sin internet
+señal de línea base wifi apagada
+barra de estado wifi señal base 4 bar
 barra de estado
-barra de estado wifi de señal de línea base conectada sin internet
-señal de línea base wifi statusbar null
+señal de línea base barra de estado wifi conectado sin internet
+barra de estado wifi de señal de referencia nula
 señal de línea base
-señalizador
-tarjeta sim de línea de base
-alerta de tarjeta SIM de línea base
-tarjeta sim de línea de base
-cama individual de línea de base
-única
-sip basal
-línea de base skateboarding
-skateboarding
-línea de base saltar siguiente
+señalizar
+Tarjeta SIM básica
+alerta de tarjeta sim de referencia
+Descargar tarjeta SIM básica
+cama individual base
+soltero
+sorbo de línea base
+patineta de línea base
+patineta
+Línea base saltar siguiente
 saltar
-línea de base saltar anterior
+Línea base saltar anterior
 anterior
-trineo de línea base
+Trineo de línea base
 trineo
 presentación de diapositivas de línea base
 presentación de diapositivas
-línea base de vídeo en cámara lenta
+Vídeo en cámara lenta de referencia
 lento
 botón inteligente de línea base
-pantalla inteligente de línea de base
-pantalla inteligente de línea de base
-juguete inteligente de línea de base
+pantalla inteligente de línea base
+pantalla inteligente de línea base
+Juguete inteligente de línea base
 juguete
-smartphone de línea base
-smartphone
-línea de base libre de humo
-humo
-habitaciones para fumadores
+teléfono inteligente de línea base
+teléfono inteligente
+Línea base libre de humo
 fumar
-habitaciones
-línea de base sms
-sms
-línea base sms falló
-fracasó
-snapchat de línea base
-snapchat
+Habitaciones para fumadores de línea base
+de fumar
+alojamiento
+SMS de línea base
+mensaje de texto
+El SMS de línea base falló
+fallido
+Snapchat de línea base
+Snapchat
 carpeta de fragmentos de línea base
-snippet
-siesta de línea base
-snooze
-Snowboard de línea de base
-snowboard
-línea base moto de nieve
+retazo
+repetición de alarma de línea base
+siesta
+snowboard de línea base
+snowboarding
+moto de nieve de línea base
 motonieve
-raquetas de nieve de línea base
+Raquetas de nieve de base
 raquetas de nieve
-jabón de línea base
+jabón de base
 jabón
-línea de base distancia social
+distancia social de referencia
 distancia
-energía solar de línea de base
+Energía solar de base
 solar
-Clasificación de línea base
-ordenar
-línea de base ordenar por alfa
+ordenación de línea base
+clasificar
+Ordenación de línea base por alfa
 alfa
-valores basales
-sos
-línea de base de cocina de sopa
+línea base sos
+llamada de socorro
+Comedor de beneficencia básico
 sopa
-fuente basal
+fuente de referencia
 línea base sur
 sur
-línea de base sudamericana
-américa
-línea de base sureste
-línea de base suroeste
-spa de línea de base
+Línea base de América del Sur
+América
+Línea base sureste
+línea base suroeste
+spa de línea base
 spa
 barra espaciadora de línea base
 espacio
-panel de control de espacio de línea base
-línea base de audio espacial
+tablero de instrumentos del espacio de referencia
+audio espacial de línea base
 espacial
-línea de base de audio espacial apagado
-seguimiento espacial de línea de base
+audio espacial de línea base desactivado
+Seguimiento espacial de línea base
 seguimiento
-altavoz de línea de base
-grupo de altavoces de línea base
-notas del orador de línea de base
-Notas del orador de línea base apagadas
-teléfono de altavoz de línea base
+altavoz de línea base
+grupo de oradores de base
+notas de referencia del orador
+notas del orador de línea base desactivadas
+Teléfono con altavoz de línea base
 velocidad de referencia
-prueba ortográfica de línea base
+corrector ortográfico de línea base
 corrector ortográfico
-línea de base splitscreen
+pantalla dividida de línea base
 pantalla dividida
-radio de línea base
+línea de base habló
 habló
-deportes de línea base
+deportes de base
 deportes
-barra de deportes de línea base
-béisbol de deportes de línea base
+barra deportiva de línea base
+deportes de base béisbol
 béisbol
-baloncesto deportivo de línea base
+deportes de base baloncesto
 baloncesto
 deportes de base cricket
-grillo
-deportes de base esports
-eSports
-línea base de fútbol deportivo
-fútbol
-golf de deportes de línea base
-gimnasia deportiva de línea de base
+cricket
+deportes de línea base deportes electrónicos
+Deportes electrónicos
+deportes de base fútbol
+fútbol americano
+deportes de base golf
+gimnasia deportiva de base
 gimnasia
-Balonmano deportivo de línea base
+deportes de base balonmano
 balonmano
-hockey deportivo de línea de base
+Deportes de base, hockey
 hockey
-deportes de línea kabaddi
-kabaddi
-artes marciales de deportes de línea
+Kabaddi de deportes de base
+Kabaddi
+deportes de base artes marciales
 marcial
-artes
-línea de base deportes mma
-mma
-deportes de motor de línea
-deportes de motor
-base deportes rugby
+letras
+deportes de línea base mma
+Artes marciales mixtas
+deportes de base deportes de motor
+Deportes de motor
+deportes de base rugby
 rugby
-puntuación de deportes de línea base
-línea base de fútbol deportivo
+Puntuación deportiva de referencia
+deportes de base fútbol
 fútbol
-Tenis deportivo de línea de base
+Deportes de base tenis
 tenis
-voleibol de deportes de línea
+deportes de base voleibol
 voleibol
-línea de base cuadrada
-pies cuadrados de línea base
+cuadrado de línea base
+Pie cuadrado de línea base
 pie
-gráfico ssid de línea base
+gráfico de ssid de línea base
 ssid
-línea base gráfico de barras apiladas
-apilados
-línea de base apilada gráfico de líneas
-estadio de línea de base
+gráfico de barras apiladas de línea base
+apilado
+gráfico de líneas apiladas de línea base
+Estadio de línea base
 estadio
 escaleras de línea base
 escaleras
-estrella de línea base
+estrella de base
 estrella
 borde de estrella de línea base
-borde de estrella de línea de base purple500
-púrpura500
-la mitad de la estrella de línea base
-mitad
-línea de base contorno de estrella
-línea base estrella purple500
-Tasa de estrellas base
+borde de estrella de línea base morado 500
+morado500
+estrella de línea base media
+medio
+contorno de estrella de línea base
+Estrella de línea base púrpura 500
+tasa de estrellas de referencia
 estrellas de línea base
 estrellas
-inicio basal
-Inicio
-línea de base permanecer paisaje actual
-corriente
-Retrato actual de la estancia de la línea de base
-paisaje primario de la estancia de la línea de base
-Primario
-línea de base permanecer retrato primario
-nota pegajosa de línea base
+inicio de línea base
+comenzar
+Línea base, manténgase actualizado
+actual
+Línea base, permanecer actual, retrato
+Estancia de línea base Paisaje primario
+primario
+retrato primario de estancia de referencia
+nota adhesiva de línea base
 pegajoso
-parada basal
+parada de línea base
 círculo de parada de línea base
-compartir pantalla de parada de línea base
-almacenamiento de referencia
-almacén de línea base
-línea base tienda centro comercial directorio
+Línea base detener compartir pantalla
+almacenamiento de línea base
+tienda de línea base
+directorio de tiendas de línea base
 directorio
-tienda de línea de base
-tienda
-Tormenta de línea de base
+escaparate de línea base
+escaparate
+tormenta de base
 tormenta
 línea de base recta
-rectas
-línea de base recta
+derecho
+enderezar la línea base
 enderezar
-corriente de línea base
-corriente
-línea de base streetview
-streetview
-huelga de línea de base s
+flujo de línea base
+arroyo
+vista de calle de línea base
+vista de calle
+tachado de línea de base
 s
 cochecito de línea base
 estilo de línea base
-línea base subdirectorio flecha izquierda
+subdirectorio de línea base flecha izquierda
 subdirectorio
-línea de base subdirectorio flecha derecha
-sujeto basal
-tema
+subdirectorio de línea base flecha derecha
+tema de base
+sujeto
 subíndice de línea base
 subíndice
-suscripciones de línea de base
+suscripciones de línea base
 suscripciones
 subtítulos de línea base
 subtítulos
-subtítulos de línea base apagados
-Metro de línea base
-resumen de línea base
-resumen
+subtítulos de línea base desactivados
+línea base del metro
+Resumen de la línea base
+resumir
 superíndice de línea base
-superíndice
-círculo de usuario supervisado de línea de base
-supervisados
+sobrescrito
+Círculo de usuarios supervisados de línea base
+supervisado
 usuario
 cuenta de supervisor de línea base
 supervisor
-apoyo de línea de base
-agente de soporte basal
-surf de línea base
+soporte de línea base
+agente de soporte de línea base
+surf de línea de base
 surf
-sonido envolvente básico
+sonido envolvente de línea base
 rodear
 sonido
 llamadas de swap de línea base
-swap
+intercambio
 llamadas
-swap de línea base horizontal
-línea base swap círculo horizontal
-cambio de línea de base vert
-línea base swap círculo vertical
-deslizar la línea de base
-deslizar
-línea de base deslizar hacia abajo
-deslizar hacia la izquierda
-línea de base deslizar a la derecha
-Deslice hacia arriba
-línea de base swipe vertical
+cambio de línea base horizontal
+Círculo horizontal de intercambio de línea base
+intercambio de línea base vertical
+Círculo vertical de intercambio de línea base
+Deslizamiento de línea base
+golpe fuerte
+Deslizar hacia abajo la línea base
+Deslizar hacia la izquierda línea base
+Deslizar hacia la derecha desde la línea base
+Deslizar hacia arriba desde la línea base
+Deslizamiento vertical de línea base
 acceso directo al interruptor de línea base
-interruptor
-Acceso directo al interruptor de línea base
-cuenta de interruptor de línea base
-cámara de interruptor de línea base
-interruptor de línea de base izquierda
-interruptor de línea de base derecha
-vídeo de interruptor de línea base
-sinagoga de línea de base
+cambiar
+acceso directo al interruptor de línea base agregar
+cuenta de cambio de línea base
+interruptor de cámara de línea base
+interruptor de línea base a la izquierda
+interruptor de línea base a la derecha
+Vídeo de cambio de línea base
+Sinagoga de línea base
 sinagoga
-Sincronización basal
-Sincronización de línea base deshabilitada
+sincronización de línea base
+sincronización de línea base deshabilitada
 bloqueo de sincronización de línea base
-problema de sincronización de línea base
-actualización de seguridad del sistema de línea de base
-actualización de seguridad del sistema de línea de base buena
-advertencia de actualización de seguridad del sistema de línea de base
-actualización del sistema de línea de base
-ficha de línea de base
-ficha de línea de base no seleccionada
+Problema de sincronización de línea base
+actualización de seguridad del sistema de referencia
+Actualización de seguridad del sistema de referencia buena
+Advertencia de actualización de seguridad del sistema de referencia
+actualización del sistema de referencia
+Pestaña de línea base
+Pestaña de línea base no seleccionada
 no seleccionado
 barra de tabla de línea base
-gráfico de la tabla de referencia
-restaurante de mesa de línea base
-filas de tabla de línea base
+gráfico de tabla de línea base
+mesa de referencia del restaurante
+filas de la tabla de referencia
 filas
-vista de tabla de línea de base
-Comprimido basal
-comprimido
-línea base tableta androide
-comprimido basal mac
+vista de tabla de línea base
+tableta de línea base
+tableta
+tableta android de linea base
+tableta de línea base mac
 etiqueta de línea base
 etiqueta
 caras de etiqueta de línea base
 caras
-línea de base comida para llevar
-comida para llevar
-Toque y juegue
-toque
-tapas de línea base
+Comida para llevar de Baseline
+sacar
+toque y juego de línea base
+grifo
+tapas de linea base
 tapas
-tarea de línea de base
-línea base de alerta de taxi
+tarea de referencia
+alerta de taxi de referencia
 telegrama de línea base
 telegrama
-budista del templo de línea de base
+Templo budista de línea base
 templo
 budista
-línea de base templo hindú
-hindu
+Templo de línea base hindú
+hindú
 terminal de línea base
-terminal
-terreno de línea de base
+Terminal
+terreno de referencia
 terreno
 Disminución del texto de línea base
 campos de texto de línea base
 campos
 formato de texto de línea base
-aumento de texto de línea de base
-texto de línea de base rotar hacia arriba
-texto de línea de base rotar vertical
-rotación de texto de línea base angledown
-angledown
-angleup de rotación de texto de línea base
-angleup
-rotación de texto de línea base hacia abajo
-rotación de texto de línea de base none
-fragmento de texto de línea base
-Textos de línea base
-textos
-textura de línea base
+Aumento del texto de referencia
+texto de línea base rotar hacia arriba
+texto de línea base rotar verticalmente
+ángulo de rotación del texto de línea base hacia abajo
+ángulo hacia abajo
+ángulo de rotación del texto de línea base hacia arriba
+ángulo hacia arriba
+Rotación del texto de línea base hacia abajo
+Rotación de texto de línea base: ninguna
+Fragmento de texto de línea base
+textos de referencia
+mensajes de texto
+textura de base
 textura
-línea de base comedia de teatro
+Comedia teatral de base
 teatro
 comedia
 teatros de línea base
 teatros
-termostato de línea base
-termostato de línea base auto
-línea de base pulgar hacia abajo
+termostato de base
+termostato de línea base automático
+línea base pulgar hacia abajo
 pulgar
-línea de base pulgar hacia abajo
-línea de base pulgar hacia arriba
-pulgar de línea de base hacia arriba
-pulgares de línea de base hacia abajo
+Línea base pulgar hacia abajo
+pulgar hacia arriba línea base
+Línea base pulgar hacia arriba desactivado
+Línea base pulgares arriba abajo
 pulgares
-Tormenta de línea de base
-Tormenta eléctrica
-línea base tiktok
-tiktok
-tiempo de referencia para salir
-timelapse basal
-timelapse
-línea de tiempo de línea de base
+tormenta eléctrica de base
+tormenta
+línea base de tiktok
+Tik Tok
+hora base para salir
+lapso de tiempo de línea base
+lapso de tiempo
+línea de tiempo de referencia
 línea de tiempo
 temporizador de línea base
-temporizador de línea base 10 seleccionar
-línea base temporizador 3 seleccionar
-Temporizador de línea base apagado
-consejos de línea de base y actualizaciones
-tips
+Temporizador de línea base 10 seleccionar
+temporizador de línea base 3 seleccionar
+temporizador de línea base desactivado
+Consejos básicos y actualizaciones
+consejos
 actualizaciones
-Reparación de neumáticos de línea de base
+reparación de neumáticos de línea base
 neumático
-título de línea base
+título de referencia
 título
-línea de base toc
-toc
-línea de base hoy
-Desactivar línea de base
-Activar la línea de base
-token de línea base
-token
-peaje de línea base
+tabla de contenidos de línea base
+índice
+Línea base hoy
+Desactivar línea base
+Activar/desactivar línea base
+Token de línea base
+simbólico
+peaje de referencia
 peaje
-tonalidad basal
+tonalidad de línea base
 tonalidad
-tema de línea de base
+tema de base
 tema
-tornado de línea de base
+tornado de línea base
 tornado
-aplicación táctil de línea de base
-tour de línea de base
-tour
-juguetes de línea de base
+aplicación táctil básica
+recorrido de referencia
+recorrido
+juguetes de linea base
 juguetes
-cambios de pista de línea base
-tráfico de línea de base
+cambios en la pista de referencia
+tráfico de línea base
 tráfico
 tren de línea base
 tren
 tranvía de línea base
 tranvía
-línea de base transcribir
+transcripción de línea base
 transcribir
-Transferencia de línea de base dentro de una estación
-Dentro de
+Transferencia de línea base dentro de una estación
+dentro
 transformación de línea base
 transformar
-línea de base transgénero
+transgénero de línea base
 transgénero
-línea de base transit enterexit
-enteroxit
+línea base tránsito entrarsalir
+EntrarSalir
 traducción de línea base
-viaje de línea base explorar
-línea de base tendencia a la baja
-tendencias
-línea de base trending flat
-Tendencia de línea base al alza
-origen del viaje de línea base
+línea base de viaje para explorar
+Línea base con tendencia a la baja
+Tendencia
+línea base con tendencia plana
+Línea base con tendencia al alza
+origen del viaje de referencia
 viaje
 origen
-solución de problemas de línea de base
-solución de problemas
-prueba de línea base
-probar
-Tsunami de línea de base
+Solución de problemas de línea base
+solucionar problemas
+intento de línea base
+intentar
+tsunami de base
 tsunami
-línea de base tty
-tty
-ajuste de línea base
-tune
-tungsteno de línea base
-wolframio
-línea de base gire a la izquierda
-turn
-línea de base gire a la derecha
-línea de base girar ligeramente a la izquierda
+línea base tty
+Tía
+melodía de base
+melodía
+Tungsteno de línea base
+tungsteno
+Línea de base, giro a la izquierda
+doblar
+Línea de base, gire a la derecha
+Línea de base, giro ligeramente a la izquierda
 leve
-línea de base gire ligeramente a la derecha
-línea de base girada en
-línea de base girada en no
-línea de base tv
-línea de base tv off
-línea de base two wheeler
-wheeler
-Espécimen de tipo basal
-especimen
-línea base u gire a la izquierda
-u
-línea base u gire a la derecha
-paraguas de línea base
+Línea de base, giro ligeramente a la derecha
+línea base entregada
+La línea base no se entregó
+televisión de línea base
+televisor de línea base apagado
+Línea base de dos ruedas
+rodador
+Muestra tipo línea base
+muestra
+Línea base, giro en U a la izquierda
+tú
+giro en U de línea base bien
+base paraguas
 paraguas
-línea de base unarchive
-unarchive
-línea de base deshacer
+Desarchivar línea base
+desarchivar
+Deshacer línea base
 deshacer
-línea de base se despliegan menos
-desdoblar
-línea de base desplegar menos doble
-línea de base desplegar más
-línea de base desplegar más doble
-línea de base no publicada
-No publicado
-línea de base darse de baja
-darse de baja
-línea de base próxima
-próximos
-actualización de línea de base
-actualización de línea de base deshabilitada
-actualización de línea de base
-actualizar
-carga de línea de base
-archivo de carga de línea de base
+La línea base se despliega menos
+desplegar
+línea base se despliega menos doble
+La línea base se despliega más
+línea base se despliega más doble
+línea base no publicada
+inédito
+Cancelar suscripción de línea base
+Darse de baja
+línea base próxima
+Próximamente
+actualización de línea base
+actualización de línea base deshabilitada
+actualización de línea base
+mejora
+carga de línea base
+archivo de carga de línea base
 línea base usb
-usb
-línea de base usb off
-vacunas de línea de base
+USB
+línea base usb apagada
+vacunas de base
 vacunas
-línea de base vape free
+línea base de vapeo gratis
+vape
+Salas de vapeo básicas
 vapear
-salas de vapeo de línea base
-vapeo
-línea de base verificada
-Verificado
-línea de base usuario verificado
-línea de base vertical alinear inferior
-línea base vertical alinear centro
-línea de base vertical alinear superior
-línea de base vertical distribuir
-tonos verticales de línea de base
-tonalidades verticales de línea de base cerradas
-línea de base división vertical
-vibración de línea de base
+línea base verificada
+verificado
+Usuario verificado de línea base
+Línea base alineada verticalmente hacia abajo
+Línea base alineada verticalmente al centro
+Línea base alineada verticalmente hacia arriba
+distribución vertical de línea base
+sombras verticales de línea base
+cortinas verticales de línea base cerradas
+división vertical de línea base
+vibración de línea base
 vibración
-videollamada de línea de base
-cámara de vídeo de línea de fondo
-cámara de vídeo de línea de fondo
-línea de base de chat de vídeo
-archivo de vídeo de línea de base
-etiqueta de vídeo de referencia
-biblioteca de vídeo de línea de base
-configuración de vídeo de línea base
-línea de base estable de vídeo
+videollamada de referencia
+cámara de vídeo de línea base hacia atrás
+cámara de vídeo de línea base frontal
+video chat de línea base
+archivo de vídeo de línea base
+etiqueta de video de línea base
+biblioteca de videos de línea base
+configuración de video de referencia
+Vídeo de línea base estable
 estable
-videocam de línea de base
-videocam
-línea de base videocam apagado
-activo de videojuego de línea de base
-videojuegos
+cámara de vídeo de línea base
+cámara de vídeo
+cámara de vídeo de línea base apagada
+activo de videojuego de referencia
+videojuego
 activo
-activo de videojuegos de línea base apagado
-línea de base view orden del día
-programa
+Activo de videojuego de línea base desactivado
+agenda de vista de línea base
+orden del día
 matriz de vista de línea base
-vista de línea de base carrusel
+carrusel de vista de línea base
 carrusel
-línea de base ver columna
+columna de vista de línea base
 columna
-vista de línea de base cómoda
-cómodo
-vista de línea de base compacta
+Vista de línea base cómoda
+confortable
+Vista de línea base compacta
 compacto
-vista de línea de base acogedor
+Vista de línea base acogedora
 acogedor
-día de vista inicial
+Vista de línea base del día
 título de vista de línea base
 titular
-vista de línea de base en ar
-ar
+vista de línea base en ar
+Arkansas
 vista de línea base kanban
 kanban
-lista de vista de línea base
+lista de vistas de línea base
 módulo de vista de línea base
 módulo
-vista de línea de base edredón
-edredón
+Vista de línea base de la colcha
+colcha
 barra lateral de vista de línea base
 barra lateral
-flujo de vista de línea base
-línea de tiempo de vista de línea de base
-semana de vista de línea base
+vista de línea base de flujo
+vista de línea de tiempo de línea base
+Vista de línea base de la semana
 viñeta de línea base
-vignette
-villa de línea de base
+viñeta
+Villa de línea base
 villa
-Visibilidad de línea base
-Visibilidad
-visibilidad de línea de base apagado
+visibilidad de línea base
+visibilidad
+visibilidad de línea base desactivada
 chat de voz de línea base
-voz off de línea de base
-buzón de voz de línea de base
-buzón de voz
-volcán de línea de base
+voz en off de línea base desactivada
+buzón de voz de línea base
+Buzón de voz
+volcán de línea base
 volcán
-volumen de línea de base hacia abajo
-volumen basal mudo
-mudo
-volumen de referencia apagado
-volumen de referencia hacia arriba
-línea de base activismo voluntario
-voluntarios
+Bajar el volumen de referencia
+silenciar volumen de línea base
+silenciar
+volumen de referencia desactivado
+subir volumen de línea base
+Activismo voluntario de base
+voluntario
 activismo
-línea base vpn clave
-vpn
-clave de línea base vpn desactivada
-bloqueo de línea base vpn
+clave vpn de línea base
+VPN
+Clave VPN de línea base desactivada
+bloqueo de vpn de línea base
 línea base vrpano
 vrpano
-cartera de línea de base
-fondo de pantalla de línea de base
-fondo de pantalla
-almacén de línea base
-almacén
-advertencia de línea de base
-ámbar de advertencia de línea base
+billetera de línea base
+Fondo de pantalla de línea base
+papel pintado
+almacén de referencia
+depósito
+advertencia de línea base
+advertencia de línea base ámbar
 ámbar
-lavado basal
+lavado de línea base
 reloj de línea base
-reloj
-línea de base watch más tarde
+mirar
+Ver línea base más tarde
 más tarde
-línea de base watch off
-agua de línea base
+vigilancia de línea base desactivada
+agua de base
 agua
-daño de agua de línea de base
-daños
+daño por agua de base
+daño
 gota de agua de referencia
 gráfico de cascada de línea base
 cascada
-Ondas de línea base
+ondas de línea base
 ondas
-línea de base agitando la mano
-ondulando
-línea base wb auto
-wb
-línea base wb nublado
+mano que agita línea base
+ondulación
+balance de blancos de línea base automático
+blanco
+línea base WB nublado
 nublado
 línea base wb incandescente
 incandescente
-línea base wb iridiscente
-Iridiscente
+Línea base wb iridiscente
+iridiscente
 sombra de línea base wb
 sombra
-línea base wb sunny
+Línea base WB soleada
 soleado
-línea base wb crepuscular
-crepuscular
+línea base wb crepúsculo
+crepúsculo
 línea base wc
-wc
-línea de base web
+WC
+Web de línea base
 web
-activo web de línea de base
-activos web de línea de base apagados
-Historias web de línea de base
-línea de base webhook
-webhook
-línea de base wechat
-wechat
-fin de semana de línea base
+activo web de línea base
+Activo web de línea base desactivado
+Historias web de base
+Webhook de línea base
+Webhook
+línea base de wechat
+WeChat
+Fin de semana de referencia
 fin de semana
 línea base oeste
-línea de base whatsapp
-whatsapp
-línea de base whatshot
-whatshot
+línea base de whatsapp
+WhatsApp
+línea base whatshot
+¿Qué foto?
 recogida de silla de ruedas de línea base
 silla de ruedas
-recogida
-Línea de base donde votar
-donde
+levantar
+Línea base donde votar
+dónde
 widgets de línea base
 widgets
-ancho de línea base completo
+Ancho de línea base completo
 ancho
 Ancho de línea base normal
-ancho de línea base ancho
+Ancho de línea base ancho
 wifi de línea base
-wifi de línea base 1 bar
-wifi de línea base 2 bar
+Wifi de línea base 1 barra
+Wifi de línea base de 2 barras
 Llamadas wifi de línea base
-llamando
+vocación
 canal wifi de línea base
 canal
-wifi de línea de base encontrar
-cerradura wifi de línea base
-wifi de línea base apagado
-contraseña wifi de línea de base
-configuración protegida wifi de línea de base
-protegidos
-conexión wifi de línea base
-atadura
-línea base wifi tethering error
-línea base wifi error de anclaje redondeado
-línea base wifi tethering apagado
-energía eólica de línea de base
+Búsqueda de wifi de línea base
+bloqueo de wifi de línea base
+Wifi de línea base desactivado
+contraseña wifi de referencia
+configuración protegida de wifi de línea base
+protegido
+Conexión wifi básica
+Anclaje
+Error de conexión wifi de línea base
+Error de conexión wifi de referencia redondeado
+Conexión wifi básica desactivada
+Energía eólica de referencia
 viento
-ventana de línea de base
-barra de vino de línea base
+ventana de línea base
+barra de vinos de base
 vino
-línea de base mujer
-línea de base woo comercio
-woo
+mujer de linea base
+comercio Woo de línea base
+cortejar
 comercio
-línea de base wordpress
-wordpress
-trabajo de línea de base
-historia de trabajo de línea de base
-trabajo de línea de base apagado
-esquema de trabajo de línea de base
-prima de espacio de trabajo de línea base
+línea base de wordpress
+palabra clave
+trabajo de base
+historial laboral de referencia
+trabajo de base
+esquema de trabajo de referencia
+espacio de trabajo básico premium
 espacio de trabajo
-prima
+de primera calidad
 espacios de trabajo de línea base
 espacios de trabajo
-texto de resumen de línea base
-wrap
-ubicación incorrecta de la línea de base
-incorrecto
-línea de base wysiwyg
+texto ajustado de línea base
+envoltura
+ubicación incorrecta de la línea base
+equivocado
+línea base wysiwyg
 wysiwyg
-yarda de línea de base
-yarda
-línea base youtube buscado
-youtube
+patio de línea base
+patio
+Línea base de Youtube buscada
+YouTube
 buscado
-zoom de línea base
+acercamiento de línea base
 zoom
-mapa de zoom de línea base
-zoom de línea de fondo
-mapa de zoom de línea base
-twotone
-18 hasta la calificación
+zoom de línea base en el mapa
+alejar la línea base
+Mapa de alejamiento de línea base
+dos tonos
+18+ calificación
 1k más
-1x mobiledata
+1x datos móviles
 2k más
-30fps seleccionar
+Seleccionar 30 fps
 Rotación 3D
-3g mobiledata
+Datos móviles 3G
 3k más
-4g mobiledata
+Datos móviles 4G
 4g más datos móviles
 4k más
 5k más
-6 pies aparte
-60fps seleccionar
+6 pies de distancia
+Seleccionar 60 fps
 6k más
 7k más
 8k más
 9k más
-unidad de CA
-alarma de acceso
-alarmas de acceso
+unidad de aire acondicionado
+Alarma de acceso
+Alarmas de acceso
 tiempo de acceso
-tiempo de acceso llenado
-Accesibilidad Nuevo
+tiempo de acceso completo
+Accesibilidad nueva
 Accesible hacia adelante
-saldo de la cuenta
-cartera de saldo de cuenta
-caja de la cuenta
+Saldo de cuenta
+saldo de cuenta de billetera
+caja de cuenta
 círculo de cuenta
 árbol de cuentas
-ad unidades
+bloques de anuncios
 añadir una foto
 añadir alarma
 añadir alerta
-añadir caja
-añadir negocio
-añadir tarjeta
-añadir gráfico
-añadir círculo
-añadir contorno de círculo
+añadir cuadro
+Agregar negocio
+Agregar tarjeta
+Agregar gráfico
+añadir circulo
+añadir contorno circular
 añadir comentario
-añadir a casa
-Agregar trabajo en casa
-Agregar llamada ic
-Añadir enlace
-añadir ubicación
-añadir moderador
+añadir casa
+añadir tarea
+Agregar llamada IC
+añadir enlace
+Agregar ubicación
+Agregar moderador
 añadir foto alternativa
 añadir reacción
 añadir carretera
 añadir carrito de compras
-añadir tarea
+Agregar tarea
 añadir a la unidad
-Agregar a la pantalla de inicio
-añadir a las fotos
-Añadir a la cola
-escáner de adf
-configuración del panel de administración
+añadir a la pantalla de inicio
+añadir a fotos
+añadir a la cola
+escáner adf
+Configuración del panel de administración
 anuncios clic
-asiento plano de la línea aérea
-asiento de línea aérea plano angulado
-suite individual con asiento de línea aérea
-asiento de la aerolínea extra espacio para las piernas
-asiento de la aerolínea espacio para las piernas normal
-asiento de la aerolínea con espacio para las piernas reducido
-asiento de línea aérea reclinable extra
-asiento de línea aérea reclinable normal
-paradas de líneas aéreas
+asiento de avión plano
+Asiento de avión plano y en ángulo
+Asiento de avión en suite individual
+Espacio adicional para las piernas en el asiento del avión
+Espacio para las piernas en el asiento del avión normal
+Espacio reducido para las piernas en los asientos de los aviones
+reclinación adicional del asiento del avión
+reclinación normal del asiento del avión
+escalas de aerolíneas
 billete de avión
-airlinemode activo
-Modo avión inactivo
-Transporte al aeropuerto
-alarma añadir
-alarma apagada
-alarma en
-alinear centro horizontal
-Alinear horizontalmente a la izquierda
+modo avión activo
+modo avión inactivo
+servicio de transporte al aeropuerto
+alarma agregar
+Alarma apagada
+Alarma activada
+alinear el centro horizontalmente
+alinear horizontalmente a la izquierda
 alinear horizontalmente a la derecha
-alinear fondo vertical
-alinear centro vertical
-alinear la parte superior vertical
-Todo Inbox
-Todo incluido
-todo fuera
-Ruta alt
+alinear verticalmente la parte inferior
+alinear el centro vertical
+alinear verticalmente la parte superior
+toda la bandeja de entrada
+todo incluido
+completamente
+ruta alternativa
 Correo electrónico alternativo
-historias de amp
+Historias de amplificadores
 bloqueo de aplicaciones
-registro de la app
-configuración de la aplicación
-acceso directo de la aplicación
-apagón de aplicaciones
+registro de la aplicación
+Configuración de la aplicación
+acceso directo a la aplicación
+interrupción de aplicaciones
 gráfico de área
 flecha hacia atrás
-flecha hacia atrás ios
-flecha hacia atrás ios nuevo
-círculo de flecha hacia abajo
-flecha círculo izquierda
-círculo de flecha a la derecha
-círculo de flecha hacia arriba
+flecha atrás ios
+flecha atras ios nuevo
+Flecha círculo hacia abajo
+flecha circulo izquierda
+flecha circulo derecha
+Flecha circular hacia arriba
 flecha hacia abajo
-flecha hacia abajo
-flecha caer hacia abajo círculo
-flecha caer hacia arriba
+Flecha desplegable
+Flecha desplegable círculo
+Flecha desplegable hacia arriba
 flecha hacia adelante
 flecha hacia adelante ios
 flecha izquierda
-flecha hacia fuera
+flecha hacia afuera
 flecha derecha
 flecha hacia arriba
 pista de arte
 relación de aspecto
-asignación ind
-asignación tardía
-asignación retorno
-asignación devuelta
-Asignación entregada
-Ayudar al caminante
-asistente de dirección
-asistente foto
-Carga de trabajo asegurada
+tarea ind
+tarea entregada tarde
+devolución de tarea
+Asignación devuelta
+Tarea entregada
+ayuda para caminar
+asistente de direccion
+Foto del asistente
+carga de trabajo asegurada
 adjuntar correo electrónico
 adjuntar archivo
 adjuntar dinero
 archivo de audio
 auto impresionante
-mosaico impresionante auto
-auto impresionante movimiento
-auto borrar
-auto fix alta
-auto fix normal
-auto fix off
+mosaico impresionante automático
+movimiento automático impresionante
+eliminación automática
+corrección automática alta
+reparación automática normal
+corrección automática desactivada
 gráfico automático
 modo automático
-Historias de automóviles
-autofps seleccionar
+Historias de autos
+selección automática de fps
 temporizador av
-estación de cambio de bebé
-mano trasera
-tabla de copia de seguridad
-comedor de panadería
+Estación cambiadora de pañales
+mano de atrás
+tabla de respaldo
+Comedor de panadería
 gráfico de barras
 predicción por lotes
 batería 0 bar
-batería 1 bar
-batería 2 bar
-batería 3 bar
-batería 4 bar
+batería 1 barra
+batería 2 barras
+batería 3 barras
+batería 4 barras
 batería 5 bar
 batería 6 bar
-Alerta de batería
-carga de batería
-carga de batería completa
+alerta de batería
+cargando la batería
+La batería se está cargando por completo
 batería llena
-ahorro de batería
-batería std
+Ahorrador de batería
+batería estándar
 batería desconocida
 acceso a la playa
-dormitorio bebé
-dormitorio niño
-dormitorio padre
-hora de acostarse
-scooter de bicicleta
+dormitorio bebe
+dormitorio infantil
+dormitorio de los padres
+Hora de dormir libre
+bicicleta scooter
 persianas cerradas
 audio bluetooth
-bluetooth conectado
-bluetooth desactivado
+Bluetooth conectado
+Bluetooth desactivado
 unidad bluetooth
-Búsqueda bluetooth
+búsqueda de bluetooth
 desenfoque circular
 desenfoque lineal
-blur off
-desenfoque encendido
-reserva en línea
-Agregar marcador
+Desenfoque apagado
+desenfocar
+Reservar en línea
+añadir marcador
 marcador añadido
-Marcador de frontera
-Marcador eliminar
-Fronteras todas
-fondo de borde
+borde del marcador
+eliminar marcador
+borde todo
+borde inferior
 frontera clara
-color de borde
-frontera horizontal
+color del borde
+borde horizontal
 frontera interior
-frontera izquierda
-frontera exterior
+borde izquierdo
+borde exterior
 frontera derecha
-estilo de frontera
-top de frontera
+estilo de borde
+borde superior
 borde vertical
 marca de agua de marca
-comedor de desayuno
-brillo auto
+Desayuno comedor
+brillo automático
 brillo alto
 brillo bajo
-medio de brillo
-Transmitido en casa
-Transmitido en el personal
+brillo medio
+transmisión en casa
+transmisión en forma personal
 imagen rota
-navegar por la galería
-No se admite el navegador
+Explorar galería
+Navegador no compatible
 navegador actualizado
 cena de brunch
 gráfico de burbujas
-Informe de bugs
-construir círculo
+Informe de error
+construir circulo
 modo ráfaga
-Alerta de autobús
+alerta de autobús
 centro de negocios
-mes calendario
-El calendario hoy
-día de vista de calendario
-mes de vista de calendario
-semana de vista de calendario
-fin de llamada
-llamada hecha
-llamada merge
+mes civil
+calendario de hoy
+vista del calendario día
+vista de calendario mes
+vista de calendario semana
+Fin de llamada
+llamada realizada
+Llamada de fusión
 llamada perdida
 llamada perdida saliente
-Llamada recibida
-División de llamadas
+llamada recibida
+llamada dividida
 Llamada a la acción
-Mejora de la cámara
+mejora de la cámara
 cámara frontal
 cámara interior
 cámara al aire libre
 cámara trasera
 rollo de cámara
-Cancelar presentación
-cancel schedule enviar
+cancelar presentación
+cancelar programar enviar
 gráfico de velas
 accidente de coche
-alquiler de coches
-reparación de coches
-tarjeta de regalo
-Membresía de tarjeta
-tarjeta de viaje
-fundido conectado
-Fundido para la educación
-captura de pokemon
+Alquiler de coches
+reparación de automóviles
+Tarjeta de regalo
+tarjeta de membresía
+Tarjeta de viaje
+elenco conectado
+Reparto para la educación
+Atrapando pokemon
 torre celular
-wifi celular
-Enfoque central fuerte
-foco central débil
-cambiar círculo
-cambiar la historia
+Wifi celular
+foco central fuerte
+enfoque central débil
+cambiar circulo
+historial de cambios
 estación de carga
 burbuja de chat
 esquema de burbuja de chat
-casilla de verificación
-casilla de verificación contorno en blanco
-Compruebe el círculo
-chequear contorno de círculo
+Casilla de verificación
+Esquema de casilla de verificación en blanco
+comprobar circulo
+comprobar el contorno del círculo
 lista de verificación rtl
-chevron left
-chevron derecho
-cuidado de niños
-amigable para los niños
-modo de lector de cromo
-Notificaciones de círculo
+chevron a la izquierda
+chevron a la derecha
+cuidado de los niños
+Apto para niños
+Modo de lectura de Chrome
+notificaciones circulares
 manos limpias
 servicios de limpieza
-borrar todo
+Limpiar todo
 cerrar pantalla completa
-subtitulado
-Subtítulo cerrado deshabilitado
-título cerrado off
-círculo de nube
-nube hecho
-descarga en la nube
-nube apagado
-cola en la nube
-Sincronización en la nube
+subtítulo cerrado
+subtítulos desactivados
+subtítulos desactivados
+círculo de nubes
+nube hecha
+Descarga en la nube
+Nube apagada
+cola de nubes
+sincronización en la nube
 carga en la nube
-co presente
-código apagado
-cafetera
-Colecciones Marcador
+co-presente
+código desactivado
+Cafetera
+Marcador de colecciones
 lente de color
 banco de comentarios
-comentarios desactivados
+comentarios deshabilitados
 comparar flechas
 calibración de brújula
-número de confirmación
-conectar sin contacto
-TV conectada
-Aeropuertos de conexión
-contacto emergencia
-Correo de contacto
-página de contacto
-teléfono de contacto
-soporte de contacto
+Número de confirmación
+Conectar sin contacto
+televisión conectada
+aeropuertos de conexión
+contacto de emergencia
+correo de contacto
+Página de contacto
+Teléfono de contacto
+Contactar con soporte técnico
 copia de contenido
-corte de contenido
-Pasta de contenido
-Pasta de contenido go
-content paste off
-content paste search
-cámara de control
+contenido cortado
+pegar contenido
+pegar contenido ir
+Pegar contenido fuera
+búsqueda de pegar contenido
+controlar cámara
 punto de control
 punto de control duplicado
-copiar todo
+Copiar todo
 tarifa corporativa
 crear nueva carpeta
 tarjeta de crédito
-tarjeta de crédito off
-puntaje de crédito
-Alerta de crisis
+Tarjeta de crédito desactivada
+Puntuación crediticia
+alerta de crisis
 cultivo 16
 cultivo 3
 cultivo 5
 cultivo 7
-cultivo din
-libre de cultivos
-paisaje de cultivo
-original de la cosecha
+estruendo de los cultivos
+cultivo libre
+paisaje de cultivos
+cosecha original
 retrato de cultivo
 rotación de cultivos
-crop square
-Crueldad Libre
+cuadrado de cultivo
+libre de crueldad
 moneda bitcoin
-cambio de moneda
+cambio de divisas
 moneda franco
 moneda lira
-libra de divisas
-moneda rublo
-moneda rupias
-moneda yen
+moneda libra
+Moneda rublo
+moneda rupia
+Moneda yen
 moneda yuan
 cortinas cerradas
 modo oscuro
-panel de control personalizar
-array de datos
+personalizar el panel
+matriz de datos
 exploración de datos
 objeto de datos
-ahorro de datos apagado
-ahorro de datos en
-umbral de datos
-uso de datos
+protector de datos desactivado
+protector de datos activado
+Umbralización de datos
+Uso de datos
 conjunto de datos vinculado
 rango de fechas
 borrar para siempre
 eliminar esquema
-eliminar barrido
-comedor de entrega
+borrar barrido
+comida a domicilio
 densidad grande
 medio de densidad
 densidad pequeña
 tablero de salida
 servicios de diseño
-Acceso de escritorio deshabilitado
+acceso al escritorio deshabilitado
 escritorio mac
 ventanas de escritorio
-tablero de desarrolladores
-Tablero de desarrollador apagado
-modo desarrollador
-hub del dispositivo
+placa de desarrollo
+placa de desarrollador apagada
+Modo desarrollador
+concentrador de dispositivos
 termostato del dispositivo
 dispositivo desconocido
-dispositivos plegables
-Dispositivos Otros
-dialer sip
-cena comedor
-direcciones bicicleta
+Los dispositivos se pliegan
+otros dispositivos
+marcador sorbo
+cena cenando
+Indicaciones para ir en bicicleta
 direcciones barco
-dirección barco lleno
-Direcciones autobús
-Direcciones autobús lleno
-direcciones coche
+direcciones barco lleno
+Indicaciones para llegar al autobús
+Indicaciones para el autobús lleno
+Indicaciones para llegar en coche
 direcciones coche lleno
-direcciones off
-direcciones ferrocarril
+direcciones fuera
+Indicaciones del tren
 direcciones ferrocarril lleno
-direcciones ejecutar
-direcciones metro
+direcciones correr
+Indicaciones para llegar al metro
 direcciones metro lleno
-Direcciones de tránsito
-direcciones tránsito lleno
-direcciones caminar
+Indicaciones de tránsito
+direcciones de tránsito llenas
+Indicaciones para caminar
 lente sucia
 Deshabilitado por defecto
-Deshabilitado visible
+discapacitados visibles
 disco lleno
 configuración de pantalla
-hacer perturbar
-hacer perturbar fuera
-hacer perturbar en
+No molestar
+No molestar
+no molestar en
 No molestar
 No molestar
 No molestar en
-No molestar en el silencio total
-No pisar
+No molestar en silencio total
+No pises
 No tocar
 escáner de documentos
-domain add
+añadir dominio
 dominio deshabilitado
 verificación de dominio
 hecho todo
-Esquema Hecho
+esquema terminado
 donut grande
 donut pequeño
 puerta trasera
-frente de la puerta
-puerta corredera
-doble flecha
+puerta frontal
+puerta corrediza
+flecha doble
 esquí alpino
-descargar hecho
-descargar sin conexión
+Descarga realizada
+Descargar sin conexión
 manija de arrastre
 indicador de arrastre
-conducir eta
-drive file mover
-drive file mover rtl
-drive file renombrar esquema
-carga de carpeta de unidad
+Conducir eta
+mover archivo de unidad
+mover archivo de unidad rtl
+esquema de cambio de nombre de archivo de unidad
+Carga de carpeta de unidad
 limpieza en seco
-alimentación dinámica
+feed dinámico
 forma dinámica
-e mobiledata
-batería de auriculares
-sensor de borde alto
-sensor de borde bajo
+y datos móviles
+batería de los auriculares
+sensor de bordes alto
+sensor de bordes bajo
 editar atributos
 editar calendario
 editar ubicación
-editar nota
+Nota de edición
 editar notificaciones
-edit off
+editar desactivado
 editar camino
-mujer mayor
+Mujer mayor
 bicicleta eléctrica
 perno eléctrico
 coche eléctrico
 medidor eléctrico
 ciclomotor eléctrico
 rickshaw eléctrico
-scooter eléctrico
-servicios eléctricos
+patinete eléctrico
+servicios electricos
 grabación de emergencia
-cuota de emergencia
-Emoji Emociones
+acción de emergencia
+emociones emoji
 eventos emoji
 banderas emoji
-bebida de comida emoji
-emoji naturaleza
+Comida y bebida emoji
+Emoji naturaleza
 objetos emoji
-personas emoji
+gente emoji
 símbolos emoji
-emoji transporte
+transporte emoji
 hoja de ahorro de energía
 cifrado mejorado
 esquema de error
-advertencia de escalera mecánica
+Advertencia de escalera mecánica
 símbolo del euro
-Estación EV
+estación ev
 evento disponible
-Evento ocupado
-Nota del evento
-Repetir evento
-asiento de evento
-Salir a la app
+evento ocupado
+nota del evento
+repetición de evento
+asiento del evento
+salir a la aplicación
 expandir círculo hacia abajo
-Expandir menos
-Expandir más
-explorar fuera
-exposición neg
+expandir menos
+expandir más
+Explorar fuera
+exposición negativa
 exposición más
 exposición cero
-extensión off
-retoque facial natural
-retoque de la cara apagado
-comprobación de hechos
-baño de la familia
+extensión desactivada
+Retoque facial natural
+Retoque facial desactivado
+verificación de hechos
+baño familiar
 avance rápido
-rebobinado rápido
+rebobinar rápido
 frontera favorita
-Lista de reproducción destacada
+lista de reproducción destacada
 Vídeo destacado
-fibra dvr
+DVR de fibra
 registro manual de fibra
-Fibra nueva
-Pin de fibra
-Registro inteligente de fibra
+fibra nueva
+alfiler de fibra
+registro inteligente de fibra
 copia de archivo
-archivo descarga
-archivo descarga hecho
-Descargar archivo off
+Descarga de archivos
+Descarga de archivo realizada
+Descarga de archivo desactivada
 archivo abierto
 archivo presente
-carga de archivos
-filtro 9 más
-filtro alt apagado
-Filtro b y w
-filtro de enfoque central
+Carga de archivo
+filtro 9 plus
+Desactivar filtro Alt
+filtro b y w
+enfoque central del filtro
 filtro drama
-marcos de filtro
+Marcos de filtro
 filtro hdr
 lista de filtros
-Filtrar lista off
-filtro ninguno
-filtro tilt shift
+lista de filtros desactivada
+No filtrar ninguno
+cambio de inclinación del filtro
 filtro vintage
-Buscar en la página
-encontrar reemplazar
+encontrar en la pagina
+buscar reemplazar
 extintor de incendios
-hidrante contra incendios
+boca de incendio
 camión de bomberos
-Primera página
-pantalla de ajuste
-centro de fitness
-círculo de bandera
-flash auto
-flash apagado
-flash encendido
-Linterna apagada
+primera pagina
+Ajuste de pantalla
+gimnasio
+Círculo de bandera
+flash automático
+apagarse
+Destello encendido
+linterna apagada
 linterna encendida
 clase de vuelo
-tierra de vuelo
-Vuelo despegar
-flip cámara android
-voltear cámara ios
+vuelo tierra
+despegue del vuelo
+cámara giratoria android
+cámara flip ios
 voltear hacia atrás
 voltear al frente
-aleteo guión
-fmd mal
-fmd bueno
-copia de carpeta
-carpeta borrar
-carpeta off
+guión revoloteando
+FMD malo
+La FMD es buena
+Copiar carpeta
+eliminar carpeta
+carpeta apagada
 carpeta abierta
 carpeta compartida
 carpeta especial
 carpeta zip
 Sigue las señales
-fuente descargar
-fuente descargar off
-Banco de alimentos
-izquierda tenedor
-tenedor a la derecha
-format align center
+Descargar fuente
+Descarga de fuentes desactivada
+banco de alimentos
+tenedor a la izquierda
+bifurcación derecha
+formato alinear al centro
 formato alinear justificar
 formato alinear a la izquierda
 formato alinear a la derecha
-formato bold
-formato clear
-formato de relleno de color
-formato de restablecimiento de color
-texto de color de formato
-formato sangría disminución
-incremento de sangría de formato
+formato negrita
+formato claro
+formato color relleno
+formato color restablecer
+formato color texto
+formato sangría disminuir
+formato sangría aumentar
 formato cursiva
-formato de espaciado de líneas
-lista de formatos con viñetas
+formato de interlineado
+formato lista con viñetas
 formato de lista numerada
-format list numerado rtl
-formato overline
-formato paint
-presupuesto de formato
+formato lista numerada rtl
+formato sobre línea
+formato de pintura
+formato de cita
 formas de formato
-formato tamaño
-formato strikethrough
-formato textdirection l a r
-formato textdirection r a l
+tamaño del formato
+formato tachado
+formato textodirección l a r
+formato textodirección r a l
 formato subrayado
-hacia adelante a la bandeja de entrada
-desayuno gratis
-Cancelación gratuita
+Reenviar a la bandeja de entrada
+Desayuno gratis
+cancelación gratuita
 mano delantera
-salida de pantalla completa
-g mobiledata
+salir de pantalla completa
+g datos móviles
 g traducir
 medidor de gas
-generar tokens
-obtener aplicación
-caja de gif
+generando tokens
+Obtener la aplicación
+caja gif
 campo de golf
 gpp malo
 gpp bueno
 gpp tal vez
-gps fijos
-gps no fijos
-gps apagado
-gráfico eq
-mayor que
+GPS arreglado
+GPS no arreglado
+GPS apagado
+ecualizador gráfico
+más que
 mayor que igual
 cuadrícula 3x3
 cuadrícula 4x4
-grid goldenratio
-rejilla apagada
-grilla encendido
+proporción áurea de cuadrícula
+red apagada
+rejilla encendida
 vista de cuadrícula
-añadir grupo
-grupo apagado
-grupo eliminar
+Agregar grupo
+grupo fuera
+eliminar grupo
 trabajo en grupo
-h mobiledata
+h datos móviles
 h más datos móviles
-hdr auto
-hdr auto seleccionar
-hdr mejorado seleccionar
-HDR apagado
-hdr off seleccionar
-hdr en
-hdr en select
-hdr plus
-hdr fuerte
-hdr débil
-auriculares batería
-micrófono de auriculares
-auriculares apagados
-salud y seguridad
-discapacidad auditiva
-corazón roto
+HDR automático
+selección automática de hdr
+Selección mejorada de HDR
+hdr desactivado
+seleccionar hdr desactivado
+HDR activado
+HDR en seleccionar
+HDR+más
+HDR fuerte
+HDR débil
+batería de auriculares
+micrófono de auricular
+Apagado del auricular
+Salud y seguridad
+Discapacitado auditivo
+desolado
 bomba de calor
-Centro de ayuda
+centro de ayuda
 esquema de ayuda
 ocultar imagen
-Ocultar fuente
+ocultar fuente
 alta calidad
-resaltado apagado
-historia edu
-Historial desactivado
-hls fuera
+resaltar desactivado
+educación en historia
+Desactivar historial
+hls apagado
 pueblo de vacaciones
-Inicio max
-Inicio Mini
-servicio de reparación de casa
-Trabajo en casa
-horizontal distribuir
+casa max
+casa mini
+servicio de reparación de viviendas
+tarea
+distribución horizontal
 regla horizontal
-División horizontal
+división horizontal
 bañera de hidromasaje
 clase de hotel
-fondo de reloj de arena
-reloj de arena deshabilitado
+Fondo de reloj de arena
+reloj de arena desactivado
 reloj de arena vacío
 reloj de arena lleno
-top de reloj de arena
+parte superior del reloj de arena
 revestimiento de la casa
-Cómo hacer reg
+Cómo registrarse
 Cómo votar
 patinaje sobre hielo
-relación de aspecto de imagen
-Imagen no soportada
+relación de aspecto de la imagen
+imagen no compatible
 Búsqueda de imágenes
 rodillo de búsqueda de imágenes
 importar contactos
-Importación Exportación
+importación exportación
 dispositivos importantes
 círculo incompleto
 casilla de verificación indeterminada
-<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
-<html><head>
-<title>403 Forbidden</title>
-</head><body>
-<h1>Forbidden</h1>
-<p>You don't have permission to access this resource.</p>
-<hr>
-<address>Apache/2.4.52 (Ubuntu) Server at server3.lookformedical.com Port 443</address>
-</body></html>
-<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
-<html><head>
-<title>403 Forbidden</title>
-</head><body>
-<h1>Forbidden</h1>
-<p>You don't have permission to access this resource.</p>
-<hr>
-<address>Apache/2.4.52 (Ubuntu) Server at server4.lookformedical.com Port 443</address>
-</body></html>
-insertar comentario
-insertar archivo de unidad
-insertar emoticono
-insertar invitación
-insertar enlace
-insertar salto de página
-insertar foto
+Insertar gráfico
+Insertar gráfico delineado
+Insertar comentario
+Insertar archivo de unidad
+Insertar emoticón
+Insertar invitación
+Insertar enlace
+Insertar salto de página
+Insertar foto
 instalar escritorio
 instalar móvil
 instrucciones de integración
 modo intérprete
 invertir colores
-invertir colores apagados
-ios share
-nete completo
-Unir interior
-Unirse a la izquierda
-unirse a la derecha
-kebab comedor
-clave apagado
-flecha de teclado hacia abajo
-flecha de teclado izquierda
-flecha de teclado derecha
-flecha de teclado hacia arriba
-teclado backspace
-capslock de teclado
-Tecla de comando de teclado
-tecla de control de teclado
+Invertir colores desactivados
+Compartir en iOS
+Únase por completo
+Unirse al interior
+Únete a la izquierda
+Únete ahora mismo
+cena de kebab
+llave apagada
+flecha del teclado hacia abajo
+flecha izquierda del teclado
+flecha del teclado hacia la derecha
+flecha del teclado hacia arriba
+retroceso del teclado
+Bloqueo de mayúsculas del teclado
+tecla de comando del teclado
+tecla de control del teclado
 teclado doble flecha hacia abajo
 teclado doble flecha izquierda
 teclado doble flecha derecha
-teclado doble flecha hacia arriba
-teclado ocultar
-tecla de opción de teclado
-retorno de teclado
-pestaña de teclado
+teclado doble flecha arriba
+ocultar teclado
+tecla de opción del teclado
+retorno del teclado
+pestaña del teclado
 voz de teclado
-cama de matrimonio
+cama king
 etiqueta importante
-etiqueta off
-portátil chromebook
-portátil mac
-ventanas de ordenador portátil
+etiqueta apagada
+computadora portátil chromebook
+computadora portátil mac
+ventanas de computadora portátil
 última página
 capas claras
-fuga añadir
+Fuga añadir
 eliminar fugas
-Dejar los bolsos en casa
-leyenda toggle
-desenfoque de lente
-Menos de
-Menos que iguales
-biblioteca añadir
-biblioteca añadir cheque
-libros de biblioteca
-biblioteca música
-modo de luz
+dejar bolsas en casa
+alternar leyenda
+Desenfoque de lente
+menos que
+menos que igual
+añadir biblioteca
+comprobación de adición de biblioteca
+libros de la biblioteca
+Música de biblioteca
+modo claro
 círculo de bombilla
 eje de línea
 estilo de línea
-peso de línea
+Grosor de línea
 escala lineal
-link off
-Cámara enlazada
+Enlace desactivado
+cámara vinculada
 ayuda en vivo
-TV en vivo
+televisión en vivo
 Actividad local
-Aeropuerto local
-atm local
-Bar local
-Café local
-Lavado de coches local
+aeropuerto local
+cajero automático local
+bar local
+Cafetería local
+lavado de autos local
 tienda de conveniencia local
-Comedor local
-Bebida local
-Departamento de Bomberos Locales
-floristería local
+Restaurante local
+bebida local
+departamento de bomberos local
+florista local
 gasolinera local
 tienda de comestibles local
-Hospital local
+hospital local
 hotel local
-Servicio de lavandería local
-Biblioteca local
+servicio de lavandería local
+biblioteca local
 centro comercial local
-Películas locales
+películas locales
 oferta local
 Estacionamiento local
-Farmacia local
+farmacia local
 teléfono local
-Pizza local
-Juego local
-Policía local
-Oficina de Correos Local
-printshop local
-Local see
-envío local
-Taxi local
-ciudad de ubicación
+pizza local
+juego local
+policía local
+oficina de correos local
+imprenta local
+local ver
+Envío local
+taxi local
+Ubicación ciudad
 Ubicación deshabilitada
-Ubicación Off
-ubicación en
-Búsqueda de ubicación
+Ubicación fuera
+Ubicación en
+búsqueda de ubicación
 reloj de bloqueo
-cerradura abierta
-persona de bloqueo
-reseteo de bloqueo
-Iniciar sesión
-cerrar sesión
-logo dev
-parece uno
-Parece que dos
-Baja prioridad
-lte mobiledata
-lte plus mobiledata
-almuerzo comedor
-macro apagado
-bloqueo de correo
+Bloqueo abierto
+persona encerrada
+restablecer bloqueo
+acceso
+finalizar la sesión
+desarrollo de logotipo
+se ve uno
+se ven dos
+baja prioridad
+datos móviles lte
+lte plus datos móviles
+almuerzo cena
+macro desactivada
+Bloqueo de correo
 esquema de correo
 administrar cuentas
-administrar la historia
-administrar la búsqueda
-Mapas de trabajo en casa
+gestionar historial
+gestionar búsqueda
+mapas trabajo en casa
 mapas ugc
-Marcar como no leído
-Marcar chat leído
-Marcar chat sin leer
-marcar correo electrónico leído
-marcar correo electrónico sin leer
-Marcar chat no leído
-buzón markunread
-medios bluetooth apagado
-medios bluetooth en
+marcar como no leído
+marcar chat como leído
+marcar chat como no leído
+marcar correo electrónico como leído
+marcar correo electrónico como no leído
+marcar chat no leído
+buzón marcado como no leído
+Bluetooth de los medios desactivado
+Medios Bluetooth activados
 información médica
 servicios médicos
-medicamento líquido
-sala de reuniones
+medicamento liquido
+Sala de reuniones
 libro de menú
 menú abierto
-merge type
-Micrófono externo apagado
-Micrófono externo en
-mic ninguno
-Micrófono apagado
+tipo de fusión
+micrófono externo apagado
+micrófono externo encendido
+micrófono ninguno
+micrófono apagado
 tecnología militar
 accidente menor
-Servicios varios
-Falta de videollamada
-mobile friendly
+servicios varios
+videollamada perdida
+Compatible con dispositivos móviles
 móvil apagado
 compartir pantalla móvil
-mobiledata apagado
-comentario de modo
-editar modo
+Datos móviles desactivados
+modo comentario
+modo editar
 modo editar esquema
-ventilador de modo apagado
-noche de moda
-Modo de viaje
+modo ventilador apagado
+modo noche
+modo de viaje
 modo de espera
 entrenamiento modelo
 monetización en
-dinero fuera
-Dinero fuera de csred
-monitor corazón
-monitor de peso
-fotos monocromas
+dinero de descuento
+dinero de descuento en csred
+monitorear el corazón
+controlar el peso
+fotografías monocromas
 mal humor
-más horiz
-más tiempo
+más horizontal
+Más tiempo
 Más vert
-fotos en movimiento auto
-fotos en movimiento
-fotos en movimiento
-fotos en movimiento
+fotos en movimiento automáticas
+fotos en movimiento desactivadas
+fotos en movimiento en
+pausa de fotos en movimiento
 fotos en movimiento pausadas
-moverse hacia abajo
-Ir a la bandeja de entrada
+Bajar
+mover a la bandeja de entrada
 subir
 creación de películas
 filtro de película
-gráfico multilínea
-parada múltiple
-nota de música
-Música off
-video musical
+gráfico multilineal
+Parada múltiple
+nota musical
+Música apagada
+Vídeo musical
 mi ubicación
 gente de la naturaleza
-Navegar antes
-Navegar Siguiente
-Cerca de mí
-cerca de mí discapacitado
+navegar antes
+navegar siguiente
+cerca de mi
+cerca de mi discapacitado
 error cercano
-Cerca de fuera
-soporte de cable de leva de nido
-celda de red
+Cerca de
+Soporte con cable para cámara Nest
+célula de red
 comprobación de red
-Bloqueado de red
+red bloqueada
 ping de red
 red wifi
-red wifi 1 bar
-red wifi 2 bar
-red wifi 3 bar
+red wifi 1 barra
+red wifi 2bar
+red wifi 3 barras
 nueva etiqueta
-Nuevos lanzamientos
-siguiente plan
-la semana que viene
-refugio de noche
-Noches de estancia
-sin cuentas
-sin contenido para adultos
-sin mochila
-ninguna celda
-sin accidente
-sin bebidas
-sin cifrado
-sin cifrado gmailerrorred
-sin flash
-sin comida
-sin equipaje
-sin comidas
-sin sala de reuniones
-sin fotografía
-no sim
-sin cochecito
-sin transferencia
-ruido consciente
-control de ruido apagado
-Caminata nórdica
-Noreste
-norte oeste
-No accesible
+nuevos lanzamientos
+próximo plan
+la próxima semana
+refugio nocturno
+noches de estancia
+Sin cuentas
+Sin contenido para adultos
+Sin mochila
+Sin celda
+Sin accidentes
+Sin bebidas
+Sin cifrado
+Sin cifrado gmailerrorred
+Sin destello
+Sin comida
+Sin equipaje
+Sin comidas
+No hay sala de reuniones
+No se permiten fotografías
+Sin sim
+Sin cochecito
+Sin transferencia
+consciente del ruido
+control de ruido desactivado
+marcha nórdica
+noreste
+noroeste
+no accesible
 no es igual
-No está interesado
+No me interesa
 Ubicación no listada
-no iniciado
-nota añadir
-notificación añadir
-notificación importante
-Notificaciones activas
+No iniciado
+nota agregar
+notificación agregar
+Notificación importante
+notificaciones activas
 notificaciones ninguna
-Notificaciones OFF
-Notificaciones pausadas
+notificaciones desactivadas
+notificaciones pausadas
 perno fuera de línea
-pin fuera de línea
-Compartir sin conexión
+pin sin conexión
+compartir sin conexión
 barril de petróleo
-en el entrenamiento del dispositivo
-Vídeo ondemand
-Predicción en línea
-Abrir en el navegador
+sobre el entrenamiento del dispositivo
+Vídeo a la carta
+predicción en línea
+abrir en el navegador
 abierto en su totalidad
 abierto en nuevo
 abierto en nuevo off
-Abrir con
+abrir con
 otras casas
 parrilla al aire libre
-Bandera delineada
-herramienta de pan
-ojo de pez panorámico
-horizontal panorámica
-select horizontal panorámico
+bandera delineada
+herramienta de desplazamiento
+Pez panorámico ojo
+panorama horizontal
+selección horizontal panorámica
 fotosfera panorámica
-selección de fotosfera panorámica
+fotosfera panorámica seleccionar
 panorama vertical
 selección vertical panorámica
-panorámico gran angular
-panorámico gran angular select
+panorama gran angular
+panorama gran angular seleccionar
 modo fiesta
 círculo de pausa
-círculo de pausa lleno
-contorno del círculo de pausa
+Pausa círculo lleno
+esquema del círculo de pausa
 pausar presentación
-bicicleta de pedal
-Acciones pendientes
-contorno de la gente
+bicicleta de pedales
+acciones pendientes
+contorno de personas
 micrófono de cámara permanente
-calendario de contactos perm
-configuración de datos perm
-información del dispositivo perm
+calendario de contactos permanente
+configuración de datos permanentes
+información del dispositivo permanente
 identidad permanente
 medios permanentes
-perm teléfono msg
-perm scan wifi
-persona añadir
-añadir persona deshabilitada
+mensaje telefónico permanente
+escaneo permanente wifi
+persona agregar
+persona agregada discapacitada
 persona fuera
-perfil de la persona
-pin persona
-persona pin círculo
-persona eliminar
-búsqueda de persona
-lesiones personales
-vídeo personal
-control de plagas
-roedor de control de plagas
-teléfono android
-teléfono altavoz bluetooth
+contorno de persona
+pin de persona
+persona pin circulo
+persona quitar
+Búsqueda de personas
+Lesión personal
+Vídeo personal
+Control de plagas
+control de plagas de roedores
+Teléfono Android
+altavoz bluetooth del teléfono
 devolución de llamada telefónica
 teléfono deshabilitado
 teléfono habilitado
 teléfono reenviado
-Teléfono en conversación
-teléfono iphone
+teléfono en conversación
+Teléfono iPhone
 teléfono bloqueado
-Teléfono perdido
-teléfono pausado
-borrar phonelink
+teléfono perdido
+El teléfono se puso en pausa
+Borrar el enlace telefónico
 bloqueo de phonelink
-phonelink apagado
+Enlace telefónico desactivado
 anillo de enlace telefónico
-Configuración de phonelink
-álbum de fotos
+configuración de phonelink
+Álbum de fotos
 cámara de fotos
-cámara de fotos
-frente de cámara de fotos
-filtro de foto
+parte trasera de la cámara fotográfica
+cámara de fotos frontal
+filtro de fotografía
 biblioteca de fotos
-tamaño de la foto seleccionar real
-tamaño de la foto seleccionar grande
-tamaño de la foto select small
+tamaño de la foto seleccione real
+tamaño de la foto seleccione grande
+tamaño de la foto seleccione pequeño
 piano apagado
-Imagen como pdf
-Imagen en Imagen
+imagen como pdf
+imagen en imagen
 gráfico circular
 esquema de gráfico circular
-caída de pines
-extremo del perno
-Pin Invocar
-pin off
-tabla de pivote
-jugar flecha
+caída de un alfiler
+extremo del pasador
+invocar pin
+Quitar el alfiler
+gráfico de tabla dinámica
+Jugar flecha
 círculo de juego
 círculo de juego lleno
-círculo de juego lleno de blanco
+Círculo de juego lleno de blanco
 contorno del círculo de juego
-jugar con discapacidad
+juego deshabilitado
 jugar por trabajo
-jugar lección
-lista de reproducción añadir
-Agregar una lista de reproducción
-lista de reproducción añadir check circle
-lista de reproducción añadir círculo
-reproducción de lista de reproducción
-lista de reproducción eliminar
+lección de juego
+Agregar lista de reproducción
+lista de reproducción agregar verificación
+Agregar lista de reproducción Marcar círculo
+Agregar círculo a lista de reproducción
+lista de reproducción reproducir
+eliminar lista de reproducción
 más menos
-más uno
+Más uno
 punto de venta
 wifi portátil apagado
-post añadir
-entrada de potencia
-apagado
-ajustes de potencia nuevos
-fabricación de precisión
+Publicar añadido
+Entrada de potencia
+Apagado
+nueva configuración de energía
+Fabricación de precisión
 mujer embarazada
-presente a todos
-cambio de precios
-comprobación de precios
-impresión deshabilitada
-Prioridad alta
+Presente para todos
+cambio de precio
+Comprobación de precios
+Impresión deshabilitada
+prioridad alta
 Consejo de privacidad
-Conectividad privada
+conectividad privada
 límites de cantidad de producción
-Tanque de propano
-Público Off
-Publicado con cambios
-reloj de perforación
-pasador de empuje
+tanque de propano
+público fuera
+publicado con cambios
+reloj de fichar
+chincheta
 código qr
 escáner de código qr
-constructor de consultas
+generador de consultas
 estadísticas de consulta
-Respuesta a la pregunta
+pregunta respuesta
 signo de interrogación
 música de cola
-queue play siguiente
-r mobiledata
-botón de radio activado
-botón de radio sin marcar
-Alerta ferroviaria
-ramen comedor
+cola de reproducción siguiente
+r datos móviles
+botón de radio marcado
+Botón de opción sin marcar
+alerta ferroviaria
+cena de ramen
 rampa izquierda
 rampa derecha
 revisión de tarifas
-raw off
-raw en
-Leer más
-agente de bienes raíces
+crudo
+crudo en
+leer más
+agente inmobiliario
 recibo largo
-Actores recientes
+actores recientes
 grabar voz en off
-reducir la capacidad
-Me recuerdas
-eliminar círculo
-eliminar contorno de círculo
+reducir capacidad
+Acuérdate de mí
+eliminar circulo
+eliminar el contorno del círculo
 eliminar hecho
-Eliminar de la cola
-Eliminar moderador
-eliminar el ojo rojo
-Retirar camino
-Eliminar carrito de compras
-<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
-<html><head>
-<title>403 Forbidden</title>
-</head><body>
-<h1>Forbidden</h1>
-<p>You don't have permission to access this resource.</p>
-<hr>
-<address>Apache/2.4.52 (Ubuntu) Server at server5.lookformedical.com Port 443</address>
-</body></html>
-<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
-<html><head>
-<title>403 Forbidden</title>
-</head><body>
-<h1>Forbidden</h1>
-<p>You don't have permission to access this resource.</p>
-<hr>
-<address>Apache/2.4.52 (Ubuntu) Server at server6.lookformedical.com Port 443</address>
-</body></html>
-<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
-<html><head>
-<title>403 Forbidden</title>
-</head><body>
-<h1>Forbidden</h1>
-<p>You don't have permission to access this resource.</p>
-<hr>
-<address>Apache/2.4.52 (Ubuntu) Server at server4.lookformedical.com Port 443</address>
-</body></html>
+eliminar de la cola
+eliminar moderador
+eliminar ojos rojos
+quitar carretera
+eliminar carrito de compras
+repetir en
+repite uno
+repita uno en
 círculo de repetición lleno
-responder a todos
-Informe Gmailerrorred
+Responder a todos
+reportar gmailerrorred
 informe apagado
-problema de informe
+Reportar problema
 página de solicitud
-solicitar presupuesto
-restablecimiento de tv
-menú de restaurante
-Restaurar desde la basura
-restaurar página
-tazón de arroz
+Solicitar cotización
+Reiniciar la televisión
+Menú del restaurante
+restaurar desde la papelera
+restaurar pagina
+cuenco de arroz
 volumen del anillo
 lanzamiento de cohete
-cortinas de rodillo
-cortinas de rodillo cerradas
+cortinas enrollables
+persianas enrollables cerradas
 patinaje sobre ruedas
-Preferencias de habitación
+preferencias de habitación
 servicio de habitaciones
-girar 90 grados ccw
-girar 90 grados cw
-Girar a la izquierda
+girar 90 grados en sentido antihorario
+girar 90 grados en sentido horario
+girar a la izquierda
 girar a la derecha
-rotonda izquierda
-rotonda derecha
+rotonda a la izquierda
+rotonda a la derecha
 esquina redondeada
-rss feed
+fuente rss
 carpeta de reglas
-círculo de carrera
-Correr con errores
-conexión rv
+correr en circulo
+corriendo con errores
+Conexión de RV
 control de seguridad
 divisor de seguridad
 guardar todo
 Guardar como
-Búsqueda guardada
+búsqueda guardada
 diagrama de dispersión
-horario enviar
-paisaje de bloqueo de pantalla
-retrato de bloqueo de pantalla
+programar envío
+bloqueo de pantalla horizontal
+bloqueo de pantalla vertical
 rotación de bloqueo de pantalla
 rotación de pantalla
-escritorio de búsqueda de pantalla
+Búsqueda de pantalla en el escritorio
 compartir pantalla
 monitor de captura de pantalla
-bucear
-tarjeta sd
-sd tarjeta de alerta
+submarinismo
+tarjeta SD
+alerta de tarjeta sd
 almacenamiento sd
 buscar fuera
 actualización de seguridad
-Actualización de seguridad buena
-aviso de actualización de seguridad
+actualización de seguridad buena
+advertencia de actualización de seguridad
 seleccionar todo
-auto-mejora
+superación personal
 enviar y archivar
 enviar extensión de tiempo
-Enviar al móvil
-puerta del sensor
+enviar al móvil
+puerta con sensor
 sensor ocupado
-ventana de sensor
+ventana del sensor
 sensores apagados
-Sentimiento insatisfecho
-Sentimiento neutral
-Sentimiento satisfecho
-Sentimiento ligeramente insatisfecho
-Sentimiento muy insatisfecho
-Sentimiento muy satisfecho
-set meal
-configuración accesibilidad
+sentimiento insatisfecho
+sentimiento neutral
+sentimiento satisfecho
+sentimiento ligeramente insatisfecho
+sentimiento muy insatisfecho
+sentimiento muy satisfecho
+comida preparada
+Configuraciones de accesibilidad
 aplicaciones de configuración
-configuración de copia de seguridad restaurar
-ajustes bluetooth
-ajustes de brillo
-configuración de celda
-ajustes ethernet
-configuración de la antena de entrada
-configuración del componente de entrada
-configuración de entrada compuesto
-ajustes de entrada hdmi
-configuración de entrada svideo
-configuración overscan
-configuración del teléfono
-potencia de configuración
+Restaurar copia de seguridad de configuración
+configuración de bluetooth
+Ajustes de brillo
+celda de configuración
+configuración ethernet
+Ajustes de entrada de antena
+componente de entrada de configuración
+configuración de entrada compuesta
+configuración entrada hdmi
+Ajustes de entrada de svideo
+configuración de sobreescaneo
+Configuraciones del teléfono
+Ajustes de energía
 configuración remota
-La configuración sugiere
-sistema de ajustes ensueño
+configuración sugerida
+configuración sistema ensueño
 configuración de voz
-frío severo
+resfriado severo
 línea de forma
 compartir hora de llegada
-Compartir ubicación
-escudo luna
-Tienda 2
-bolsa de compras
+compartir ubicación
+Luna escudo
+tienda dos
+bolsa de la compra
 cesta de la compra
-carrito de compras
-carrito de la compra
+carro de la compra
+pago en carrito de compras
 texto corto
-mostrar gráfico
-shuffle en
-velocidad de obturación
-lengua de signos
+Mostrar gráfico
+ponerse rápidamente
+Velocidad de obturación
+lenguaje por señas
 señal celular 0 bar
-señal celular 1 bar
-señal celular 2 bar
-señal celular 3 bar
-señal celular 4 bar
+señal celular 1 barra
+señal celular 2 barras
+señal celular 3 barras
+señal celular 4 barras
 señal celular
-señal celular alt 1 bar
-señal celular alt 2 bar
-señal celular conectada sin internet 0 bar
-señal celular conectada sin internet 1 bar
-señal celular conectada sin internet 2 bar
-señal celular conectada sin internet 3 bar
-señal celular conectado sin internet 4 bar
-señal celular no sim
+señal celular alt 1 barra
+señal celular alt 2 barra
+señal celular conectada sin internet 0 barras
+señal celular conectada sin internet 1 barra
+señal celular conectada sin internet 2 barras
+señal celular conectada sin internet 3 barras
+señal celular conectada sin internet 4 barras
+señal celular sin sim
 señal celular nodata
 señal celular nula
 señal celular apagada
 señal wifi 0 bar
-señal wifi 1 bar
+señal wifi 1 barra
 señal wifi 1 barra de bloqueo
-señal wifi 2 bar
+señal wifi 2bar
 señal wifi 2 barra de bloqueo
-señal wifi 3 bar
-señal wifi 3 barra de bloqueo
-señal wifi 4 bar
-señal wifi 4 barra de bloqueo
-señal wifi mal
-señal wifi conectado sin internet
-señal wifi apagado
-señal wifi statusbar 4 bar
-señal wifi barra de estado conectada sin internet
-señal wifi statusbar null
-tarjeta SIM
-alerta de tarjeta SIM
-tarjeta sim descarga
+señal wifi 3 barras
+señal wifi 3 barras de bloqueo
+señal wifi 4 barras
+señal wifi 4 barras de bloqueo
+señal wifi mala
+señal wifi conectada sin internet
+señal wifi apagada
+barra de estado de señal wifi 4 barras
+barra de estado de señal wifi conectada sin internet
+barra de estado de señal wifi nula
+Tarjeta SIM
+alerta de tarjeta sim
+Descargar tarjeta SIM
 cama individual
-saltar siguiente
+Saltar siguiente
 Saltar anterior
-cámara lenta de vídeo
+Vídeo en cámara lenta
 botón inteligente
 pantalla inteligente
 pantalla inteligente
 juguete inteligente
-libre de humo
-habitaciones para fumadores
-sms fracasó
+Libre de humo
+Habitaciones para fumadores
+El SMS falló
 carpeta de fragmentos
 distancia social
 energía solar
-Ordenar por alfa
-cocina de sopa
-América del Sur
-Sureste
+ordenar por alfa
+comedor de beneficencia
+Sudamerica
+sureste
 Suroeste
 barra espaciadora
-tablero del espacio
+tablero espacial
 audio espacial
-audio espacial apagado
+audio espacial desactivado
 seguimiento espacial
 grupo de oradores
 notas del orador
-Notas del altavoz apagadas
-teléfono del altavoz
-bar de deportes
-béisbol deportivo
-baloncesto deportivo
+notas del orador desactivadas
+Teléfono con altavoz
+bar deportivo
+Deportes béisbol
+deportes baloncesto
 deportes cricket
-deportes esports
-fútbol deportivo
+Deportes deportes electrónicos
+Deportes fútbol
 deportes golf
 gimnasia deportiva
-Balonmano deportivo
-hockey deportivo
+deportes balonmano
+Deportes de hockey
 deportes kabaddi
-artes marciales
+artes marciales deportivas
 deportes mma
-deportes motorsports
-rugby deportivo
-puntuación deportiva
-fútbol deportivo
-tenis deportivo
+Deportes deportes de motor
+deportes rugby
+marcador deportivo
+Deportes fútbol
+Deportes tenis
 deportes voleibol
 pie cuadrado
-gráfico ssid
-gráfico de barras apilado
+gráfico de ssid
+gráfico de barras apiladas
 gráfico de líneas apiladas
-frontera de la estrella
-borde de estrella púrpura500
-mitad estrella
+borde de estrella
+borde de estrella morado 500
+media estrella
 contorno de estrella
-estrella púrpura500
-star rate
-permanecer paisaje actual
-Permanecer retrato actual
+estrella purpura500
+tasa de estrellas
+Manténgase actualizado con el panorama
+retrato actualizado
 permanecer paisaje primario
-Permanecer retrato primario
+permanecer retrato primario
 nota adhesiva
-círculo de parada
-compartir pantalla de detención
-store mall directorio
-strikethrough s
-Subdirectorio flecha izquierda
-flecha derecha del subdirectorio
-Subtítulos Off
-Círculo de usuarios supervisado
+detener el círculo
+detener compartir pantalla
+directorio de tiendas y centros comerciales
+tachado s
+subdirectorio flecha izquierda
+subdirectorio flecha derecha
+subtítulos desactivados
+círculo de usuarios supervisados
 cuenta de supervisor
-agente de apoyo
+agente de soporte
 sonido envolvente
-llamadas de swap
-swap horiz
-swap círculo horizontal
-swap vert
-swap círculo vertical
-deslizar hacia abajo
-deslizar hacia la izquierda
-deslizar a la derecha
-deslizar hacia arriba
-deslizar vertical
-cambiar acceso directo
-cambiar acceso acceso directo añadir
+intercambiar llamadas
+intercambiar horiz
+intercambiar círculo horizontal
+intercambiar vert
+intercambiar círculo vertical
+Deslizar hacia abajo
+Deslizar hacia la izquierda
+Deslizar hacia la derecha
+Deslizar hacia arriba
+deslizar verticalmente
+acceso directo al interruptor
+Cambiar acceso directo Agregar
 cambiar de cuenta
-interruptor de cámara
+cambiar de cámara
 cambiar a la izquierda
 cambiar a la derecha
-cambiar vídeo
-Sincronización deshabilitada
+cambiar video
+sincronización deshabilitada
 bloqueo de sincronización
 problema de sincronización
-Actualización de seguridad del sistema
-Actualización de seguridad del sistema buena
-advertencia de actualización de seguridad del sistema
+actualización de seguridad del sistema
+actualización de seguridad del sistema buena
+Advertencia de actualización de seguridad del sistema
 actualización del sistema
 pestaña no seleccionada
 barra de mesa
-Cuadro
-restaurante de mesa
+gráfico de tabla
+mesa de restaurante
 filas de tabla
-vista de mesa
-tablet android
+vista de tabla
+tableta android
 tableta mac
 caras de etiqueta
 comida para llevar
-toque y toque
-Alerta de taxi
-Budista del templo
-templo hindu
-Disminuir el texto
+Toca y juega
+alerta de taxi
+templo budista
+templo hindú
+Disminución de texto
 campos de texto
 formato de texto
 aumento de texto
 texto rotar hacia arriba
-texto rotar vertical
-texto rotación angledown
-angleup de rotación de texto
-rotación de texto hacia abajo
-rotación de texto none
+texto rotar verticalmente
+ángulo de rotación del texto hacia abajo
+ángulo de rotación del texto hacia arriba
+Rotación de texto hacia abajo
+rotación de texto ninguna
 fragmento de texto
-comedia de teatro
+comedia teatral
 termostato automático
-pulgar hacia abajo
-pulgar hacia abajo
+Pulgar hacia abajo
+Pulgar hacia abajo
+Pulgar hacia arriba
 pulgar hacia arriba
-pulgar hacia arriba
-pulgares arriba hacia abajo
-<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
-<html><head>
-<title>403 Forbidden</title>
-</head><body>
-<h1>Forbidden</h1>
-<p>You don't have permission to access this resource.</p>
-<hr>
-<address>Apache/2.4.52 (Ubuntu) Server at server4.lookformedical.com Port 443</address>
-</body></html>
+pulgares arriba abajo
+Es hora de irse
 temporizador 10 seleccionar
 temporizador 3 seleccionar
 temporizador apagado
-consejos y actualizaciones
+Consejos y actualizaciones
 reparación de neumáticos
-alternar apagado
-activar
-app táctil
-cambios de pista
-Traslado dentro de una estación
-transit enterexit
-viajes explorar
-tendencia a la baja
-trending flat
-Tendencia hacia arriba
+Desactivar
+Activar/desactivar
+aplicación táctil
+seguimiento de cambios
+transferencia dentro de una estación
+tránsito entrarsalir
+viajar explorar
+Tendencia a la baja
+tendencia plana
+tendencia al alza
 origen del viaje
 Gire a la izquierda
-girar a la derecha
-girar ligeramente a la izquierda
-girar ligeramente a la derecha
-envuelto
-Entregado no
-tv off
-dos ruedas
-especimen tipo
-u gire a la izquierda
-u gire a la derecha
-Despliegue menos
-Despliegue menos doble
+Gire a la derecha
+gira ligeramente a la izquierda
+Gire ligeramente a la derecha
+entregado
+entregado no
+televisor apagado
+vehículo de dos ruedas
+espécimen tipo
+gira a la izquierda
+gira a la derecha
+desplegarse menos
+desplegar menos doble
 Desplegar más
-Desplegar más doble
+desplegar más doble
 actualización deshabilitada
 subir archivo
-usb apagado
-vape gratis
+USB apagado
+libre de vape
 salas de vapeo
 usuario verificado
-vertical alinear fondo
-centro de alineación vertical
-top de alineación vertical
+Alinear verticalmente hacia abajo
+alineación vertical centrada
+Alinear verticalmente hacia arriba
 distribución vertical
-tonos verticales
+cortinas verticales
 cortinas verticales cerradas
-División vertical
+división vertical
 videollamada
-cámara de vídeo
-frente de cámara de vídeo
-chat de vídeo
+cámara de vídeo trasera
+cámara de vídeo frontal
+video chat
 archivo de vídeo
-etiqueta de vídeo
-biblioteca de vídeo
-configuración de vídeo
-estable de vídeo
-videocam apagado
-activos de videojuegos
-activo de videojuegos apagado
+etiqueta de video
+videoteca
+configuración de video
+video estable
+cámara de video apagada
+activo de videojuego
+Activo de videojuego desactivado
 ver agenda
-vista array
-Ver carrusel
+Ver matriz
+ver carrusel
 ver columna
-Vista cómoda
-ver compacto
-Vista acogedora
-ver día
-ver título
-vista en ar
-ver Kanban
+vista cómoda
+Ver compacto
+vista acogedora
+ver dia
+ver titular
+Ver en ar
+ver kanban
 ver lista
-módulo de vista
-ver edredón
+ver módulo
+ver colcha
 ver barra lateral
-ver flujo
-ver línea de tiempo
+Ver transmisión
+ver la cronología
 ver semana
-Visibilidad off
+visibilidad desactivada
 chat de voz
-voz over off
-volumen hacia abajo
-volumen mudo
+voz en off desactivada
+Bajar volumen
+silenciar volumen
 volumen apagado
-volumen hacia arriba
-Activismo voluntario
+subir volumen
+activismo voluntario
 clave vpn
-vpn clave apagada
-vpn bloqueo
-ámbar de advertencia
-ver más tarde
-cuidado apagado
-daños por agua
-gota de agua
+Clave VPN desactivada
+bloqueo de vpn
+advertencia ámbar
+Mirar más tarde
+Cuidado
+daño por agua
+Gota de agua
 gráfico de cascada
-agitando la mano
-wb auto
-wb nublado
-wb incandescente
+mano que agita
+WB automático
+WB nublado
+bombilla incandescente blanca
 wb iridiscente
-sombra wb
-wb soleado
-wb crepúsculo
+sombra blanca
+WB soleado
+WB Crepúsculo
 activo web
-web asset off
+Activo web desactivado
 Historias web
-recogida en silla de ruedas
+recogida de silla de ruedas
 Dónde votar
-ancho completo
+Ancho completo
 ancho normal
-ancho ancho ancho
-Wifi 1 bar
-Wi-Fi 2 bar
+ancho ancho
+Wifi 1 barra
+Wifi 2 barras
 Llamadas wifi
 canal wifi
-wifi encontrar
-cerradura wifi
+Encontrar wifi
+bloqueo wifi
 wifi apagado
 contraseña wifi
 configuración protegida wifi
-WiFi Tethering
-error de anclaje wifi
-error de anclaje wifi redondeado
-wifi tethering apagado
+Conexión wifi
+error de conexión wifi
+Error de conexión wifi redondeado
+Conexión wifi desactivada
 energía eólica
 bar de vinos
-woo comercio
-historia del trabajo
-trabajar fuera
+comercio engañoso
+Historial laboral
+desahogarse
 esquema de trabajo
 espacio de trabajo premium
-texto de ajuste
+ajustar texto
 Ubicación incorrecta
-youtube busca
-zoom en
-zoom en el mapa
-alejar
-zoom mapa
+youtube buscó
+dar un golpe de zoom
+ampliar el mapa
+zoom afuera
+zoom afuera mapa

@@ -1,69 +1,69 @@
-airpods
+Airpods
 electrónica
 general
-ar gafas
-ar
-gafas
+gafas de realidad aumentada
+Arkansas
+anteojos
 metaverso
 maletín
 SEO y marketing digital
-seo
-and
+Posicionamiento web
+y
 digital
-comercialización
-CCTV
-programación de bases de datos
+marketing
+circuito cerrado de televisión
+Programación de bases de datos
 base de datos
 programación
 codificación de programación
 codificación
-purificador de aire
+Purificador de aire
 aire
 purificador
 nube
 hombre
 gráfico circular
 pastel
-gráfico
-programación sql
+cuadro
+Programación SQL
 sql
-ayudar
+asistir
 batería
 navegador
-ordenador
-conexión de base de datos
-conectando
+computadora
+Conectando base de datos
+Conectando
 acondicionador de aire
 acondicionador
 astrofísica
 leva
 portapapeles
-enlaces de programación entre la base de datos y el lado del cliente
-enlaces
+Enlaces de programación entre la base de datos y el lado del cliente
+campo de golf
 entre
 cliente
 lado
 cámara
-computación en nube
+Computación en la nube
 computación
 entrega
-programación de bases de datos en la nube
+Programación de bases de datos en la nube
 programación
 gafas virtuales
 virtual
 mariposa
 software de edición de código
 código
-edditing
+Edición
 software
 enfriador
-frasco
-robot de vacío
+matraz
+robot aspirador
 robot
 vacío
-cpu
-examinar código de base de datos
-examen
+UPC
+Examinando el código de la base de datos
+examinando
 escáner de huellas dactilares
 huella dactilar
 escáner
@@ -72,45 +72,45 @@ reloj despertador digital
 alarma
 reloj
 archivo
-código de fijación
+Código de reparación
 fijación
-partido
-videojuegos
+fiesta
+videojuego
 criptomoneda
 medalla
 velocidad de programación
 velocidad
 refrigerador
-comprimido
-drone
+tableta
+zumbido
 aumentar el rendimiento del software
 aumentar
-ejecución
-portátil
+actuación
+computadora portátil
 usuario
-holograma 3d
-3d
+Holograma 3D
+3 dimensiones
 holograma
 juego
 candado
-estadísticas del programa
+Estadísticas del programa
 programa
-estadísticas
-transferencia
-lupe
-código de amor
-amor
-collar de mascotas
-pet
-collar
+estadística
+transferir
+lupa
+Me encanta codificar
+amar
+collar para mascota
+mascota
+cuello
 nave espacial
 espacio
-buque
-gafas vr
-vr
+barco
+gafas de realidad virtual
+realidad virtual
 avatar
 autobús
-gpu
+procesador gráfico
 tamaño del código
 tamaño
 de
@@ -120,256 +120,256 @@ disco duro
 duro
 disco
 idea
-personas
+gente
 codificación vr
 lámpara
-smartphone
-Realidad virtual
+teléfono inteligente
+realidad virtual
 realidad
-js programación
+Programación en js
 js
 meta
-maceta de plantas
+maceta
 planta
-pote
+olla
 capas
-nft
-volver a comprobar el código
+No disponible
+vuelva a verificar el código
 volver a comprobar
 iluminación inteligente
-inteligente
+elegante
 iluminación
 bombilla
-amor resolver problema
+Me encanta resolver problemas
 resolviendo
 problema
 privacidad
 lavadora inteligente
 lavado
 máquina
-Realidad aumentada
+realidad aumentada
 aumentado
 inicialización
-loudspaker
+altavoz
 brazo robótico
-robotizado
+robótico
 brazo
-tarjeta de memoria
+Tarjeta de memoria
 memoria
 tarjeta
 código de ejecución
-corriendo
+correr
 casa inteligente
-Inicio
+hogar
 concierto
-rastreador de fitness
-aptitud
+Rastreador de actividad física
+aptitud física
 rastreador
 monitor
-ingeniero de software
+Ingeniero de software
 ingeniero
-analytics
+analítica
 generar código
 generar
 toma de corriente
-potencia
-zócalo
-nube codign
-codigo
+fuerza
+enchufe
+codificación de nubes
+codificación
 grifo
 ratón
 objetivo
-comando de voz
+Comando de voz
 voz
-comando
+dominio
 música
 herramienta de reparación
-reparación
+reparar
 herramienta
 contratos inteligentes
 contratos
 archivos sql
 archivos
-taxi
-base de datos a la programación del cliente
+Taxi
+Programación de base de datos a cliente
 a
-entrega de drones
-juegos
+entrega con drones
+juego de azar
 red
 grupo
-networking
+Redes
 portal
-Código de búsqueda rápida
+código de búsqueda rápida
 rápido
 buscar
 cerradura inteligente
-cerradura
+cerrar
 binario
 codificación vr
-clave
-pendrive
-Recompensa de programación
-recompensa
+llave
+memoria USB
+recompensa de programación
+premio
 dinero digital
 dinero
-enchufe
-rankings de programadores
+enchufar
+clasificaciones de programadores
 programador
-rankings
+clasificaciones
 coche inteligente
-coche
+auto
 arte digital
 arte
-programación en el ordenador portátil
-on
+Programación en computadora portátil
+en
 satélite
-Smart TV
-TV
-it servicio
-es
+televisión inteligente
+televisor
+servicio de ti
+él
 servicio
 escaneo de código qr
-qr
+código QR
 escanear
 escala
-solución fuera de una caja
+Solución lista para usar
 solución
-fuera
+afuera
 a
-recuadro
-Corregir código
-Corrección
+caja
+corrigiendo código
+de corrección
 juegos en línea
 en línea
 cámara de fotos
 foto
-mantener el código de los servidores
+mantener el código del servidor
 mantener
 servidores
 servidor
 Opciones dentro de un editor de código
-opciones
-Dentro de
+Opciones
+dentro
 editor
 compartir
-Clasificación de codificadores
-codificador
-ranking
-outfit
-escudo
-diseño de personajes
-carácter
+clasificación de codificadores
+descifrador
+categoría
+atuendo
+blindaje
+Diseño de personajes
+personaje
 diseño
 mapa
-tarjeta SIM
-sim
+Tarjeta SIM
+simulación
 codificador unicornio
 unicornio
-full stack
+pila completa
 lleno
 pila
-guante con cable
+guante con alambre
 cableado
 guante
 bucle infinito
-infinty
+infinito
 bucle
 marcador de posición
-smartwatch
-360 imagen
+reloj inteligente
+Imagen de 360 grados
 imagen
-Algoritmo de aprendizaje
-aprendizaje
+algoritmo de aprendizaje
+aprendiendo
 algoritmo
 puerta inteligente
 puerta
-Explicar el código
-Explicar
-escáner facial
-cara
-chip de ordenador
+Explicando el código
+explicando
+escaneo facial
+rostro
+Chip de computadora
 chip
-resaltando el código
-resaltando
+resaltando código
+destacando
 mano
-Contratar Coder
-alquiler
+contratar codificador
+contratar
 buscar programador freelance
-freelance
-toque
-c programación
-c
+independiente
+grifo
+Programación en C
+do
 controlador
 termostato
 teletransportación
-usb
-cámara de vídeo
-vídeo
-software de prueba en el ordenador portátil
-ensayo
+USB
+cámara de video
+video
+Probar software en una computadora portátil
+prueba
 señal wifi
-wifi
+Wifi
 señal
-js archivos
+archivos js
 teclado inalámbrico
 inalámbrico
 teclado
-identificar el lenguaje de código
+Identificar el lenguaje del código
 identificar
 idioma
 llave inglesa
-subir código a la nube
-cargando
-los
+Subiendo código a la nube
+Subiendo
+el
 usando api
 usando
 api
-insertar código
-insertar
-buscar código en wiki
+Insertar código
+insertando
+buscando código en wiki
 búsqueda
 wiki
-empujar el código a github
-empujando
-github
-chat
+enviando código a github
+emprendedor
+Github
+charlar
 Error de tipo en el código
 tipo
 error
 en
-transferir código de la nube a la PC
-Desde
-pc
+transferir código de la nube a la pc
+de
+ordenador personal
 calculadora
-código de synchronisin con git
+Código de sincronización con git
 sincronisina
 con
 git
-descargar código desde la nube
+Descargar código de la nube
 descargar
-Lenguaje HTML
+lenguaje html
 html
-css idioma
+lenguaje CSS
 css
 añadir documento php
-añadir
+agregar
 php
 documento
 dólar
-Pensando en el código
-Pensando
-proyecto programador
+pensando en código
+pensamiento
+proyecto de programador
 proyecto
-Tareas de programador
+Tareas del programador
 tareas
-programador trabajo en equipo
+trabajo en equipo de programadores
 trabajo en equipo
-Búsqueda de Coder
-por
-Código de contribución
-Contribuir
+buscar codificador
+para
+contribuyendo con código
+contribuyendo
 fragmento de código js
-snippet
+retazo
 aprender js
 aprender
 bolsa de dinero
@@ -377,93 +377,93 @@ bolsa
 resolver algoritmo
 resolver
 contrato
-código de tipeo
+escribiendo código
 mecanografía
 Programación en el teléfono
 teléfono
-entrega de código
-entrega
-Llegando con el código
-venir
+entregando código
+entregando
+inventando código
+próximo
 arriba
-orador
-código de escritura en el ordenador portátil
-Implementación api
-ejecución
-interfaz de programación
+vocero
+escribiendo código en la computadora portátil
+Implementando API
+Implementando
+Interfaz de programación
 interfaz
-código de presentación
+presentando código
 presentación
 código de enseñanza
 enseñanza
-Desarrollo de una app
+Desarrollando una aplicación
 desarrollo
 un
-app
-aplicación de seguridad de programación
+aplicación
+Aplicación de seguridad de programación
 seguridad
-código de escritura
-por escrito
+escribiendo código
+escribiendo
 escribir código de sitio web
-página web
+sitio web
 Hablando de código
 hablando
-Acerca de
+acerca de
 popularidad del lenguaje de codificación
 popularidad
-Pagar por el código
-pago
-código de sitio web responsive
-Responsive
+pagar por código
+pagar
+código de sitio web responsivo
+sensible
 televisión
 guardar código
-guardar
+ahorrar
 estrategia
-borrar código
+Borrar código
 borrar
 añadir código
 código ninja
-ninja
-resolver el rompecabezas de código
+Ninja
+resolver rompecabezas de código
 rompecabezas
-Código de búsqueda en la web
+buscar código en la web
 web
 ajustes
 Me encanta el código
 código de actualización
-actualizar
-anclar
+refrescar
+ancla
 tarjeta de identificación
-id
+identificación
 calendario
 periódico
 subir
 trofeo
-webcam
+cámara web
 exclamación
 videollamada
-llamada
-reproductor de vídeo
+llamar
+reproductor de video
 jugador
 presentación
 teléfono
-carrito de compras
+carro de la compra
 compras
-carrito
+carro
 Estructura jerárquica
 jerárquico
 estructura
 lápiz
 libro abierto
-abrir
+abierto
 libro
 basura
 etiqueta
-en todo el mundo
+mundial
 hombre de negocios
 bombilla
 luz
-bombilla
+bulbo
 gráfico de barras
 bar
 bandera
@@ -472,18 +472,18 @@ oficina
 material
 auriculares
 megáfono
-beneficios
+ganancias
 carpeta
 palabra clave
-seguridad en internet
-internet
+seguridad de internet
+Internet
 cortafuegos
 seguridad web
-carga
-hacker
+cargando
+pirata informático
 correo electrónico
 galería
-escáner de virus
+escaneo de virus
 virus
 contraseña
 Protección de datos
@@ -498,311 +498,287 @@ micrófono
 configuración
 seguridad móvil
 móvil
-agenda telefónica
+directorio telefónico
 perfil
 seguro
-unidad USB
+unidad usb
 conducir
 fecha
 https
-modem
-tiempo
+módem
+clima
 pago seguro
 pago
-navegador web
-no hay bichos
-no
-bugs
-vpn
+Navegador web
+Sin errores
+No
+insectos
+VPN
 reconocimiento ocular
 ojo
 reconocimiento
 antivirus
-un logotipo
+Un logotipo
 logo
-añadir ventana
+Agregar ventana
 ventana
-adobe ilustrador
+ilustrador de adobe
 adobe
 ilustrador
-b logo
+logotipo b
 b
-virus bug
-bug
-check check checklist
-comprobar
-lista de comprobación
-lente de cromo
+virus de insectos
+bicho
+comprobar lista de verificación
+controlar
+Lista de verificación
+lente cromada
 cromo
 lente
 código cmd
-cmd
-codificación de código
+comando
+código de codificación
 código de consola
 consola
-css css
-página de dashboard
-dashboard
+csscs
+Página del panel de control
+panel
 página
 eliminar ventana
-dvd cd
-dvd
+DVD y CD
+DVD
 cd
 ventana de edición
 editar
 enlace externo
-externos
+externo
 enlace
-programa de fuego
+programa contra incendios
 fuego
 código html
-html html
-<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
-<html><head>
-<title>403 Forbidden</title>
-</head><body>
-<h1>Forbidden</h1>
-<p>You don't have permission to access this resource.</p>
-<hr>
-<address>Apache/2.4.52 (Ubuntu) Server at server5.lookformedical.com Port 443</address>
-</body></html>
-java
-menú móvil
+código fuente código fuente
+lenguaje java
+Java
+Menú móvil
 menú
-ventana ok
-ok
-opción check
+Ok ventana
+OK
+verificación de opción
 opción
-disco de paquete
+paquete de disco
 paquete
-<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
-<html><head>
-<title>403 Forbidden</title>
-</head><body>
-<h1>Forbidden</h1>
-<p>You don't have permission to access this resource.</p>
-<hr>
-<address>Apache/2.4.52 (Ubuntu) Server at server2.lookformedical.com Port 443</address>
-</body></html>
-pin repin
-pin
-repino
-plugin addon
-plugin
-addon
-Aplicación plugin
-Proteger la protección
+código php
+Pin, repintar
+alfiler
+repin
+complemento de complemento
+complemento
+Añadir
+aplicación de complemento
+proteger protección
 proteger
-Question help
+pregunta ayuda
 pregunta
 ayuda
-Refrescar flecha
+flecha de actualización
 flecha
-refrescar reciclaje
+refrescar reciclar
 reciclar
 software de registro
 registro
-eliminar ventana
+Quitar ventana
 eliminar
-<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
-<html><head>
-<title>403 Forbidden</title>
-</head><body>
-<h1>Forbidden</h1>
-<p>You don't have permission to access this resource.</p>
-<hr>
-<address>Apache/2.4.52 (Ubuntu) Server at server5.lookformedical.com Port 443</address>
-</body></html>
+código rubí
 rubí
 ejecutar software
-ejecutar
-Guardar en la nube
-buscar buscar
+correr
+guardar nube
+buscar buscando
 opción de configuración
-programa de software
-código de fuentes
+Programa de software
+código fuente
 fuentes
-marcador de estrella
+Marcador de estrella
 estrella
 marcador
 enchufe usb
-software de virus
-ojo de la visión
+software antivirus
+ojo de visión
 visión
 Acceso denegado
 acceso
 denegado
-Ciberseguridad
-ciber
+Seguridad cibernética
+cibernético
 cuenta
 ciencia de datos
 ciencia
-disco
-copia de seguridad de datos
-copia de seguridad
-reproductor de música
+desct
+Copia de seguridad de datos
+respaldo
+reproductor de musica
 software de computadora
-chat de vídeo
+video chat
 acceso concedido
-concedidas
+otorgada
 gráfico analítico
-Analítica
-unidad de CD
-horario
+analítico
+unidad de cd
+cronograma
 almacenamiento en la nube
 almacenamiento
 software de diseño
 procesador
-Informe SEO
+informe de seo
 informe
-gráfico de crecimiento
+tabla de crecimiento
 crecimiento
-torre de pc
+Torre de PC
 torre
 carga en la nube
 comunidad
 reconocimiento facial
-fan
+admirador
 correo
-compras en línea
+Compras en línea
 animación
-Sincronización en la nube
-Sincronizar
+sincronización en la nube
+sincronizar
 disco duro externo
-faq
+Preguntas frecuentes
 escaneo de huellas dactilares
-navegador de internet
-auto cad
+Navegador de internet
+Autocad
 auto
-cad
-informe de negocios
-negocios
+canalla
+Informe de negocios
+negocio
 contenido
-disquete
-floppy
-otp
-gamepad
-bloc de notas
-escaneado
-targeting
+disco flexible
+flexible
+OTP-oficial
+mando de juego
+bloc
+exploración
+Apuntando
 alerta
 red en la nube
 disco duro
 medios de comunicación
 almacenamiento de base de datos
-auriculares
+auricular
 publicación
 hoja de cálculo
 reconocimiento de voz
 base de datos en la nube
-Archivo dañado
-corrompido
-copia de seguridad
-copia
+archivo dañado
+Corroído
+copia de reserva
+Copiar
 datos en la nube
-página de error
+Página de error
 impresora
 cifrado de datos
-descargar archivo
+Descargar archivo
 trabajo
 restaurar
-ciberataque
+ataque cibernetico
 ataque
 vuelo
 carpetas
 dispositivo de almacenamiento
 dispositivo
-diseño gráfico
+Diseño gráfico
 gráfico
 fuente de alimentación
-suministro
-cds
-alimentos saludables
+suministrar
+discos compactos
+comida saludable
 saludable
-alimentos
+alimento
 información
 proyector
-troyanos
+troyano
 confidencial
-descarga directa
+Descarga directa
 directo
 mapas
-ram
-tarjeta sd
-sd
-streaming
-tarjeta de sonido
+RAM
+tarjeta SD
+Dakota del Sur
+transmisión
+Tarjeta de sonido
 sonido
 banca en línea
-banca
+bancario
 Cubo 3d
 cubo
-malware
-edición de fotos
+Programa malicioso
+Edición de fotografías
 edición
 Búsqueda de datos
-decodificar
+descodificar
 fotografía
 cable usb
 cable
 gestión de archivos
 gestión
 código pin
-pop up
-pop
-tarjeta vga
-vga
+surgir
+estallido
+Tarjeta VGA
+VGA
 rueda dentada
 defensa
-portafolio
-Alojamiento en la nube
-alojamiento
+cartera
+alojamiento en la nube
+hospedaje
 motor de búsqueda
 motor
 codificación web
 gráfico de datos
-gestión de bases de datos
-tienda en línea
-tienda
+Gestión de bases de datos
+tienda online
+comercio
 encriptado
 filtrado
-teléfono sim
-datos cifrados
+tarjeta sim del teléfono
+datos encriptados
 redes sociales
 social
 informe de datos
-edición de imágenes
+Edición de imágenes
 red de datos
-phishing
+Suplantación de identidad (phishing)
 existencias
 seguro
-existencias
-seguridad de datos
+cepo
+Seguridad de datos
 traducir
-debate
-carga de archivos
-estrategia de marketing
+discusión
+Carga de archivo
+estrategia de comercialización
 envío
 código qr
 buscar archivo
 unidad de estado sólido
 sólido
-Estado
-infectados
-ordenador de escritorio
-escritorio
-sistema operativo
-funcionamiento
+estado
+infectado
+computadora de escritorio
+de oficina
+Sistema operativo
+operante
 sistema
 blog
-ebook
+libro electrónico
 robo
-bóveda criptográfica
+bóveda de criptomonedas
 cripto
 bóveda
-descarga en la nube
-escáner retinal
-retinal
+Descarga en la nube
+exploración de retina
+de retina
 disquetes
 discos
 archivo de música
@@ -810,327 +786,319 @@ archivo
 diagrama de flujo
 transferencia de datos
 carpeta compartida
-compartidos
-cebo
+compartido
+carnada
 guardar archivo
-tienda
-marco
+almacenar
+estructura
 red de carpetas
-Sincronizar
+sincronizar
 hombre de negocios
-Spam
+correo basura
 red global
-mundial
+global
 logro
 malla
-mindset
+mentalidad
 análisis móvil
-seguimiento
+escucha
 sincronización
 Analítica en línea
-analítica
-análisis de datos
+analítico
+Análisis de datos
 análisis
 transferencia de archivos
-infografía
-perfil en línea
+Infografía
+perfil en linea
 patrón de bloqueo
 patrón
-sincronización
+sincronizando
 investigador
 control del servidor
 control
-aviso
-cronómetro
+advertencia
+cronógrafo
 recargar
-check list
+lista de verificación
 lista
-Análisis web
-desarrollo web
+análisis web
+Desarrollo web
 desarrollo
 SEO y marketing
-Alojamiento web
+alojamiento web
 tecnología
-engranajes
+Engranajes
 archivo gráfico
-Diseño y Desarrollo Web
+Diseño y desarrollo web
 carta
 francotirador
 velocímetro
 base de datos y almacenamiento
 actualizado
-ilustraciones web
-ilustraciones
+Ilustraciones web
+Ilustraciones
 Internet inalámbrico
 almacenamiento de datos
-archivo descarga
+Descarga de archivos
 corazón
 organización
-radar
-transmisor de radio
+Radar
+Transmisor de radio
 radio
 transmisor
 cámara web
-publicidad
-best seller
+anuncio
+Mejor vendido
 mejor
 vendedor
 binocular
-torre de la CPU
+Torre de CPU
 documentos
-página de aterrizaje
+Página de destino
 aterrizaje
-video marketing
+marketing de vídeo
 atención
 marketing por correo electrónico
-teléfono fijo
-cinturón de vida
-interruptor de alimentación
-interruptor
+Teléfono fijo
+cinturón salvavidas
+interruptor de encendido
+cambiar
 optimización de motores de búsqueda
-optimización
-redes sociales
-Señal de advertencia
-signo
+mejoramiento
+red social
+señal de advertencia
+firmar
 servidor cliente
-monitor de ordenador
+monitor de computadora
 filtro web
-filtro
+filtrar
 intercambio de datos
 intercambio
 sobre
-solapamiento
-antena parabólica
+superposición
+Antena parabólica
 plato
 SEO y web
-Plan estratégico
+plan estratégico
 estratégico
 plan
-redes informáticas
+redes de computadoras
 redes
 tierra
-cinematografía
+realización cinematográfica
 telescopio
 espacio de trabajo
 disco compacto
 compacto
-Señal de peligro
+señal de peligro
 peligro
 tableta gráfica
 datos móviles
-vieja cámara de cine
+cámara de cine antigua
 viejo
 película
-programación web
-woofer
+Programación web
+altavoz de graves
 carrera
-atención al cliente
+Atención al cliente
 cliente
 cuidado
 sincronización de datos
-descargas
+Descargas
 red doméstica
 diseño de página
-layout
-checkout
+disposición
+verificar
 microprocesador
-conexión de red
+Conexión de red
 conexión
 datos seguros
-página web
-brainstorm
+Página web
+idea genial
 controles multimedia
 multimedia
 controles
-mapa del sitio
-tweet
-contáctame
+Mapa del sitio
+piar
+Contáctame
 contacto
-me
-misiles
+a mí
+misil
 caja de seguridad
 páginas web
-configuración del ordenador
-reproductor de medios
+configuración de la computadora
+reproductor multimedia
 reloj de pared
 muro
-plantas de riego
+regando plantas
 riego
 plantas
-cambio de moneda
-moneda
+cambio de divisas
+divisa
 análisis de datos
 herramientas de edición
 herramientas
 comunicación global
 comunicación
-opción multimedia
+Opción multimedia
 baloncesto
 carga en la nube
-teléfono gps
-gps
+Teléfono con GPS
+GPS
 esposas
 impresora de papel
 papel
 enchufe de alimentación
-filtrado
-lifebuoy
+filtración
+boya salvavidas
 banca móvil
 herramienta de lápiz
-spyware
-diseño web
-world wide web
+software espía
+Diseño web
+World Wide Web
 mundo
 ancho
 plantilla de blog
 plantilla
-soporte al cliente
+Atención al cliente
 apoyo
-cubo de basura
+basura
 Ubicación del mapa
 teléfonos móviles
 teléfonos
-retroalimentación
+comentario
 herramienta gráfica
 archivo de vídeo
 lavadora
-visualización de datos
+Visualización de datos
 visualización
-ecualizador
-servidor de alojamiento
-pintura
-Análisis web
-conexión inalámbrica
-chateando
+igualada
+servidor de hospedaje
+cuadro
+Analítica web
+Conexión inalámbrica
+charlando
 descuento
-investigación de mercado
+Investigación de mercado
 mercado
 investigación
 llamada telefónica
 identificación biométrica
 biométrico
 identificación
-descarga
+descargando
 controlador de ecualizador
-gestión de carpetas
+Gestión de carpetas
 Búsqueda móvil
-pantalla de proyección
+Pantalla de proyección
 proyección
 pantalla
 lienzo
 servidor en la nube
-ethernet
+Ethernet
 red móvil
 eventos
-Iniciar sesión
-log
+acceso
+registro
 lupa
-magnificación
-vidrio
+aumentador
+vaso
 servidor de red
 herramienta de pintura
-pintura
+pintar
 cesta de la compra
 cesta
-rastreador web
-oruga
+Rastreador web
+tractor
 cadena
 tarjeta gráfica
-disco de música
-ppc
+disco de musica
+PCP
 alfombra roja
 rojo
 alfombra
-hash
-video de internet
-proyector
-conexión en la nube
+picadillo
+Vídeo de Internet
+destacar
+Conexión a la nube
 libro manual
 manual
 código de contraseña
-Correo electrónico abierto
-de calidad premium
-prima
+abrir correo electrónico
+calidad premium
+de primera calidad
 calidad
-Alerta de spam
+alerta de spam
 forma de estrella
 forma
 www
 administración
 Marcadores
-compás
+brújula
 configuración
-icloud
+iCloud
 órbita
 paraguas
-barco
-lámpara de escritorio
+bote
+Lámpara de escritorio
 escritorio
-símbolo de bandera
+símbolo de la bandera
 símbolo
-llavero
-caja de altavoz
+llave
+caja del altavoz
 experimentos
-música en línea
-Pluma y papel
-pluma
-soluciones
+Música en línea
+Lápiz y papel
+bolígrafo
+Soluciones
 llamada telefónica
 mano robótica
-opción de búsqueda
+Opción de búsqueda
 sirena
 inteligencia artificial
 artificial
 inteligencia
 globo terráqueo
 globo
-hackear
+seco
 gallina
 eliminar carpeta
-circuito electrónico
+circuito electronico
 electrónico
 circuito
 correo de la bandeja de entrada
 bandeja de entrada
-lámpara mágica
+Lámpara mágica
 magia
 compartir en la nube
-compartición
+intercambio
 usuario conectado
 conectado
 financiero
 rueda dentada
 objetivos
-calibrador
+calibrar
 guía
 lupa
-almacenamiento de servidor
-página de inicio
-Iniciar sesión
-conectividad inalámbrica
-conectividad
+almacenamiento del servidor
+página principal
+iniciar sesión
+Conectividad inalámbrica
+Conectividad
 códigos binarios
 códigos
 moneda de dólar
-moneda
+acuñar
 pistón
 negocios y comercio
 comercio
 puntero de ubicación
 puntero
 pincel
-cepillo
-smiley
-inicio
-<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
-<html><head>
-<title>403 Forbidden</title>
-</head><body>
-<h1>Forbidden</h1>
-<p>You don't have permission to access this resource.</p>
-<hr>
-<address>Apache/2.4.52 (Ubuntu) Server at server1.lookformedical.com Port 443</address>
-</body></html>
+cepillar
+sonriente
+puesta en marcha
+bomba de tiempo
 bomba
 casco de astronauta
 astronauta
@@ -1138,102 +1106,102 @@ casco
 ventilador de enfriamiento
 enfriamiento
 nube móvil
-anzuelo de pesca
+Anzuelo de pesca
 pesca
 gancho
 objetivo de tiro
-Disparos
+tiroteo
 emoticono de sonrisa
 sonrisa
 emoticono
 volumen
 almacenamiento web
 dinamita
-bandeja de entrada de correo
+buzón de correo
 en el aire
-alternar
+palanca
 casa
+rayo
 trueno
-trueno
-perno
+tornillo
 flechas arriba y abajo
 abajo
 flechas
-juego de cartas
+Juego de cartas
 disco compacto
 herramienta de recorte
 cultivo
-gestión de datos
+Gestión de datos
 línea de ayuda
-conexión a internet
-inicio de sesión
+Conexión a Internet
+acceso
 agente de servicio al cliente
 agente
 engranaje
-Buen feedback
-bueno
+Buena retroalimentación
+bien
 sombrero mágico
 sombrero
 signo de arroba
 arroba
-clapperboard
-tablero de dardos
+claqueta
+diana
 geolocalización
-tecla de teclado
-alunizaje
+tecla del teclado
+Alunizaje
 luna
 conector usb
 conector
-signo de exclamación
+signo de admiración
 marca
-forma del corazón
-teléfono móvil
-fases lunares
+forma de corazón
+Teléfono móvil
+fases de la luna
 fases
 herramienta bezier
-Bezier
-velocidad de página
-plato de servir
+Bézier
+velocidad de la página
+plato para servir
 servicio
-conexión wifi
-nueva llegada
+Conexión wifi
+recién llegado
 nuevo
 llegada
 pieza de rompecabezas
-pieza
+pedazo
 herramienta de texto
 texto
 libreta de direcciones
-dirección
-máscara de gas
+DIRECCIÓN
+careta antigás
 gas
-máscara
+mascarilla
 eclosión
 flujo de trabajo
 escaneo de huellas dactilares
 mensaje
-boletín
+hoja informativa
 servidor sql
 alineación
 correo en línea
-gafas rotas
-quebrado
-altavoz
+vasos rotos
+roto
+altoparlante
 satélite espacial
-añadir usuario
+Agregar usuario
 nivel de batería
 nivel
 teléfono inalámbrico
-inalámbrico
+sin cable
 usuarios del grupo
 usuarios
 notificación
-sms
+mensaje de texto
 flecha hacia abajo
 hacia abajo
-No se encontró la página
+Página no encontrada
 no
-encontrado
+encontró
 gafas de seguridad
 seguridad
 vino
@@ -1241,159 +1209,159 @@ reloj de pulsera
 campana
 tira de película
 película
-tira
+banda
 reloj de arena
 usuario de red
 cita en línea
-nombramiento
+cita
 barra de búsqueda
 escudo de seguridad
-pin de mapa
-redimensionar expandir
-redimensionar
-ampliar
+pin del mapa
+cambiar tamaño expandir
+cambiar el tamaño
+expandir
 etiqueta de venta
 venta
-Sistema solar
+sistema solar
 solar
 chat en línea
 antorcha
-búsqueda de vídeo
-televisión vintage
-vintage
+Búsqueda de vídeos
+televisor antiguo
+antiguo
 bidireccional
-vinculados
+vinculado
 tienda en línea
 mensaje recibido
-recibido
+recibió
 mensaje no leído
-sin leer
+no leído
 centro de datos
 centro
-Reunión de datos
-recogida
-herramienta de pluma
+Recopilación de datos
+recopilación
+herramienta pluma
 globos
 comercio y compras
 cable de datos
-telecomunicaciones
+telecomunicación
 receptor de teléfono
 receptor
-disco flexible
-ID personal
+disquete
+identificación personal
 personal
 imagen
-desarrollo de software
-añadir al carrito
+Desarrollo de software
+añadir a la cesta
 cámara digital
 capa
 correo electrónico saliente
 extrovertido
-nave espacial
+astronave
 insignia
-Prohibido
+prohibido
 almacenamiento móvil
 cuenta privada
 privado
-simcard
-cuchillo suizo
-swiss
+tarjeta sim
+navaja suiza
+suizo
 cuchillo
 Gafas 3D
-envío por correo electrónico
-público objetivo
+enviando correo electrónico
+Público objetivo
 audiencia
-volumen mudo
-mudo
-Bloque de anuncios
-ad
-bloque
+silenciar volumen
+silenciar
+Bloqueador de anuncios
+anuncio
+bloquear
 cañón
-soporte técnico
+apoyo técnico
 técnico
-web mail
+correo web
 negativos de película
-negativos
-resumen
-Comprobación del servidor
+Negativos
+descripción general
+comprobación del servidor
 hablar
-Prohibido
+prohibido
 control de dedos
 dedo
-caja del paquete
-Trabajar desde casa
-trabajo
+caja de paquete
+trabajar desde casa
+trabajar
 informes
-Medios de comunicación social
-van
+marketing en redes sociales
+furgoneta
 disco de vinilo
 vinilo
 registro
 red inalámbrica
-cinema
-clip
+cine
+acortar
 reanudar
-torre de señal
+Torre de señales
 cartelera
 megáfono
-bug de computadora
+error informático
 hoja de ruta
-thumbtack
+chinche
 limpieza
-redes informáticas
-herramienta de borrador
+Redes de computadoras
+herramienta borrador
 borrador
 múltiples dispositivos
-múltiplos
+múltiple
 dispositivos
-tijeras
+cortar con tijeras
 prueba de velocidad
 calendario cuadrado
 cuadrado
-cámara cctv
+cámara de circuito cerrado de televisión
 marketing directo
-escudo de guerrero
+escudo guerrero
 guerrero
-Correo abierto
-Red de personas
+correo abierto
+red de personas
 ladrón
 comunicaciones
-avi
+Avión
 enviar mensaje
 enviar
 bloques
-batería de carga
-pulgares hacia abajo
+cargando la bateria
+Pulgares hacia abajo
 pulgares
 desarrollo de aplicaciones
 desprotegido
-máscara de soldadura
+Máscara de soldadura
 soldadura
 alineación izquierda
 izquierda
-botón pulsador
+pulsador
 empujar
 botón
 marketing de afiliados
-afiliado
-pantalla del hd
-hd
+filial
+pantalla hd
+alta definición
 pistola
 símbolo de teléfono
 Tráfico web
 tráfico
 3ds
 videocámara
-hotspot
+punto de acceso
 bola mágica
-bola
+pelota
 unidad flash usb
-flash
-juegos de video
+destello
+Juegos de vídeo
 juegos
 corriente eléctrica
 eléctrico
-corriente
+actual
 nota musical
 musical
 nota
@@ -1413,101 +1381,101 @@ banco
 depuración
 mando a distancia
 remoto
-tostador
-música ipod
-ipod
+tostadora
+Música de iPod
+iPod
 rompecabezas
 oficial de seguridad
 oficial
 monociclo
-joystick
+palanca de mando
 veneno
 estilo de fuente
 fuente
 estilo
-plano de papel
+avión de papel
 avión
 señal de alerta
 gráfico de barras
 gráfico
-perfil de usuario
+Perfil de usuario
 lanzamiento de cohete
 cohete
 lanzamiento
 valores
-Contratación
-pulgar hacia arriba
+contratación
+Pulgar hacia arriba
 pulgar
-carrete de película
+rollo de película
 carrete
 horario de trabajo
-subwoofer
+altavoz de subgraves
 cerebro
 carpeta de archivos
 botón de actualización
-ratón de la computadora
+Ratón de computadora
 conversación
 reproductor de mp3
 mp3
-comunidad en línea
+Comunidad en línea
 ancla de barco
 comunicación en línea
-puesto
+correo
 red segura
-asegurados
-diseño de interfaz de usuario
+asegurado
+Diseño de interfaz de usuario
 arquitecto
 criptografía
-La tecnología del futuro
-gestión de proyectos
-ciencias de la computación
+Tecnología del futuro
+Gestión de proyectos
+Ciencias de la Computación
 descifrar
 coche volador
-volando
+vuelo
 artista
 dominio
 perro
-garantía de calidad
+seguro de calidad
 garantía
-jetpack
+mochila propulsora
 auditor
-plan del proyecto
+plan de proyecto
 pierna robótica
 pierna
-camarero
-científico de la computación
+mesero
+científico informático
 científico
 conductor
 ascensor
 jerarquía
-pantalla táctil
-toque
+Pantalla táctil
+tocar
 plan de negocios
 ama de llaves
 incógnito
-Sprint
-backlog
+sprint
+reserva
 moneda digital
 predicción
 mensaje anónimo
 anónimo
-presupuestación
+presupuesto
 autobús espacial
-transferencia
-wireframe
+transfiriendo
+estructura alámbrica
 ADN
-ia
+ai
 conceptos
 pantalla completa
-internet de las cosas
+Internet de las cosas
 cosas
 gerente
 apretón de manos
-Archivo html
-stakeholders
-drone inteligente
+archivo html
+tenedor de apuestas
+dron inteligente
 continuo
-zapatillas de deporte
+zapatillas
 cirugía
 ágil
 autenticación
@@ -1515,22 +1483,14 @@ configurar
 teléfono plegable
 plegable
 planificación
-asesor
-dispositivos de respuesta
+tutor
+dispositivos sensibles
 añadir imagen
-Analista
+analista
 producción
 clave pública
 público
-<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
-<html><head>
-<title>403 Forbidden</title>
-</head><body>
-<h1>Forbidden</h1>
-<p>You don't have permission to access this resource.</p>
-<hr>
-<address>Apache/2.4.52 (Ubuntu) Server at server2.lookformedical.com Port 443</address>
-</body></html>
+gestión del tiempo
 añadir texto
 cinta transportadora
 transportador
@@ -1539,24 +1499,24 @@ indicador clave de rendimiento
 indicador
 codificación css
 mini
-ungroup
+desagrupar
 presupuesto
 tijeras
-Colonización Espacial
+colonización espacial
 colonización
 booleano
-gestión de equipos
+Gestión de equipos
 equipo
 firma digital
 firma
-tarjeta gráfica
+Tarjeta gráfica
 gráficos
 lista de tareas
 tarea
 convertir
-break
+romper
 pantone
-problema de bug
+Problema de errores
 objetivos
 vector
 gafas de realidad virtual
@@ -1565,61 +1525,61 @@ humano
 kanban
 mecánica
 innovación
-gen
-gestión de productos
+gene
+Gestión de productos
 producto
-toma de decisiones
+Toma de decisiones
 decisión
-hacer
+haciendo
 equipo de trabajo
 revisión de código
-revisión
+revisar
 discurso
-reunión de negocios
+Reunión de negocios
 reunión
 aplicación de software
-aplicación
-placa base
-botánica
+solicitud
+placa madre
+botánico
 criónica
 fecha límite
-Quemaduras
-estimación
+quema
+estimar
 lenguaje de programación
-bio
+Biografía
 diseñador gráfico
 diseñador
 8k
 5g
-dependencias
-temporizador
-3D impreso
+Dependencias
+minutero
+Impreso en 3D
 impreso
-priorizar
+Priorizar
 refactorización
 caja abierta
 prioridad
-reutilizables
+reutilizable
 clon humano
 clon
 alcance
 recursos
 nano
-ciclo de vida
-entregable
+ciclo vital
+Entregable
 par
 propuesta de negocio
 propuesta
 línea de tiempo
 idea de negocio
 refinamiento
-estructura de la organización
+Estructura de la organización
 estado
 codificación en la nube
-pmbok
-Sincronización
+Programa de Mejoramiento de la Calidad (PMCO)
+sincronización
 tarea completada
-Completado
+terminado
 perfiles de usuario
 perfiles
 ideas
@@ -1627,80 +1587,80 @@ multitarea
 código binario
 éxito
 servidores en la nube
-lanzamiento del proyecto
-desarrollo de estrategias
+Lanzamiento del proyecto
+Desarrollo de estrategia
 codificación móvil
-diseño de página web
+Diseño de sitio web
 embudo
-rejilla del globo
-cuadrícula
-plano
-desarrollador
-Códigos del sitio web
+cuadrícula de globo
+red
+cianotipo
+revelador
+códigos de sitios web
 optimización web
-javascript
+Javascript
 aprobado
-Aprendizaje automático
-Impresora 3d
-gadget
-Tipo de página web
-adaptativo
+aprendizaje automático
+Impresora 3D
+artilugio
+tipo de sitio web
+adaptado
 desarrollo de aplicaciones móviles
-arcade juego
-arcade
+juego de arcade
+arcada
 desarrollo de juegos
 conector de audio
 audio
 conector y cable
-conectores
+Conectores
 lector de tarjetas
 lector
 hardware de computadora
 hardware
-chipset
-haga clic
+conjunto de chips
+hacer clic
 acciones del usuario
-acciones
+comportamiento
 Internet y tecnología
-PC de juego
+computadora para juegos
 red de computación en la nube
-Explorador de archivos
+explorador de archivos
 explorador
-aplicaciones de pantalla de inicio
-apps
+Aplicaciones de la pantalla de inicio
+aplicaciones
 tarjeta flash
-edutainment
+entretenimiento educativo
 selección y cursores
 selección
 cursores
 auriculares
 interactividad
-iot
-tecnología miscelánea
+Internet de las cosas
+Tecnología miscelánea
 miscelánea
 Macbook
 dispositivos mac
-mac
+impermeable
 modelo
-Tecnología ar y vr
+Tecnología AR y VR
 herramientas de edición vectorial
-Edición fotográfica
+Edición de fotografías
 edición
 píxeles
-diseño responsive
-componentes de ordenador
+diseño responsivo
+componentes de computadora
 componentes
-experiencia de usuario
+Experiencia de usuario
 experiencia
-router
-script
-big data
+enrutador
+guion
+grandes datos
 grande
 componentes de pc
-ui
-ssd
+interfaz de usuario
+unidad de estado sólido
 estereoscopio
-ensayo
+pruebas
 traductor
 nómada digital
 nómada
@@ -1708,142 +1668,134 @@ Cámara 3D
 cámara de acción
 acción
 conector de audio
-jack
+Jacobo
 caso
 doble clic
 doble
 auriculares
-juego pad
+Mando de juego
 almohadilla
-salvavidas
+salvador de la vida
 red local
 local
-MacBook Pro
+Macbook Pro
 pro
 botón de movimiento
 mover
 nanorobot
 ordenador personal
-prototipado
+Prototipado
 360 grados
 grados
-Audio 3D
-reloj de alarma
+audio 3d
+despertador
 asignación
-adjudicación
-carga
+otorgar
+cargar
 crucigrama
 descongelar
 arrastrar
-cable jack
+cable de conexión
 opacidad
 vista panorámica
 panorámico
 vista
 tratamiento
-rgb
+RGB
 sata
-Vista 360
-accesibilidad
+Vista de 360 grados
+Accesibilidad
 automatización
 juego de mesa
-tablero
-cámara drone
+junta
+dron con cámara
 cargador
-cityscape
+paisaje urbano
 plan de desarrollo
 disquete
 dividir
 campo de visión
 campo
-flux
-iphone
-tarjeta micro sd
+flujo
+iPhone
+Tarjeta micro sd
 micro
-documentos
-scroll
-parlantes
-ssl
+papeles
+voluta
+Altavoces
+SSL
 cable vga
-vr gaming
+juegos de realidad virtual
 backend
-catálogo
+catalogar
 libro de codificación
-esquema de color
+esquema de colores
 color
 esquema
 archivo css
-cyborg
+Ciborg
 dirección
-erótica
-ipod nano
-pincel
+erótico
+iPod nano
+brocha
 pedal
-<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
-<html><head>
-<title>403 Forbidden</title>
-</head><body>
-<h1>Forbidden</h1>
-<p>You don't have permission to access this resource.</p>
-<hr>
-<address>Apache/2.4.52 (Ubuntu) Server at server1.lookformedical.com Port 443</address>
-</body></html>
+máquina del tiempo
 vlog
 Cámara 360
 Modelo 3D
 Error 404
 rama
-fichas de casino
+Fichas de casino
 casino
-fichas
+papas fritas
 ajedrez
 coaxial
 collage
 flujo de datos
-flujo
-relleno y trazo
+fluir
+Rellenar y trazar
 llenar
-apoplejía
+ataque
 pistola
 puerto hdmi
-hdmi
+HDMI
 puerto
-maquillaje
+constituir
 polígono
 prototipo
-rotar
+girar
 dormir
 granja inteligente
 granja
-lugar
-video web
+evento
+Vídeo web
 Modelado 3D
 modelado
 tienda de aplicaciones
 audiolibro
-navegación
-Cardiólogo
+hojeada
+cardiólogo
 precaución
-clicar
+haciendo clic
 contenido
 mostrar
-gotero
-gateway
-imac
+cuentagotas
+puerta
+iMac
 nuevo archivo
-regente
-tweaking
-Página en construcción
+gobernante
+Ajuste
+bajo construcción
 bajo
 construcción
-desbloquear
-interfaz de usuario
+descubrir
+Interfaz de usuario
 variedad
 compresor de aire
 compresor
-juego de ordenador
+juego de computadora
 consultor
-fracasó
+fallido
 fax
 unidad flash
 cable hdmi
@@ -1852,150 +1804,142 @@ parche
 perspectiva
 guía telefónica
 botón de encendido
-rediseño
+Rediseño
 seleccionar
 validez
-vr cámara
-Vs
+cámara de realidad virtual
+contra
 4g
-ar varita
-varita
+varita mágica
+varita mágica
 relación de aspecto
 aspecto
 relación
-Cubo 3d
+cubo 3d
 personalizar
 carga eléctrica
-Prohibido
+prohibido
 consola de juegos
-decoración del hogar
+Decoración del hogar
 decoración
-ingresos
+ingreso
 interacción
 interactivo
 cargador de iphone
 barra de carga
-carga
+cargando
 cable de alimentación
 impresión
-derecha
+bien
 secuencia
 tema
-juego de video
+videojuego
 grabadora de voz
-registrador
+grabadora
 filtro de aire
-antecedentes
+fondo
 ojo biónico
 biónico
 cables
 personalización
 tableta de dibujo
 dibujo
-navegador gps
+Navegador GPS
 navegador
 disipador de calor
-entrada
-<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
-<html><head>
-<title>403 Forbidden</title>
-</head><body>
-<h1>Forbidden</h1>
-<p>You don't have permission to access this resource.</p>
-<hr>
-<address>Apache/2.4.52 (Ubuntu) Server at server1.lookformedical.com Port 443</address>
-</body></html>
+aporte
+secuencia de comandos java
 bucles
 minimizar
-pasador de empuje
+chincheta
 vaguedad
-guantes con cable
+guantes con alambre
 guantes
-zoom en
+dar un golpe de zoom
 zoom
 boxeo
-cdn
+CDN-español:CDN
 lenguaje de codificación
-contador
-crayón
-Cyber Monday
+encimera
+lápiz de color
+Lunes cibernético
 lunes
 diagrama
-grifo del ojo
-flashdrive
+golpecito en el ojo
+unidad flash
 función
-harddisk
+Disco duro
 tren de alta velocidad
 alto
 tren
 industrial
-macintosh
+Macintosh
 aplicación médica
 médico
 panorama
 temperatura
 velocidad
-lápices de colores
-coloreado
-lápices
-escáner ocular
+Lápices de colores
+de colores
+Lápices
+escaneo ocular
 seguimiento ocular
 seguimiento
-gameboy
+Chico de juego
 disco duro
 disco duro
-hdr
-lavandería
+HDR-10
+lavadero
 maximizar
 neón
 pasta
 rectángulo
-tachuela
+virar
 transformar
 variabilidad
-tarjeta de vídeo
-vr control
+Tarjeta de video
+control de realidad virtual
 manzana
-bluetooth
-soporte al cliente
-id de la cara
-uso compartido de archivos
-taza de papel
+Bluetooth
+Atención al cliente
+identificación facial
+intercambio de archivos
+vaso de papel
 taza
-protegidos
+protegido
 zapatos
 bolsa inteligente
 serpiente
-actualización
+actualizar
 valor
-Visibilidad
+visibilidad
 bicicleta
 color
 contraste
-diseño creativo
-Creativo
+Diseño creativo
+creativo
 caballete
-ecommerce
+comercio electrónico
 conector jack
 luz led
-led
-microchip
+condujo
+pastilla
 modelado
-ratón 1
+Ratón 1
 oportunidad
-calificación
+clasificación
 anillo
 centro de servicio
 veracidad
 contador
 punto de anclaje
 punto
-cerrar
+cerca
 cms
 diamante
-ipod shuffle
+iPod shuffle
 barajar
-isp
+proveedor de servicios de Internet
 como
 unidad óptica
 óptico
@@ -2004,268 +1948,260 @@ simulación
 indefinido
 puerto usb
 alejar
-Sistema cms
+sistema cms
 colaboración
 paleta de colores
 paleta
-sin contacto
+Sin contacto
 dados
-encontrar mi teléfono
+Encuentra mi teléfono
 encontrar
 mi
-ipod classic
+iPod clásico
 clásico
-pen tablet
-funda de teléfono
+tableta digitalizadora
+funda de telefono
 poción
 sensor
 reloj inteligente
-reloj
+mirar
 estabilizador
-alimentos sintéticos
+comida sintética
 sintético
-touchpad
+panel táctil
 tipografía
-Video 360
-Pruebas ab
-ab
-c agudo
-agudo
-<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
-<html><head>
-<title>403 Forbidden</title>
-</head><body>
-<h1>Forbidden</h1>
-<p>You don't have permission to access this resource.</p>
-<hr>
-<address>Apache/2.4.52 (Ubuntu) Server at server5.lookformedical.com Port 443</address>
-</body></html>
+Vídeo de 360 grados
+Prueba AB
+desde
+do sostenido
+afilado
+línea de comando
 línea
 Redacción de contenidos
-edición digital
-financiación
+Edición digital
+finanzas
 Página de inicio
-iphone 5
+iPhone 5
 espejo
 cable de red
 origami
 punto de venta
 ps2
-viajes y turismo
-viajes
+Viajes y turismo
+viajar
 turismo
-Datos no estructurados
-sin estructurar
-blockchain
+datos no estructurados
+no estructurado
+Cadena de bloques
 consola de control
 idea creativa
 tarjeta de crédito
 crédito
-direcciones
+instrucciones
 elipse
 gabinete de llenado
-llenado
+relleno
 gabinete
-front end
+Interfaz
 frente
 fin
 varita mágica
 polaroid
-castillo de arena
+Castillo de arena
 arena
 castillo
 volante
-dirección
+gobierno
 rueda
 datos estructurados
 estructurado
-página web
-router wifi
+Página web
+enrutador wifi
 selector de color
-selector
-crm
+recogedor
+gestión de relaciones con el cliente
 red de distribución
 distribución
 controlador de juego
-impresión por chorro láser
+Impresión por chorro de láser
 láser
-jet
+chorro
 imprimir
 navegación
-banco de potencia
+banco de energía
 gafas inteligentes
-reproductor de vídeo
-vr juego
+reproductor de video
+juego de realidad virtual
 anuncios
 ratón de manzana
-sello de clon
-sello
+sello de clonación
+estampilla
 formato de archivo css
 formato
-opinión del cliente
-lucha juego
+Reseña del cliente
+Juego de lucha
 lucha
-gamer
+jugador
 silla de juego
 silla
 energía verde
 verde
 energía
-lcd
+pantalla de cristal líquido
 canicas
 pago en línea
-pan tilt zoom cámara
-pan
+cámara con zoom y movimiento horizontal y vertical
+cacerola
 inclinación
 reflejar
 desbloqueado
 ventilador
-Pluma 3d
+Bolígrafo 3D
 ajuste
-tarjeta de débito
+Tarjeta de débito
 débito
-juego de fútbol
-fútbol
+Partido de fútbol
+fútbol americano
 humanoide
-jersey
+saltador
 Mac Pro
-spray de pintura
-spray
+Pintura en aerosol
+pulverización
 almacenamiento ilimitado
 ilimitado
 conectar
 museo
 radiación
 rotación
-deslizador
+Control deslizante
 cargador usb
 404
-juego de acción
+Juego de acción
 mesa de trabajo
 monitor curvo
 curvo
-Uso compartido de datos
+intercambio de datos
 disco flash
-hoverboard
+patineta voladora
 imágenes
-magsafe
+seguro magnético
 percepción
-cable usb c
-crosshair
-minería de datos
+cable usb-c
+punto de mira
+Minería de datos
 minería
 zapatos voladores
 tienda de juegos
 ransomware
-lee
-gota de agua
+leer
+Gota de agua
 agua
 gota
-lentes de contacto biónicas
-branding
+lente de contacto biónica
+herrada
 breve
 química
 percepción de profundidad
 profundidad
-dinámico
+dinámica
 selector de movimiento
 selector
 notificaciones
 ropa inteligente
 ropa
-trackpad
-Unir
-consola de vídeo
+panel táctil
+unir
+consola de video
 acuarela
 juegos de cartas
-danza
-debug
-asistencia sanitaria
-Empleos
-diseño de página
-vista previa
+bailar
+depurar
+cuidado de la salud
+trabajos
+Diseño de página
+avance
 raspado
 segway
 ciudad inteligente
 ciudad
 estereoscópico
 selección directa
-mareos
-incrustado
-detección de rostros
+mareo
+incorporado
+Detección de rostros
 detección
 micro usb
 clip de papel
 física
-diapositiva
+deslizar
 unidad ssd
-estadísticas
+Estadísticas
 editor de texto
-escáner corporal
+escaneo corporal
 cuerpo
-ramas
-fuga de datos
-fuga
+sucursales
+Fuga de datos
+filtración
 despliegue
 horizontal
-influencer
-qr scan
-deslizarse hacia abajo
-pluma de tableta
+hombre de influencia
+escaneo qr
+bajar deslizándose
+Lápiz para tableta
 rayo
 característica
-info
+información
 alfombrilla de ratón
-perfil personal
-psu
-solicitud
+Perfil personal
+fuente de alimentación
+pedido
 rootkit
 rebanada
-snap
-plugin web
-tablero blanco
+quebrar
+complemento web
+pizarra blanca
 blanco
-ratón inalámbrico
-Adaptativo
+Ratón inalámbrico
+adaptativo
 añadir ancla
-hdd
-web móvil
+disco duro
+Web móvil
 captura de movimiento
-moción
+movimiento
 captura
 sensor de movimiento
-plumón
-pos
-rj45
+punta
+posición
+conector rj45
 cirugía robótica
 Escáner 3D
-alinear el centro
+alinear al centro
 alinear
-puerta trasera
+Puerta trasera
 botones
 instalación
-lives
-lector de la mente
+vidas
+lector de mentes
 mente
 cerámica
-tira de potencia
+regleta de enchufes
 recuperación
-wasd
-añadir vídeo
-flujo de caja
-efectivo
+Lavado
+Agregar video
+flujo de fondos
+dinero
 curvatura
 editar código
 barra gráfica
 reconocimiento de manos
-ibook
+iBook
 intersección
 noticias
-interruptor de Nintendo
-nintendo
+interruptor de nintendo
+Nintendo
 piano
 perro robot
-backlink
+enlace de retroceso
 libros
 desayuno
 codificación limpia
@@ -2273,63 +2209,63 @@ limpio
 empresa
 gradiente
 grafeno
-keylogger
+registrador de teclas
 juego móvil
-newtons cuna
-newtons
+cuna de newton
+Newton
 cuna
-cable de RCA
-rca
+cable rca
+RCA
 herramientas y utensilios
 utensilios
-cerradura de puerta
-dvi
+cerradura de la puerta
+DVI
 oreja
-Error 404
+error 404
 instalar
 integración
-intersectar
+intersecarse
 partido en movimiento
-partido
-en movimiento
-memoria RAM
-hub usb
-hub
-plataforma vr
+fósforo
+emocionante
+memoria ram
+concentrador usb
+centro
+Plataforma de realidad virtual
 plataforma
 xml
 alinear a la derecha
 reloj de manzana
-ar auriculares
-b2b
-bin
+auriculares ar
+B2B
+papelera
 negación
-ip
+IP
 oyente
 mezclador
-tablero de mortero
-pausar
-ojos rojos
+birrete
+pausa
+ojo rojo
 rectángulo redondeado
 redondeado
-stylus
+aguja
 teatro
 alojamiento
-bláster
+desintegrador
 optimización de código
-optimización
-características personalizadas
-personalizado
+mejoramiento
+Características personalizadas
+costumbre
 características
-dominós
+dominó
 http
 archivo de imagen
 inversión
 micro sd
 jugar
 rango
-Esquina redonda
-ronda
+esquina redondeada
+redondo
 esquina
 espiral
 24 horas
@@ -2338,135 +2274,127 @@ arquitectura
 escáner de código de barras
 código de barras
 mezcla
-casilla de verificación
+caja
 cursor
 reloj digital
 factura
-ipad
-tetera
+iPad
+pava
 puertos
 cola
 lectura
 sistema de seguridad
-parar
+detener
 antena
 archivo de audio
 widget de esquina
-widget
+artilugio
 gratis
 código duro
-cubo de pintura
-cubo
-pallet
-imágenes
+Cubo de pintura
+balde
+paleta
+fotos
 botón de radio
 arco
 almacén de datos
-almacén
+depósito
 exoesqueleto
-ftp
+FTP
 giroscopio
-lúpulo
+rayuela
 pasaporte
 juego de carreras
 carreras
 recordatorios
 deslizadores
 turismo espacial
-burbuja de discurso
+Burbuja de diálogo
 burbuja
-alineación vertical
+Alineación vertical
 vertical
 configuración web
-wireframes
+estructuras alámbricas
 atmósfera artificial
 atmósfera
 biología
-servicios de hosting
+servicios de hospedaje
 servicios
 monstruo
 política
 bandera roja
 ingeniería social
 ingeniería
-deslizar
-Apple TV
+golpe fuerte
+televisión de manzana
 adjuntar
-Blogger
+bloguero
 bnc
 criogénico
 falso
 invertir
-prestación
+representación
 palo
-cronometraje
+momento
 usabilidad
-web cam
-<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
-<html><head>
-<title>403 Forbidden</title>
-</head><body>
-<h1>Forbidden</h1>
-<p>You don't have permission to access this resource.</p>
-<hr>
-<address>Apache/2.4.52 (Ubuntu) Server at server4.lookformedical.com Port 443</address>
-</body></html>
-zip
-chatbot
-recorte
-ide
-relámpago
-marte
+cámara web
+carpeta zip
+cremallera
+robot conversacional
+separar
+idea
+iluminación
+Marte
 planetario
-ar cámara
+cámara ar
 activo
 comentario
-Disco duro externo
-frente menos
+disco duro externo
+menos frente
 menos
 riesgo
 espada
-Objetivo
-Telepresencia
+Dirigido
+telepresencia
 triángulo
 ábaco
 café
-consola de mano
+consola portátil
 portátil
 zapato inteligente
-zapatos
-tetris
+zapato
+Tetris
 explosión
-gotero
+cuentagotas
 forma
 identidad
 fibra óptica
 fibra
-archivo raw
-en bruto
-desplazamiento
-constructor de forma
+archivo sin procesar
+crudo
+Desplazamiento
+constructor de formas
 constructor
-vlogger
-Delete Anchor
-inyección de tinta
-aplicación móvil
-período de sesiones
-para hacer la lista
+Vloguero
+eliminar ancla
+chorro de tinta
+Aplicación móvil
+sesión
+lista de cosas por hacer
 hacer
 transmisión
-proyector de vídeo
+videoproyector
 pronóstico del tiempo
 pronóstico
-ambigedad
+ambigüedad
 circuitos
 defensa
 llave digital
-jet pack
-envase
+mochila propulsora
+embalar
 lazo
 diseño de maqueta
-maqueta
+Bosquejo
 tarjeta de interfaz de red
 productividad
 enraizamiento
@@ -2475,123 +2403,123 @@ libro de audio
 disponibilidad
 exposición
 protección de archivos
-mac mini
+Mac mini
 apasionado
 compra
-burbujas de discurso
-burbujas
+Burbujas de diálogo
+Burbujas
 ganador
 Pantalla 3D
 4k
 enchufe eléctrico
-emoji
+Emojis
 excluir
-control de juego
+control del juego
 jugador contra jugador
 versus
 rehabilitación
 cámara web redonda
 ancho
-diagrama de flujo
-Transformación libre
-casilla de correo
-cizallamiento
-globo del mundo
-emojis
-logs
+Diagrama de flujo
+transformación libre
+buzón de correo
+cortar
+globo terráqueo
+Emojis
+registros
 medición
 dispositivo móvil
-mvp
-usb stick
+Jugador Más Valioso
+memoria usb
 notas
 procesadores
 diccionario
 utilidades
 servicio premium
-cartera
-fotogramas por segundo
-marcos
+billetera
+cuadros por segundo
+Marcos
 por
 segundo
 profesional
 puertos de sonido
-rom
-escarcha
-qa
-qt
-python
+memoria de sólo lectura
+euroconector
+control de calidad
+cuarto de galón
+pitón
 redactor
-calibre
+indicador
 ciclo
-torre pc
+computadora de torre
 estándar
 estático
-Corredor de tareas
+Ejecutor de tareas
 corredor
 interruptor de transferencia
-ui diseño
-reproductor de cd
-tabla
-diseño ux
+Diseño de interfaz de usuario
+reproductor de CD
+mesa
+Diseño UX
 ux
 control de versiones
 versión
 kit de herramientas
 historia
-interfaz web
+Interfaz web
 Cancelar
-Exitoso
-cv
-daños
-signo de info
-teléfono roto
+exitoso
+currículum vitae
+daño
+señal de información
+Teléfono roto
 tableta rota
-ordenador portátil bloqueado
+computadora portátil bloqueada
 teléfono bloqueado
 psp
-trituradora
+desfibradora
 desbloquear teléfono
 creador de contenido
 creador
 medios en línea
 dispositivos tecnológicos
 tecnológico
-tiktok
-panel de administración
-admin
+Tik Tok
+Panel de administración
+administración
 panel
-vk
-whatsapp
+en realidad
+WhatsApp
 licuadora
-Odio
+odiar
 mensajero
 creatividad
-Transmisión en vivo
+transmisión en vivo
 vivir
 mercado
 vimeo
-webcams
+cámaras web
 editar texto
-youtube
+YouTube
 discordia
 contenido digital
 telegrama
-elearning
-instagram
-Podcast
+aprendizaje electrónico
+Instagram
+podcast
 cuenta premium
 altavoz inteligente
-calidad de página
+calidad de la página
 tumblr
-sitio web responsive
-twitter
-facebook
-smartphones
-pinterest
-linkedin
+sitio web responsivo
+gorjeo
+Facebook
+teléfonos inteligentes
+Interés
+LinkedIn
 carpeta segura
-casa club
-transferencia de datos
+Casa club
+transferir datos
 chat web
-snapchat
-twitch
+Snapchat
+contracción nerviosa

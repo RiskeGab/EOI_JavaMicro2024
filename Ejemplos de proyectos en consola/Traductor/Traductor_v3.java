@@ -162,16 +162,22 @@ public class Traductor_v3 {
         espanolIngles.clear();
     }
 
+    // Limpia los diccionarios para cargar nuevos datos
+    private static void mostrarInformacion() {
+        System.out.println("Frases cargadas en memoria: " + inglesEspanol.size());
+    }
+
     // Método que muestra el menú de opciones para el usuario
     private static void menu() {
         while(true) {
             System.out.println("");
             System.out.println("1. Cargar diccionario");
-            System.out.println("2. Traducir de inglés a español (coincidencia exacta)");
-            System.out.println("3. Traducir de español a inglés (coincidencia exacta)");
-            System.out.println("4. Traducir de inglés a español (usando 'contains')");
-            System.out.println("5. Traducir de español a inglés (usando 'contains')");
-            System.out.println("6. Limpiar diccionarios cargados en memoria");
+            System.out.println("2. Mostrar cantidad de frases cargadas en memoria");
+            System.out.println("3. Traducir de inglés a español (coincidencia exacta)");
+            System.out.println("4. Traducir de español a inglés (coincidencia exacta)");
+            System.out.println("5. Traducir de inglés a español (usando 'contains')");
+            System.out.println("6. Traducir de español a inglés (usando 'contains')");
+            System.out.println("7. Limpiar diccionarios cargados en memoria");
             System.out.println("0. Salir");
             System.out.print("Elige una opción: ");
             String opcion = scanner.nextLine();
@@ -186,26 +192,29 @@ public class Traductor_v3 {
                     seleccionarDiccionario();  // Carga un diccionario
                     break;
                 case "2":
+                    mostrarInformacion();  // Muestra información sobre la cantidad de frases en los diccionarios
+                    break;
+                case "3":
                     System.out.print("Escribe algo en inglés: ");
                     fraseIngles = scanner.nextLine();
                     traducirInglesEspanol(fraseIngles, true);  // Traducción exacta inglés -> español
                     break;
-                case "3":
+                case "4":
                     System.out.print("Escribe algo en español: ");
                     fraseEspanol = scanner.nextLine();
                     traducirEspanolIngles(fraseEspanol, true);  // Traducción exacta español -> inglés
                     break;
-                case "4":
+                case "5":
                     System.out.print("Escribe algo en inglés: ");
                     fraseIngles = scanner.nextLine();
                     traducirInglesEspanol(fraseIngles, false);  // Traducción parcial inglés -> español
                     break;
-                case "5":
+                case "6":
                     System.out.print("Escribe algo en español: ");
                     fraseEspanol = scanner.nextLine();
                     traducirEspanolIngles(fraseEspanol, false);  // Traducción parcial español -> inglés
                     break;
-                case "6":
+                case "7":
                     vaciarDiccionarios();  // Carga un diccionario
                     break;
                 case "0":
