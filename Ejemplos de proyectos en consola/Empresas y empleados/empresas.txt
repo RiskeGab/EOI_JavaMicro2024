@@ -1,0 +1,26 @@
+ConstruccionesModernas;Calle Obrera;89
+EMP;Alberto;45000
+EMP;Elena;47000
+EMP;Pablo;43000
+EMP;Sara;46000
+SoftTech;Avenida Central;101
+EMP;Carlos;50000
+EMP;Ana;52000
+EMP;Luis;48000
+EMP;David;35000
+DesarrolloInnovador;Avenida de la Innovación;56
+EMP;Sofía;70000
+EMP;Daniel;71000
+EMP;Lucía;68000
+EMP;Fernando;72000
+SolucionesVerdes;Calle del Bosque;234
+EMP;Marta;60000
+EMP;Pedro;59000
+EMP;Laura;62000
+EMP;Javier;58000
+MarketingPlus;Calle Publicidad;78
+EMP;Inés;65000
+EMP;Raúl;64000
+EMP;Teresa;63000
+EMP;Manuel;62000
+EMP;Fernando;30000
