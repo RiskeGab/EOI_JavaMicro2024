@@ -1,6 +1,9 @@
 import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.Comparator;
 import java.util.List;
+import java.util.Optional;
+import java.util.OptionalInt;
 import java.util.Random;
 import java.util.function.BiFunction;
 import java.util.function.Consumer;
@@ -71,7 +74,8 @@ public class App {
         BiFunction<String, Integer, String> subUpper = substr.andThen(toUpper);
         System.out.println(subUpper.apply("hola mundo", 5)); // MUNDO
 
-        // Si la Function recibe y devuelve el mismo tipo, se puede crear como UnaryOperator
+        // Si la Function recibe y devuelve el mismo tipo, se puede crear como
+        // UnaryOperator
         UnaryOperator<String> toUpper2 = s -> s.toUpperCase();
 
         List<Integer> nums = new ArrayList<>(List.of(12, 5, 2, 7, 28));
@@ -81,15 +85,89 @@ public class App {
 
     public static void streamFilter() {
         List<Persona> personas = List.of(
+                new Persona("Paco", 24),
+                new Persona("Ana", 61),
+                new Persona("Marco", 7),
+                new Persona("Marta", 36),
+                new Persona("Alex", 15),
+                new Persona("Sarah", 49));
+
+        personas.stream().filter(p -> p.edad() < 18).forEach(p -> System.out.println(p));
+
+        List<String> palabras = Arrays.asList("coche", "moto", "aro", "cebolla", "tomate");
+        palabras.stream().filter(p -> p.length() < 5).forEach(p -> System.out.println(p));
+    }
+
+    public static void streamMap() {
+        List<String> palabras = Arrays.asList("coche", "moto", "aro", "cebolla", "tomate");
+        palabras.stream().map(p -> p.length()).filter(n -> n >= 5).forEach(l -> System.out.println(l));
+
+        List<Integer> nums = Arrays.asList(4, 6, 12, 8);
+        nums.stream()
+            .map(n -> new Cuadrado(n))
+            .map(c -> c.getArea())
+            .forEach(a -> System.out.println(a));
+        // nums.stream().map(n -> {
+        // Cuadrado c = new Cuadrado(n);
+        // return c.getArea();
+        // }).forEach(a -> System.out.println(a));
+    }
+
+    public static void streamMatch() {
+        List<Integer> nums = Arrays.asList(4, 6, 12, 8, 15);
+        boolean todosPares = nums.stream().allMatch(n -> n % 2 == 0);
+        boolean algunoPar = nums.stream().anyMatch(n -> n % 2 == 0);
+        System.out.println("Todos pares: " + todosPares + ". Alguno es par: " + algunoPar);
+    }
+
+    public static void streamFind() {
+        int[] nums = {15, 17, 21, 97, 141};
+        var num = Arrays.stream(nums).filter(n -> n % 2 == 0).findFirst();
+        // System.out.println(num.getAsInt()); // Exception in thread "main" java.util.NoSuchElementException: No value present
+        if(num.isPresent()) System.out.println(num.getAsInt());
+        System.out.println(num.orElse(0));
+    }
+
+    public static void streamSorted() {
+        int[] nums = {14, 17, 91, 4, 22, 94, 2, 7};
+        Arrays.stream(nums).filter(n -> n % 2 == 0).sorted().forEach(System.out::println);
+
+        List<Persona> personas = List.of(
             new Persona("Paco", 24),
             new Persona("Ana", 61),
             new Persona("Marco", 7),
             new Persona("Marta", 36),
             new Persona("Alex", 15),
-            new Persona("Sarah", 49)
+            new Persona("Sarah", 49),
+            new Persona("Alberto", 49)
         );
 
-        personas.stream().filter(p -> p.edad() < 18).forEach(p -> System.out.println(p));
+        // personas.stream().sorted((p1, p2) -> Integer.compare(p1.edad(), p2.edad())).forEach(System.out::println);
+        // personas.stream().sorted(Comparator.comparing(p -> p.edad())).forEach(System.out::println);
+        // personas.stream().sorted(Comparator.comparing(Persona::edad)).forEach(System.out::println);
+        // personas.stream().sorted(Comparator.comparing(Persona::nombre).reversed()).forEach(System.out::println);
+        personas.stream().sorted(Comparator.comparing(Persona::edad).thenComparing(Persona::nombre)).forEach(System.out::println);
+    } 
+
+    public static void streamSkipLimit() {
+        List<Persona> personas = List.of(
+            new Persona("Paco", 24),
+            new Persona("Ana", 61),
+            new Persona("Marco", 7),
+            new Persona("Marta", 36),
+            new Persona("Alex", 15),
+            new Persona("Sarah", 49),
+            new Persona("Alberto", 49)
+        );
+
+        Persona p = personas.stream()
+            .sorted(Comparator.comparing(Persona::edad).reversed())
+            .skip(3).findFirst().orElse(null);
+        System.out.println("Cuarta persona más mayor: " + p);
+
+        personas.stream()
+            .sorted(Comparator.comparing(Persona::edad).reversed())
+            .limit(3).forEach(System.out::println);
     }
 
     public static void main(String[] args) {
@@ -99,6 +177,11 @@ public class App {
         // ejemploLambda3();
         // ejemploLambda4();
         // ejemploLambda5();
-        streamFilter();
+        // streamFilter();
+        // streamMap();
+        // streamMatch();
+        // streamFind();
+        // streamSorted();
+        streamSkipLimit();
     }
 }
