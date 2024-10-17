@@ -78,6 +78,41 @@ public class App {
         apartado6();
     }
 
+    public static void apartado7() {
+        IFigura[] figuras = {
+			new Circulo(4),
+			new Cuadrado(6.5),
+			new Circulo(6.2),
+			new Cuadrado(12),
+			new Circulo(3),
+			new Cuadrado(8.7)
+		};
+		
+		for(IFigura figura: figuras) {
+			System.out.printf("Área: %.2f. Perímetro: %.2f\n", figura.getArea(), figura.getPerimetro());
+		}
+    }
+
+    public static void apartado8() {
+        IFigura[] figuras = {
+			new Circulo(4),
+			new Cuadrado(6.5),
+			new Circulo(6.2),
+			new Cuadrado(12),
+			new Circulo(3),
+			new Cuadrado(8.7)
+		};
+		
+		for(IFigura figura: figuras) {
+			if(figura instanceof Circulo) {
+			 	System.out.println("*** Círculo – Radio: " + ((Circulo)figura).getRadio() + " ***");
+			} else if(figura instanceof Cuadrado) {
+			 	System.out.println("*** Cuadrado – Lado: " + ((Cuadrado)figura).getLado() + " ***");
+			}
+			System.out.printf("Área: %.2f. Perímetro: %.2f\n\n", figura.getArea(), figura.getPerimetro());
+		}
+    }
+
     // Método principal que ejecuta los apartados según la selección del usuario
     public static void main(String[] args) throws Exception {
         boolean ejecutando = true;  // Variable que controla si el bucle sigue ejecutándose

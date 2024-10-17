@@ -14,4 +14,8 @@ public class Circulo implements IFigura {
     public double getArea() {
         return Math.PI * radio * radio;
     }
+
+    public double getRadio() {
+        return radio;
+    }
 }

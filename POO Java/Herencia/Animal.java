@@ -1,13 +1,8 @@
 import java.util.Random;
 
-public abstract class Animal {
+public abstract class Animal implements IHablador {
     private double peso;
     private String nombre;
-
-    // public Animal() {
-    //     this.peso = 1;
-    //     this.nombre = "Animal desconocido";
-    // }
 
     public Animal(double peso, String nombre) {
         this.peso = peso;

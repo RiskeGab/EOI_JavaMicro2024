@@ -29,4 +29,9 @@ public class Ave extends Animal {
     public String getTipoAnimal() {
         return "Ave";
     }
+
+    @Override
+    public void hablar() {
+        System.out.println("El ave emite un graznido");
+    }
 }
