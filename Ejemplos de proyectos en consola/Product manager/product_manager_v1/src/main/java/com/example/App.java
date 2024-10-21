@@ -61,6 +61,20 @@ public class App {
     }
 
     public static void borrarProducto(Connection conn) throws SQLException {
+        listarProductos(conn);
+
+        System.out.print("Introduce el identificador del producto a borrar: ");
+        int id = sc.nextInt();
+        sc.nextLine();
+        
+        PreparedStatement st = conn.prepareStatement("delete from product where id = ?");
+        st.setInt(1, id);
+        if (st.executeUpdate() > 0) {
+            System.out.println("Producto borrado con éxito");
+        }
+        else {
+            System.err.println("El producto no existe");
+        }
     }
 
     public static void main(String[] args) {
