@@ -45,10 +45,10 @@ public class App {
 
         while(rs.next()) {
             System.out.printf("%3d %-20s %10d %9d\n",
-                                rs.getInt("categoria"),
-                                rs.getString("titulo"),
-                                rs.getInt("salario"),
-                                rs.getInt("trienio"));
+                              rs.getInt("categoria"),
+                              rs.getString("titulo"),
+                              rs.getInt("salario"),
+                              rs.getInt("trienio"));
         }
     }
 
@@ -67,13 +67,16 @@ PreparedStatement).
         System.out.println();
         while(rs.next()) {
             System.out.println(rs.getInt("num") + " - " +
-                                rs.getString("nombre") + " - " + 
-                                rs.getInt("edad") + " - " +
-                                rs.getString("contrato"));
+                               rs.getString("nombre") + " - " + 
+                               rs.getInt("edad") + " - " +
+                               rs.getString("contrato"));
         }
     }
 
-    public static void listar(Connection conn) throws SQLException {
+    /**
+     * Listar departamentos
+     */
+    public static void listarDepartamentos(Connection conn) throws SQLException {
         PreparedStatement st = conn.prepareStatement("select * from departamentos");
         ResultSet rs = st.executeQuery();
 
@@ -85,12 +88,23 @@ PreparedStatement).
     }
 
     /**
+     * Borrar departamento
+     */
+    public static void borrarDepartamento(Connection conn, int numero) throws SQLException {
+        PreparedStatement st = conn.prepareStatement("delete from departamentos where deptno = ?");
+        
+        st.setInt(1, numero);
+        
+        st.executeUpdate();
+    }
+
+    /**
      * Inserta un departamento (pregunta al usuario usando la consola por un nombre de departamento
 y un número). Lista los departamentos para comprobar que se ha insertado. A continuación borra el
 departamento que acabas de insertar.
      */
     public static void apartado3(Connection conn) throws SQLException {
-        listar(conn);
+        listarDepartamentos(conn);
 
         Scanner sc = new Scanner(System.in);
 
@@ -110,7 +124,11 @@ departamento que acabas de insertar.
 
         st.executeUpdate();
 
-        listar(conn);
+        listarDepartamentos(conn);
+
+        borrarDepartamento(conn, numero);
+
+        listarDepartamentos(conn);
     }
 
     public static void main(String[] args) {
