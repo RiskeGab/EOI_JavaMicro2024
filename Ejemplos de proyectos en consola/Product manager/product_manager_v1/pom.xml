@@ -5,10 +5,10 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.example</groupId>
-  <artifactId>eoi2</artifactId>
+  <artifactId>product_manager_v1</artifactId>
   <version>1.0-SNAPSHOT</version>
 
-  <name>eoi2</name>
+  <name>product_manager_v1</name>
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
 
