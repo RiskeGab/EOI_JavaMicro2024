@@ -58,6 +58,43 @@ public class App {
     }
 
     public static void actualizarProducto(Connection conn) throws SQLException {
+        listarProductos(conn);
+
+        System.out.print("Introduce el identificador del producto que quieres actualizar: ");
+        int id = sc.nextInt();
+        sc.nextLine();
+
+        PreparedStatement st = conn.prepareStatement("select * from product where id = ?");
+        st.setInt(1, id);
+        ResultSet rs = st.executeQuery();
+        rs.next();
+
+        System.out.print("Introduce la nueva referencia: ");
+        String referencia = sc.nextLine().trim();
+        referencia = referencia.isEmpty() ? rs.getString("reference") : referencia;
+
+        System.out.print("Introduce el nuevo nombre: ");
+        String nombre = sc.nextLine().trim();
+        nombre = nombre.isEmpty() ? rs.getString("name") : nombre;
+
+        System.out.print("Introduce el nuevo precio: ");
+        Double precio = sc.nextDouble();
+        precio = precio == 0 ? rs.getDouble("price") : precio;
+
+        System.out.print("Introduce la nueva categoría: ");
+        int categoria = sc.nextInt();
+        sc.nextLine();
+        categoria = categoria == 0 ? rs.getInt("category") : categoria;
+
+        st = conn.prepareStatement("update product set reference = ?, name = ?, price = ?, category = ? where id = ?");
+
+        st.setString(1, referencia);
+        st.setString(2, nombre);
+        st.setDouble(3, precio);
+        st.setInt(4, categoria);
+        st.setInt(5, id);
+
+        st.executeUpdate();
     }
 
     public static void borrarProducto(Connection conn) throws SQLException {
