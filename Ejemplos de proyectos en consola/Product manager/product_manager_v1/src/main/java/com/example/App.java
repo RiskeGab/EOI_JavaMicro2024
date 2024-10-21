@@ -69,19 +69,19 @@ public class App {
         ResultSet rs = st.executeQuery();
         rs.next();
 
-        System.out.print("Introduce la nueva referencia: ");
+        System.out.print("Introduce la nueva referencia (pulsa intro para no cambiar): ");
         String referencia = sc.nextLine().trim();
         referencia = referencia.isEmpty() ? rs.getString("reference") : referencia;
 
-        System.out.print("Introduce el nuevo nombre: ");
+        System.out.print("Introduce el nuevo nombre (pulsa intro para no cambiar): ");
         String nombre = sc.nextLine().trim();
         nombre = nombre.isEmpty() ? rs.getString("name") : nombre;
 
-        System.out.print("Introduce el nuevo precio: ");
+        System.out.print("Introduce el nuevo precio (pon 0 para no cambiar): ");
         Double precio = sc.nextDouble();
         precio = precio == 0 ? rs.getDouble("price") : precio;
 
-        System.out.print("Introduce la nueva categoría: ");
+        System.out.print("Introduce la nueva categoría (pon 0 para no cambiar): ");
         int categoria = sc.nextInt();
         sc.nextLine();
         categoria = categoria == 0 ? rs.getInt("category") : categoria;
