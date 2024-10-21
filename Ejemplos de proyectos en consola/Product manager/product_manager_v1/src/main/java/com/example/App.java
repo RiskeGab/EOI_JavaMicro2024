@@ -2,6 +2,7 @@ package com.example;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
+import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.sql.Statement;
@@ -19,6 +20,27 @@ public class App {
     static Scanner sc = new Scanner(System.in);
 
     public static void crearProducto(Connection conn) throws SQLException {
+        System.out.print("Introduce la referencia: ");
+        String referencia = sc.nextLine();
+
+        System.out.print("Introduce el nombre: ");
+        String nombre = sc.nextLine();
+
+        System.out.print("Introduce el precio: ");
+        double precio = sc.nextDouble();
+
+        System.out.print("Introduce la categoría: ");
+        int categoria = sc.nextInt();
+        sc.nextLine();
+
+        PreparedStatement st = conn.prepareStatement("insert into product(reference, name, price, category) values (?, ?, ?, ?)");
+
+        st.setString(1, referencia);
+        st.setString(2, nombre);
+        st.setDouble(3, precio);
+        st.setInt(4, categoria);
+
+        st.executeUpdate();
     }
 
     public static void listarProductos(Connection conn) throws SQLException {
