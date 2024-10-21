@@ -7,6 +7,7 @@ import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.sql.Statement;
+import java.util.Scanner;
 
 /**
  * Hello world!
@@ -72,11 +73,52 @@ PreparedStatement).
         }
     }
 
+    public static void listar(Connection conn) throws SQLException {
+        PreparedStatement st = conn.prepareStatement("select * from departamentos");
+        ResultSet rs = st.executeQuery();
+
+        System.out.println();
+        while(rs.next()) {
+            System.out.println(rs.getInt("deptno") + " - " +
+                               rs.getString("nombre"));
+        }
+    }
+
+    /**
+     * Inserta un departamento (pregunta al usuario usando la consola por un nombre de departamento
+y un número). Lista los departamentos para comprobar que se ha insertado. A continuación borra el
+departamento que acabas de insertar.
+     */
+    public static void apartado3(Connection conn) throws SQLException {
+        listar(conn);
+
+        Scanner sc = new Scanner(System.in);
+
+        System.out.print("Introduce el número del dpto: ");
+        int numero = sc.nextInt();
+        sc.nextLine();
+
+        System.out.print("Introduce el nombre del dpto: ");
+        String nombre = sc.nextLine();
+
+        sc.close();
+
+        PreparedStatement st = conn.prepareStatement("insert into departamentos value (?, ?)");
+        
+        st.setInt(1, numero);
+        st.setString(2, nombre);
+
+        st.executeUpdate();
+
+        listar(conn);
+    }
+
     public static void main(String[] args) {
         try (Connection conn = DriverManager.getConnection(db, user, pass)) {
             apartado1(conn);
             apartado1Printf(conn);
             apartado2(conn);
+            apartado3(conn);
         }
         catch(SQLException e) {
             System.err.println(e.getMessage());
