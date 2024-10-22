@@ -2,6 +2,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Comparator;
 import java.util.List;
+import java.util.Map;
 import java.util.Optional;
 import java.util.OptionalInt;
 import java.util.Random;
@@ -11,6 +12,8 @@ import java.util.function.Function;
 import java.util.function.Predicate;
 import java.util.function.Supplier;
 import java.util.function.UnaryOperator;
+import java.util.stream.Collectors;
+import java.util.stream.Stream;
 
 public class App {
     public static void ejemploClaseAnonima() {
@@ -170,6 +173,115 @@ public class App {
             .limit(3).forEach(System.out::println);
     }
 
+    public static void streamReduce() {
+        List<Persona> personas = List.of(
+            new Persona("Paco", 24),
+            new Persona("Ana", 61),
+            new Persona("Marco", 7),
+            new Persona("Marta", 36),
+            new Persona("Alex", 15),
+            new Persona("Sarah", 49),
+            new Persona("Alberto", 49)
+        );
+
+        // Sumar las edades de todas las personas
+        int sumaEdades = personas.stream()
+            .map(Persona::edad)
+            .reduce(0, (total, edad) -> total + edad);
+        System.out.println(sumaEdades);
+        
+        // Concatenar la primera letra de los nombres de todas las personas
+        String concatenado = personas.stream()
+            .map(Persona::nombre)
+            .reduce("", (res, nombre) -> res + nombre.charAt(0));
+        System.out.println(concatenado);
+
+        Optional<Integer> optMax = personas.stream()
+            // .filter(p -> p.nombre().startsWith("Z"))
+            .map(Persona::edad)
+            .reduce((max, edad) ->  Math.max(max, edad));
+
+        if(optMax.isPresent()) {
+            System.out.println(optMax.get());
+        } else {
+            System.out.println("No hay personas");
+        }
+    }
+
+    public static void streamOfNumbers() {
+        int[] nums = {3, 6, 28, 9, 17};
+        // Al crear stream con tipo int -> IntStream. double -> DoubleStream. Long -> LongStream
+        int total = Arrays.stream(nums).sum();
+        System.out.println(total); // 63
+        System.out.println(Arrays.stream(nums).min().orElse(0));
+        System.out.println(Arrays.stream(nums).max().orElse(0));
+        System.out.println(Arrays.stream(nums).average().orElse(0));
+
+        List<Persona> personas = List.of(
+            new Persona("Paco", 24),
+            new Persona("Ana", 61),
+            new Persona("Marco", 7),
+            new Persona("Marta", 36),
+            new Persona("Alex", 15),
+            new Persona("Sarah", 49),
+            new Persona("Alberto", 49)
+        );
+
+        // Sumar edades sin utilizar reduce
+        int sumaEdades = personas.stream().mapToInt(Persona::edad).sum();
+        System.out.println(sumaEdades);
+    }
+
+    public static void streamCollect() {
+        List<Persona> personas = List.of(
+            new Persona("Paco", 24),
+            new Persona("Ana", 61),
+            new Persona("Marco", 7),
+            new Persona("Marta", 36),
+            new Persona("Alex", 15),
+            new Persona("Sarah", 49),
+            new Persona("Alberto", 49)
+        );
+
+        // Obtener la lita de los nombres de las personas mayores de 18 años ordenados
+        List<String> nombres = personas.stream()
+            .filter(p -> p.edad() >= 18)
+            .map(Persona::nombre)
+            .sorted()
+            .collect(Collectors.toList());
+        String nombres2  = personas.stream()
+            .filter(p -> p.edad() >= 18)
+            .map(Persona::nombre)
+            .sorted()
+            .collect(Collectors.joining(" - "));
+        System.out.println(nombres);
+        System.out.println(nombres2);
+
+        
+        // Personas agrupadas por edad
+        Map<Integer, List<Persona>> grupos = personas.stream()
+            .filter(p -> p.edad() >= 18)
+            .collect( Collectors.groupingBy(Persona::edad) );
+        System.out.println(grupos);
+
+        // Personas agrupadas por edad
+        Map<Integer, Long> cantidadEdad = personas.stream()
+            .filter(p -> p.edad() >= 18)
+            .collect( Collectors.groupingBy(Persona::edad, Collectors.counting()));
+        System.out.println(cantidadEdad);
+
+        // Personas agrupadas por edad
+        Map<Integer, List<String>> nombresEdad = personas.stream()
+        .filter(p -> p.edad() >= 18)
+        .collect(
+            Collectors.groupingBy(
+                Persona::edad,
+                Collectors.mapping(Persona::nombre, Collectors.toList())
+            )
+        );
+        System.out.println(nombresEdad);
+    }
+
     public static void main(String[] args) {
         // ejemploClaseAnonima();
         // ejemploLambda1();
@@ -182,6 +294,9 @@ public class App {
         // streamMatch();
         // streamFind();
         // streamSorted();
-        streamSkipLimit();
+        // streamSkipLimit();
+        // streamReduce();
+        // streamOfNumbers();
+        streamCollect();
     }
 }
