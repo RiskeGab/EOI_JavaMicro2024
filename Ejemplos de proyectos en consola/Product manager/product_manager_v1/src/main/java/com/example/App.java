@@ -13,7 +13,7 @@ import java.util.Scanner;
  *
  */
 public class App {
-    private static final String db = "jdbc:mysql://localhost:3306/product-manager";
+    private static final String db = "jdbc:mariadb://localhost:3306/product-manager";
     private static final String user = "root";
     private static final String pass = "";
 
