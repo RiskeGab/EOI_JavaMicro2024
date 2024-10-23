@@ -43,8 +43,11 @@ public class ProductDAOMySql implements ProductDAO {
     @Override
     public void insertProducto(Product Producto) {
         try (Connection conn = DriverManager.getConnection(db, user, pass)) {
-            PreparedStatement st = conn.prepareStatement("insert into product(name) values(?)");
-            st.setString(1, Producto.getNombre());
+            PreparedStatement st = conn.prepareStatement("insert into product(reference,name,price,category) values(?,?,?,?)");
+            st.setString(1, Producto.getReferencia());
+            st.setString(2, Producto.getNombre());
+            st.setDouble(3, Producto.getPrecio());
+            st.setInt(4, Producto.getCategoria());
             st.executeUpdate();
         } 
         catch (SQLException e) {

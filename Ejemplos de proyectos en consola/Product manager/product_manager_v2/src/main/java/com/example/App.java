@@ -36,6 +36,24 @@ public class App
         categoryDAO.insertCategoria(nuevaCategoria);
     }
 
+    public static void crearProducto() {
+        System.out.print("Introduce la referencia: ");
+        String referencia = sc.nextLine();
+    
+        System.out.print("Introduce el nombre: ");
+        String nombre = sc.nextLine();
+    
+        System.out.print("Introduce el precio: ");
+        double precio = sc.nextDouble();
+    
+        System.out.print("Introduce la categoría: ");
+        int categoria = sc.nextInt();
+        sc.nextLine();
+
+        Product nuevoProducto = new Product(0, referencia, nombre, precio, categoria);
+        productDAO.insertProducto(nuevoProducto);
+    }
+
     public static void borrarCategoria() {
         listarCategorias();
         
@@ -73,7 +91,7 @@ public class App
 
         switch (opcion.toLowerCase()) {
             case "c":
-                //crearProducto();
+                crearProducto();
                 break;
             case "r":
                 listarProductos();
