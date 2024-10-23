@@ -2,17 +2,21 @@ package com.example;
 
 import java.util.Scanner;
 
+import com.example.dao.CategoryDAO;
+import com.example.dao.CategoryDAOMySql;
+
 /**
  * Hello world!
  *
  */
 public class App 
 {
-    private static final String db = "jdbc:mariadb://localhost:3306/product-manager";
-    private static final String user = "root";
-    private static final String pass = "";
+    private static Scanner sc = new Scanner(System.in);
+    private static CategoryDAO categoryDAO = new CategoryDAOMySql();
 
-    static Scanner sc = new Scanner(System.in);
+    public static void listarCategorias() {
+        categoryDAO.getCategorias().forEach(categoria -> System.out.println(categoria));
+    }
 
     public static void menuProductos() {
         String opcion = "";
@@ -59,7 +63,7 @@ public class App
                 //crearCategoria();
                 break;
             case "r":
-                //listarCategorias();
+                listarCategorias();
                 break;
             case "u":
                 //actualizarCategoria();

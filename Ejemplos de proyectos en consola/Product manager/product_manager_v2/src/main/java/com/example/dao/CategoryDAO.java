@@ -1,5 +1,9 @@
 package com.example.dao;
 
-public interface CategoryDAO {
+import java.util.List;
 
+import com.example.entidades.Category;
+
+public interface CategoryDAO {
+    public List<Category> getCategorias();
 }
