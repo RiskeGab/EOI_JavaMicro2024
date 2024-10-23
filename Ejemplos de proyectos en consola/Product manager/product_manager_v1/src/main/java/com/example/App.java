@@ -43,6 +43,17 @@ public class App {
         st.executeUpdate();
     }
 
+    public static void crearCategoria(Connection conn) throws SQLException {
+        System.out.print("Introduce el nombre: ");
+        String nombre = sc.nextLine();
+
+        PreparedStatement st = conn.prepareStatement("insert into category(name) values (?)");
+
+        st.setString(1, nombre);
+
+        st.executeUpdate();
+    }
+
     public static void listarProductos(Connection conn) throws SQLException {
         Statement st = conn.createStatement();
         ResultSet rs = st.executeQuery("select * from product");
@@ -54,6 +65,18 @@ public class App {
                               rs.getString("reference"),
                               rs.getString("name"),
                               rs.getDouble("price"));
+        }
+    }
+
+    public static void listarCategorias(Connection conn) throws SQLException {
+        Statement st = conn.createStatement();
+        ResultSet rs = st.executeQuery("select * from category");
+
+        System.out.printf("%5s %-40s\n", "ID", "NOMBRE");
+        while(rs.next()) {
+            System.out.printf("%5d %-40s\n", 
+                              rs.getInt("id"), 
+                              rs.getString("name"));
         }
     }
 
@@ -97,6 +120,30 @@ public class App {
         st.executeUpdate();
     }
 
+    public static void actualizarCategoria(Connection conn) throws SQLException {
+        listarCategorias(conn);
+
+        System.out.print("Introduce el identificador de la categoría que quieres actualizar: ");
+        int id = sc.nextInt();
+        sc.nextLine();
+
+        PreparedStatement st = conn.prepareStatement("select * from category where id = ?");
+        st.setInt(1, id);
+        ResultSet rs = st.executeQuery();
+        rs.next();
+
+        System.out.print("Introduce el nuevo nombre (pulsa intro para no cambiar): ");
+        String nombre = sc.nextLine().trim();
+        nombre = nombre.isEmpty() ? rs.getString("name") : nombre;
+
+        st = conn.prepareStatement("update category set name = ? where id = ?");
+
+        st.setString(1, nombre);
+        st.setInt(2, id);
+
+        st.executeUpdate();
+    }
+
     public static void borrarProducto(Connection conn) throws SQLException {
         listarProductos(conn);
 
@@ -113,6 +160,23 @@ public class App {
             System.err.println("El producto no existe");
         }
     }
+
+    public static void borrarCategoria(Connection conn) throws SQLException {
+        listarCategorias(conn);
+
+        System.out.print("Introduce el identificador de la categoría a borrar: ");
+        int id = sc.nextInt();
+        sc.nextLine();
+        
+        PreparedStatement st = conn.prepareStatement("delete from category where id = ?");
+        st.setInt(1, id);
+        if (st.executeUpdate() > 0) {
+            System.out.println("Categoría borrada con éxito");
+        }
+        else {
+            System.err.println("El producto no existe");
+        }
+    }    
 
     public static void menuProductos(Connection conn) throws SQLException {
         String opcion = "";
@@ -156,16 +220,16 @@ public class App {
 
         switch (opcion.toLowerCase()) {
             case "c":
-                //crearCategoría(conn);
+                crearCategoria(conn);
                 break;
             case "r":
-                //listarCategorías(conn);
+                listarCategorias(conn);
                 break;
             case "u":
-                //actualizarCategoría(conn);
+                actualizarCategoria(conn);
                 break;
             case "d":
-                //borrarCategoría(conn);
+                borrarCategoria(conn);
                 break;
             default:
                 System.err.println("Opción no válida");
