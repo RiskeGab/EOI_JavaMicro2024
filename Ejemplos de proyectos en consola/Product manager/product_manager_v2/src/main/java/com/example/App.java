@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 import com.example.dao.CategoryDAO;
 import com.example.dao.CategoryDAOMySql;
+import com.example.entidades.Category;
 
 /**
  * Hello world!
@@ -16,6 +17,14 @@ public class App
 
     public static void listarCategorias() {
         categoryDAO.getCategorias().forEach(categoria -> System.out.println(categoria));
+    }
+
+    public static void crearCategoria() {
+        System.out.print("Introduce el nombre: ");
+        String nombre = sc.nextLine();
+        
+        Category nuevaCategoria = new Category(0, nombre);
+        categoryDAO.insertCategoria(nuevaCategoria);
     }
 
     public static void menuProductos() {
@@ -60,7 +69,7 @@ public class App
 
         switch (opcion.toLowerCase()) {
             case "c":
-                //crearCategoria();
+                crearCategoria();
                 break;
             case "r":
                 listarCategorias();

@@ -2,6 +2,7 @@ package com.example.dao;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
+import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.sql.Statement;
@@ -18,7 +19,7 @@ public class CategoryDAOMySql implements CategoryDAO {
     @Override
     public List<Category> getCategorias() {
         List<Category> categorias = new ArrayList<Category>();
-        
+
         try (Connection conn = DriverManager.getConnection(db, user, pass)) {
             Statement st = conn.createStatement();
             ResultSet rs = st.executeQuery("select * from category");
@@ -33,5 +34,17 @@ public class CategoryDAOMySql implements CategoryDAO {
         
         return categorias;
     }
-    
+
+    @Override
+    public void insertCategoria(Category categoria) {
+        try (Connection conn = DriverManager.getConnection(db, user, pass)) {
+            PreparedStatement st = conn.prepareStatement("insert into category(name) values(?)");
+            st.setString(1, categoria.getNombre());
+            st.executeUpdate();
+        } 
+        catch (SQLException e) {
+            System.err.println(e.getMessage());
+        } 
+    }
+
 }
