@@ -114,36 +114,86 @@ public class App {
         }
     }
 
+    public static void menuProductos(Connection conn) throws SQLException {
+        String opcion = "";
+
+        System.out.println("c: Crear Producto");
+        System.out.println("r: Listar Productos");
+        System.out.println("u: Actualizar Producto");
+        System.out.println("d: Borrar Producto");
+        System.out.print("Introduzca opción: ");
+    
+        opcion = sc.nextLine();
+
+        switch (opcion.toLowerCase()) {
+            case "c":
+                crearProducto(conn);
+                break;
+            case "r":
+                listarProductos(conn);
+                break;
+            case "u":
+                actualizarProducto(conn);
+                break;
+            case "d":
+                borrarProducto(conn);
+                break;
+            default:
+                System.err.println("Opción no válida");
+        }
+    }
+
+    public static void menuCategorias(Connection conn) throws SQLException {
+        String opcion = "";
+
+        System.out.println("c: Crear Categoría");
+        System.out.println("r: Listar Categoría");
+        System.out.println("u: Actualizar Categoría");
+        System.out.println("d: Borrar Categoría");
+        System.out.print("Introduzca opción: ");
+    
+        opcion = sc.nextLine();
+
+        switch (opcion.toLowerCase()) {
+            case "c":
+                //crearCategoría(conn);
+                break;
+            case "r":
+                //listarCategorías(conn);
+                break;
+            case "u":
+                //actualizarCategoría(conn);
+                break;
+            case "d":
+                //borrarCategoría(conn);
+                break;
+            default:
+                System.err.println("Opción no válida");
+        }
+    }
+
     public static void main(String[] args) {
         String opcion = "";
 
         do {
             System.out.println();
             System.out.println("CRUD BÁSICO PRODUCT MANAGER");
-            System.out.println("c: Crear Producto");
-            System.out.println("r: Listar Productos");
-            System.out.println("u: Actualizar Producto");
-            System.out.println("d: Borrar Producto");
-            System.out.println("e: Salir");
+            System.out.println("p: Productos");
+            System.out.println("c: Categorías");
+            System.out.println("s: Salir");
             System.out.print("Introduzca opción: ");
     
             opcion = sc.nextLine();
     
             try (Connection conn = DriverManager.getConnection(db, user, pass)) {
                 switch (opcion.toLowerCase()) {
+                    case "p":
+                        menuProductos(conn);
+                        break;
                     case "c":
-                        crearProducto(conn);
+                        menuCategorias(conn);
                         break;
-                    case "r":
-                        listarProductos(conn);
-                        break;
-                    case "u":
-                        actualizarProducto(conn);
-                        break;
-                    case "d":
-                        borrarProducto(conn);
-                        break;
-                    case "e":
+                    case "s":
                         break;
                     default:
                         System.err.println("Opción no válida");
