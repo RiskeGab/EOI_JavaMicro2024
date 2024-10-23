@@ -6,6 +6,10 @@ import com.example.dao.CategoryDAO;
 import com.example.dao.CategoryDAOMySql;
 import com.example.entidades.Category;
 
+import com.example.dao.ProductDAO;
+import com.example.dao.ProductDAOMySql;
+import com.example.entidades.Product;
+
 /**
  * Hello world!
  *
@@ -14,9 +18,14 @@ public class App
 {
     private static Scanner sc = new Scanner(System.in);
     private static CategoryDAO categoryDAO = new CategoryDAOMySql();
+    private static ProductDAO productDAO = new ProductDAOMySql();
 
     public static void listarCategorias() {
         categoryDAO.getCategorias().forEach(categoria -> System.out.println(categoria));
+    }
+
+    public static void listarProductos() {
+        productDAO.getProductos().forEach(producto -> System.out.println(producto));
     }
 
     public static void crearCategoria() {
@@ -67,7 +76,7 @@ public class App
                 //crearProducto();
                 break;
             case "r":
-                //listarProductos();
+                listarProductos();
                 break;
             case "u":
                 //actualizarProducto();
