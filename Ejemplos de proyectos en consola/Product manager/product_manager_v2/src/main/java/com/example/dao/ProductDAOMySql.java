@@ -70,9 +70,12 @@ public class ProductDAOMySql implements ProductDAO {
     @Override
     public void updateProducto(Product Producto) {
         try (Connection conn = DriverManager.getConnection(db, user, pass)) {
-            PreparedStatement st = conn.prepareStatement("update product set name = ? where id = ?");
-            st.setString(1, Producto.getNombre());
-            st.setInt(2, Producto.getId());
+            PreparedStatement st = conn.prepareStatement("update product set reference = ?, name = ?, price = ?, category = ? where id = ?");
+            st.setString(1, Producto.getReferencia());
+            st.setString(2, Producto.getNombre());
+            st.setDouble(3, Producto.getPrecio());
+            st.setInt(4, Producto.getCategoria());
+            st.setInt(5, Producto.getId());
             st.executeUpdate();
         } 
         catch (SQLException e) {

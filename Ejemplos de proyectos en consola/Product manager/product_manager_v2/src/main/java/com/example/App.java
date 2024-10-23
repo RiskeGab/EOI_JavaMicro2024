@@ -88,6 +88,30 @@ public class App
         categoryDAO.updateCategoria(categoria);
     }
 
+    public static void actualizarProducto() {
+        listarProductos();
+
+        System.out.print("Introduce el identificador del producto que quieres actualizar: ");
+        int id = sc.nextInt();
+        sc.nextLine();
+
+        System.out.print("Introduce la referencia: ");
+        String referencia = sc.nextLine();
+    
+        System.out.print("Introduce el nombre: ");
+        String nombre = sc.nextLine();
+    
+        System.out.print("Introduce el precio: ");
+        double precio = sc.nextDouble();
+    
+        System.out.print("Introduce la categoría: ");
+        int categoria = sc.nextInt();
+        sc.nextLine();
+
+        Product producto = new Product(id, referencia, nombre, precio, categoria);
+        productDAO.updateProducto(producto);
+    }
+
     public static void menuProductos() {
         String opcion = "";
 
@@ -107,7 +131,7 @@ public class App
                 listarProductos();
                 break;
             case "u":
-                //actualizarProducto();
+                actualizarProducto();
                 break;
             case "d":
                 borrarProducto();
