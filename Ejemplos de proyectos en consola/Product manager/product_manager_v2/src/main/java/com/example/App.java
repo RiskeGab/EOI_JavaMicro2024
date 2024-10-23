@@ -64,6 +64,16 @@ public class App
         categoryDAO.deleteCategoria(id);
     }
 
+    public static void borrarProducto() {
+        listarProductos();
+        
+        System.out.print("Introduce el id del producto que quieres borrar: ");
+        int id = sc.nextInt();
+        sc.nextLine();
+        
+        productDAO.deleteProducto(id);
+    }
+
     public static void actualizarCategoria() {
         listarCategorias();
 
@@ -100,7 +110,7 @@ public class App
                 //actualizarProducto();
                 break;
             case "d":
-                //borrarProducto();
+                borrarProducto();
                 break;
             default:
                 System.err.println("Opción no válida");
