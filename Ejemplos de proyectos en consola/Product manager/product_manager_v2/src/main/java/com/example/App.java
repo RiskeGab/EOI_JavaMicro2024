@@ -27,6 +27,16 @@ public class App
         categoryDAO.insertCategoria(nuevaCategoria);
     }
 
+    public static void borrarCategoria() {
+        listarCategorias();
+        
+        System.out.print("Introduce el id de la categoría que quieres borrar: ");
+        int id = sc.nextInt();
+        sc.nextLine();
+        
+        categoryDAO.deleteCategoria(id);
+    }
+
     public static void menuProductos() {
         String opcion = "";
 
@@ -78,7 +88,7 @@ public class App
                 //actualizarCategoria();
                 break;
             case "d":
-                //borrarCategoria();
+                borrarCategoria();
                 break;
             default:
                 System.err.println("Opción no válida");

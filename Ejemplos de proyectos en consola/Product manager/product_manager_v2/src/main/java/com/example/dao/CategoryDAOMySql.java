@@ -47,4 +47,15 @@ public class CategoryDAOMySql implements CategoryDAO {
         } 
     }
 
+    @Override
+    public void deleteCategoria(int id) {
+        try (Connection conn = DriverManager.getConnection(db, user, pass)) {
+            PreparedStatement st = conn.prepareStatement("delete from category where id = ?");
+            st.setInt(1, id);
+            st.executeUpdate();
+        } 
+        catch (SQLException e) {
+            System.err.println(e.getMessage());
+        } 
+    }
 }
