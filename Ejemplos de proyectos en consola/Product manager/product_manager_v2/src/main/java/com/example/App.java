@@ -37,6 +37,20 @@ public class App
         categoryDAO.deleteCategoria(id);
     }
 
+    public static void actualizarCategoria() {
+        listarCategorias();
+
+        System.out.print("Introduce el identificador de la categoría que quieres actualizar: ");
+        int id = sc.nextInt();
+        sc.nextLine();
+
+        System.out.print("Introduce el nuevo nombre: ");
+        String nombre = sc.nextLine().trim();
+
+        Category categoria = new Category(id, nombre);
+        categoryDAO.updateCategoria(categoria);
+    }
+
     public static void menuProductos() {
         String opcion = "";
 
@@ -85,7 +99,7 @@ public class App
                 listarCategorias();
                 break;
             case "u":
-                //actualizarCategoria();
+                actualizarCategoria();
                 break;
             case "d":
                 borrarCategoria();

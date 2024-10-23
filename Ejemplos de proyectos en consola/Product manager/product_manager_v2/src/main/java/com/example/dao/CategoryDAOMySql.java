@@ -58,4 +58,17 @@ public class CategoryDAOMySql implements CategoryDAO {
             System.err.println(e.getMessage());
         } 
     }
+
+    @Override
+    public void updateCategoria(Category categoria) {
+        try (Connection conn = DriverManager.getConnection(db, user, pass)) {
+            PreparedStatement st = conn.prepareStatement("update category set name = ? where id = ?");
+            st.setString(1, categoria.getNombre());
+            st.setInt(2, categoria.getId());
+            st.executeUpdate();
+        } 
+        catch (SQLException e) {
+            System.err.println(e.getMessage());
+        } 
+    }
 }
