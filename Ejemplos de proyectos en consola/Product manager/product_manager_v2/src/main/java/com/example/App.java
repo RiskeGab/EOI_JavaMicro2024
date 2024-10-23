@@ -1,10 +1,6 @@
 package com.example;
 
-import java.sql.Connection;
-import java.sql.DriverManager;
-import java.sql.ResultSet;
-import java.sql.SQLException;
-import java.sql.Statement;
+import java.util.Scanner;
 
 /**
  * Hello world!
@@ -16,23 +12,92 @@ public class App
     private static final String user = "root";
     private static final String pass = "";
 
-    public static void main( String[] args )
-    {
-        try (Connection conn = DriverManager.getConnection(db, user, pass)) {
-            Statement st = conn.createStatement();
-            ResultSet rs = st.executeQuery("select * from category");
+    static Scanner sc = new Scanner(System.in);
 
-            System.out.printf("%5s %-40s\n", "ID", "NOMBRE");
-            while(rs.next()) {
-                System.out.printf("%5d %-40s\n", 
-                                rs.getInt("id"), 
-                                rs.getString("name"));
+    public static void menuProductos() {
+        String opcion = "";
+
+        System.out.println("c: Crear Producto");
+        System.out.println("r: Listar Productos");
+        System.out.println("u: Actualizar Producto");
+        System.out.println("d: Borrar Producto");
+        System.out.print("Introduzca opción: ");
+    
+        opcion = sc.nextLine();
+
+        switch (opcion.toLowerCase()) {
+            case "c":
+                //crearProducto();
+                break;
+            case "r":
+                //listarProductos();
+                break;
+            case "u":
+                //actualizarProducto();
+                break;
+            case "d":
+                //borrarProducto();
+                break;
+            default:
+                System.err.println("Opción no válida");
+        }
+    }
+
+    public static void menuCategorias() {
+        String opcion = "";
+
+        System.out.println("c: Crear Categoría");
+        System.out.println("r: Listar Categoría");
+        System.out.println("u: Actualizar Categoría");
+        System.out.println("d: Borrar Categoría");
+        System.out.print("Introduzca opción: ");
+    
+        opcion = sc.nextLine();
+
+        switch (opcion.toLowerCase()) {
+            case "c":
+                //crearCategoria();
+                break;
+            case "r":
+                //listarCategorias();
+                break;
+            case "u":
+                //actualizarCategoria();
+                break;
+            case "d":
+                //borrarCategoria();
+                break;
+            default:
+                System.err.println("Opción no válida");
+        }
+    }
+
+    public static void main(String[] args) {
+        String opcion = "";
+
+        do {
+            System.out.println();
+            System.out.println("CRUD BÁSICO PRODUCT MANAGER");
+            System.out.println("p: Productos");
+            System.out.println("c: Categorías");
+            System.out.println("s: Salir");
+            System.out.print("Introduzca opción: ");
+    
+            opcion = sc.nextLine();
+    
+            switch (opcion.toLowerCase()) {
+                case "p":
+                    menuProductos();
+                    break;
+                case "c":
+                    menuCategorias();
+                    break;
+                case "s":
+                    break;
+                default:
+                    System.err.println("Opción no válida");
             }
-        }
-        catch (SQLException e) {
-            System.err.println(e.getMessage());
-        }
 
-        System.out.println( "Hello World!" );
+        } while(!opcion.toLowerCase().equals("e"));
     }
 }
