@@ -7,6 +7,7 @@ import java.util.Scanner;
 
 import com.eoi.dao.PuntuacionDAO;
 import com.eoi.dao.PuntuacionDAOMariadb;
+import com.eoi.entidades.Puntuacion;
 
 /**
  * Hello world!
@@ -25,6 +26,36 @@ public class App {
         puntuacionDAO.getPuntuaciones().forEach(System.out::println);
     }
 
+    public static void insertaPuntuacion() {
+        System.out.print("Nombre jugador: ");
+        String nombre = sc.nextLine();
+        System.out.print("Puntuación: ");
+        int puntuacion = sc.nextInt();
+        sc.nextLine();
+        Puntuacion p = new Puntuacion(0, nombre, puntuacion);
+        p = puntuacionDAO.insertPuntuacion(p);
+        System.out.println("Puntuacion insertada: " + p);
+    }
+
+    public static void actualizaPuntuacion() {
+        listarPuntuaciones();
+        System.out.print("Puntuación a modificar (id): ");
+        int id = sc.nextInt();
+        System.out.print("Nueva puntuación: ");
+        int puntuacion = sc.nextInt();
+        sc.nextLine(); // Borramos buffer sc
+        puntuacionDAO.updatePuntuacion(id, puntuacion);
+    }
+
+    public static void borraPuntuacion() {
+        listarPuntuaciones();
+        System.out.print("Puntuación a borrar (id): ");
+        int id = sc.nextInt();
+        sc.nextLine(); // Borramos buffer sc
+
+        puntuacionDAO.deletePuntuacion(id);
+    }
+
     public static void main(String[] args) {
         try (Connection conn = DriverManager.getConnection(db, user, pass)) {
             puntuacionDAO = new PuntuacionDAOMariadb(conn);
@@ -32,7 +63,7 @@ public class App {
             int opcion;
             do {
                 System.err.print("""
-                    
+
                         -----------------------
                         MENÚ
                         -----------------------
@@ -44,9 +75,19 @@ public class App {
                         ----------------------
                         Elige una opción: """);
                 opcion = sc.nextInt();
+                sc.nextLine();
                 switch (opcion) {
                     case 1:
                         listarPuntuaciones();
+                        break;
+                    case 2:
+                        insertaPuntuacion();
+                        break;
+                    case 3:
+                        actualizaPuntuacion();
+                        break;
+                    case 4:
+                        borraPuntuacion();
                         break;
                     case 0:
                         break;
