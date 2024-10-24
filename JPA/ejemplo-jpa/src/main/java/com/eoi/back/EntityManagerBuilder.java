@@ -8,7 +8,7 @@ public class EntityManagerBuilder {
 
     public static EntityManagerFactory getEntityManagerFactory() {
         if (emf == null) {
-            emf = Persistence.createEntityManagerFactory("PruebaHibernate");
+            emf = Persistence.createEntityManagerFactory("prueba");
         }
         return emf;
     }
