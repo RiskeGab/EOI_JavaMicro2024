@@ -70,6 +70,7 @@ public class App {
         }
     }
 
+    // Borrar una categoría con todos sus productos en una transacción
     public static void apartado5(Connection conn) throws SQLException {
         listarCategorias(conn);
         System.out.print("Elige una categoría: ");

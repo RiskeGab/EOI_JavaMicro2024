@@ -50,13 +50,24 @@ public class CategoryDAOMySql implements CategoryDAO {
     @Override
     public void deleteCategoria(int id) {
         try (Connection conn = DriverManager.getConnection(db, user, pass)) {
-            PreparedStatement st = conn.prepareStatement("delete from category where id = ?");
-            st.setInt(1, id);
-            st.executeUpdate();
-        } 
-        catch (SQLException e) {
-            System.err.println(e.getMessage());
-        } 
+            conn.setAutoCommit(false); // Empezamos una transacción
+            try {
+                PreparedStatement st = conn.prepareStatement("delete from product where category = ?");
+                st.setInt(1, id);
+                st.executeUpdate();
+
+                PreparedStatement st2 = conn.prepareStatement("delete from category where id = ?");
+                st2.setInt(1, id);
+                st2.executeUpdate();
+                conn.commit(); // Confirmar transacción
+            } 
+            catch (SQLException e) {
+                System.err.println(e.getMessage());
+                conn.rollback(); // CAncelar transacción
+            }
+        } catch(SQLException e) {
+            System.err.println("Error en la conexión: " + e.getMessage());
+        }
     }
 
     @Override

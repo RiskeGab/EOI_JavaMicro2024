@@ -14,8 +14,7 @@ import com.example.entidades.Product;
  * Hello world!
  *
  */
-public class App 
-{
+public class App {
     private static Scanner sc = new Scanner(System.in);
     private static CategoryDAO categoryDAO = new CategoryDAOMySql();
     private static ProductDAO productDAO = new ProductDAOMySql();
@@ -26,6 +25,14 @@ public class App
 
     public static void listarProductos() {
         productDAO.getProductos().forEach(producto -> System.out.println(producto));
+    }
+
+    public static void listarProductosCategoria() {
+        listarCategorias();
+        System.out.print("Elige una categoría: ");
+        int idCat = sc.nextInt();
+        sc.nextLine();
+        productDAO.getProdutosCategoria(idCat).forEach(producto -> System.out.println(producto));
     }
 
     public static void crearCategoria() {
@@ -46,6 +53,7 @@ public class App
         System.out.print("Introduce el precio: ");
         double precio = sc.nextDouble();
     
+        listarCategorias();
         System.out.print("Introduce la categoría: ");
         int categoria = sc.nextInt();
         sc.nextLine();
@@ -117,6 +125,7 @@ public class App
 
         System.out.println("c: Crear Producto");
         System.out.println("r: Listar Productos");
+        System.out.println("r2: Listar Productos por categoría");
         System.out.println("u: Actualizar Producto");
         System.out.println("d: Borrar Producto");
         System.out.print("Introduzca opción: ");
@@ -129,6 +138,9 @@ public class App
                 break;
             case "r":
                 listarProductos();
+                break;
+            case "r2":
+                listarProductosCategoria();
                 break;
             case "u":
                 actualizarProducto();
@@ -196,6 +208,6 @@ public class App
                     System.err.println("Opción no válida");
             }
 
-        } while(!opcion.toLowerCase().equals("e"));
+        } while(!opcion.toLowerCase().equals("s"));
     }
 }

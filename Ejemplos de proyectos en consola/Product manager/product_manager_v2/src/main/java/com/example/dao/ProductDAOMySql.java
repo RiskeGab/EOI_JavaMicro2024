@@ -41,6 +41,31 @@ public class ProductDAOMySql implements ProductDAO {
     }
 
     @Override
+    public List<Product> getProdutosCategoria(int idCat) {
+        List<Product> Productos = new ArrayList<Product>();
+
+        try (Connection conn = DriverManager.getConnection(db, user, pass)) {
+            PreparedStatement st = conn.prepareStatement("select * from product where category = ?");
+            st.setInt(1, idCat);
+            ResultSet rs = st.executeQuery();
+
+            while(rs.next()) {
+                // Product(int id, String referencia, String nombre, double precio, int categoria) {
+                Productos.add(new Product(rs.getInt("id"), 
+                                          rs.getString("reference"),
+                                          rs.getString("name"),
+                                          rs.getDouble("price"),
+                                          rs.getInt("category")));
+            }
+        } 
+        catch (SQLException e) {
+            System.err.println(e.getMessage());
+        }
+        
+        return Productos;
+    }
+
+    @Override
     public void insertProducto(Product Producto) {
         try (Connection conn = DriverManager.getConnection(db, user, pass)) {
             PreparedStatement st = conn.prepareStatement("insert into product(reference,name,price,category) values(?,?,?,?)");
