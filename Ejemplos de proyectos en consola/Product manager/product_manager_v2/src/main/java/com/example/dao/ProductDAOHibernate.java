@@ -47,6 +47,9 @@ public class ProductDAOHibernate implements ProductDAO {
         EntityManager em = EntityManagerBuilder.getEntityManagerFactory().createEntityManager();
         em.getTransaction().begin();
         Product producto = em.getReference(Product.class, id);
+
+        System.out.println(producto);
+
         em.remove(producto);
         em.getTransaction().commit();
         em.close();
