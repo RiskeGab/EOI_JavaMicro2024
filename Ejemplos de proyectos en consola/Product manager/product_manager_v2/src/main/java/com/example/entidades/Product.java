@@ -16,7 +16,7 @@ import lombok.Data;
 
 @Entity
 @NamedQueries({
-    @NamedQuery(name="Product.findByCategory", query="select p from product p where p.categoria.id = :idCategoria")
+    @NamedQuery(name="Product.findByCategory", query="select p from Product p where p.categoria.id = :idCategoria")
 })
 @Data @AllArgsConstructor
 public class Product {
@@ -36,6 +36,9 @@ public class Product {
     @ManyToOne(cascade = CascadeType.ALL)
     @JoinColumn(name = "category")
     Category categoria; 
+
+    public Product() {
+    }
 
     @Override
     public String toString() {
