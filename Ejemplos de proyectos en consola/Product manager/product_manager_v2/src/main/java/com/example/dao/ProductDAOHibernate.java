@@ -48,8 +48,6 @@ public class ProductDAOHibernate implements ProductDAO {
         em.getTransaction().begin();
         Product producto = em.getReference(Product.class, id);
 
-        System.out.println(producto);
-
         em.remove(producto);
         em.getTransaction().commit();
         em.close();
