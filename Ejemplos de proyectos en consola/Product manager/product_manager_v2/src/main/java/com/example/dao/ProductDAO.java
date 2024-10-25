@@ -5,4 +5,5 @@ import java.util.List;
 import com.example.entidades.Product;
 
 public interface ProductDAO {
+    List<Product> getProdutosCategoria(int idCategoria);
 }

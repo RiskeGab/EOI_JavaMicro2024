@@ -34,7 +34,7 @@ public class App {
         System.out.print("Elige una categoría: ");
         int idCat = sc.nextInt();
         sc.nextLine();
-        //productDAO.getProdutosCategoria(idCat).forEach(producto -> System.out.println(producto));
+        productDAO.getProdutosCategoria(idCat).forEach(producto -> System.out.println(producto));
     }
 
     public static void crearCategoria() {

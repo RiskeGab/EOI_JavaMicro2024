@@ -46,6 +46,4 @@ public class CategoryDAOHibernate implements CategoryDAO {
         em.getTransaction().commit();
         em.close();
     }
-    
-    
 }
