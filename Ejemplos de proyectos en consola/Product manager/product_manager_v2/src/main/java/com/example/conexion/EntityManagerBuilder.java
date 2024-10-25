@@ -1,4 +1,4 @@
-package com.example;
+package com.example.conexion;
 
 import javax.persistence.EntityManagerFactory;
 import javax.persistence.Persistence;
