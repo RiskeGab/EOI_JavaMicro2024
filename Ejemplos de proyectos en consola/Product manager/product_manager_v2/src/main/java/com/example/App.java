@@ -3,11 +3,11 @@ package com.example;
 import java.util.Scanner;
 
 import com.example.dao.CategoryDAO;
-import com.example.dao.CategoryDAOMySql;
+import com.example.dao.CategoryDAOHibernate;
 import com.example.entidades.Category;
 
 import com.example.dao.ProductDAO;
-import com.example.dao.ProductDAOMySql;
+import com.example.dao.ProductDAOHibernate;
 import com.example.entidades.Product;
 
 /**
@@ -16,15 +16,15 @@ import com.example.entidades.Product;
  */
 public class App {
     private static Scanner sc = new Scanner(System.in);
-    private static CategoryDAO categoryDAO = new CategoryDAOMySql();
-    private static ProductDAO productDAO = new ProductDAOMySql();
+    private static CategoryDAO categoryDAO = new CategoryDAOHibernate();
+    private static ProductDAO productDAO = new ProductDAOHibernate();
 
     public static void listarCategorias() {
         categoryDAO.getCategorias().forEach(categoria -> System.out.println(categoria));
     }
 
     public static void listarProductos() {
-        productDAO.getProductos().forEach(producto -> System.out.println(producto));
+        //productDAO.getProductos().forEach(producto -> System.out.println(producto));
     }
 
     public static void listarProductosCategoria() {
@@ -32,7 +32,7 @@ public class App {
         System.out.print("Elige una categoría: ");
         int idCat = sc.nextInt();
         sc.nextLine();
-        productDAO.getProdutosCategoria(idCat).forEach(producto -> System.out.println(producto));
+        //productDAO.getProdutosCategoria(idCat).forEach(producto -> System.out.println(producto));
     }
 
     public static void crearCategoria() {
@@ -40,7 +40,7 @@ public class App {
         String nombre = sc.nextLine();
         
         Category nuevaCategoria = new Category(0, nombre);
-        categoryDAO.insertCategoria(nuevaCategoria);
+        //categoryDAO.insertCategoria(nuevaCategoria);
     }
 
     public static void crearProducto() {
@@ -59,7 +59,7 @@ public class App {
         sc.nextLine();
 
         Product nuevoProducto = new Product(0, referencia, nombre, precio, categoria);
-        productDAO.insertProducto(nuevoProducto);
+        //productDAO.insertProducto(nuevoProducto);
     }
 
     public static void borrarCategoria() {
@@ -69,7 +69,7 @@ public class App {
         int id = sc.nextInt();
         sc.nextLine();
         
-        categoryDAO.deleteCategoria(id);
+        //categoryDAO.deleteCategoria(id);
     }
 
     public static void borrarProducto() {
@@ -79,7 +79,7 @@ public class App {
         int id = sc.nextInt();
         sc.nextLine();
         
-        productDAO.deleteProducto(id);
+        //productDAO.deleteProducto(id);
     }
 
     public static void actualizarCategoria() {
@@ -93,7 +93,7 @@ public class App {
         String nombre = sc.nextLine().trim();
 
         Category categoria = new Category(id, nombre);
-        categoryDAO.updateCategoria(categoria);
+        //categoryDAO.updateCategoria(categoria);
     }
 
     public static void actualizarProducto() {
@@ -117,7 +117,7 @@ public class App {
         sc.nextLine();
 
         Product producto = new Product(id, referencia, nombre, precio, categoria);
-        productDAO.updateProducto(producto);
+        //productDAO.updateProducto(producto);
     }
 
     public static void menuProductos() {
