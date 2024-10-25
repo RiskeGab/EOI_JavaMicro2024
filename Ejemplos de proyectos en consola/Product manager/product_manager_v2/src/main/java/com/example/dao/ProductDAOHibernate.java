@@ -41,6 +41,14 @@ public class ProductDAOHibernate implements ProductDAO {
         
         return producto.getId();
     }
-    
-    
+
+    @Override
+    public void deleteProducto(int id) {
+        EntityManager em = EntityManagerBuilder.getEntityManagerFactory().createEntityManager();
+        em.getTransaction().begin();
+        Product producto = em.getReference(Product.class, id);
+        em.remove(producto);
+        em.getTransaction().commit();
+        em.close();
+    }    
 }

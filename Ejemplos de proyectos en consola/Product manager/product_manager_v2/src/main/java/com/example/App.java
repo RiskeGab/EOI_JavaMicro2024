@@ -81,7 +81,7 @@ public class App {
         int id = sc.nextInt();
         sc.nextLine();
         
-        //productDAO.deleteProducto(id);
+        productDAO.deleteProducto(id);
     }
 
     public static void actualizarCategoria() {
