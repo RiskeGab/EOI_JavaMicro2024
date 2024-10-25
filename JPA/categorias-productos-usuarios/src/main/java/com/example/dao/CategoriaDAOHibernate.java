@@ -8,7 +8,7 @@ import com.example.conexion.EntityManagerBuilder;
 
 import com.example.entidades.Categoria;
 
-public class CategoriaDAOHibernate implements CategoryDAO {
+public class CategoriaDAOHibernate implements CategoriaDAO {
     @Override
     public List<Categoria> getCategorias() {
         EntityManager em = EntityManagerBuilder.getEntityManagerFactory().createEntityManager();

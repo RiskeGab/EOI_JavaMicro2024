@@ -4,7 +4,7 @@ import java.util.List;
 
 import com.example.entidades.Categoria;
 
-public interface CategoryDAO {
+public interface CategoriaDAO {
     public List<Categoria> getCategorias();
     public int insertCategoria(Categoria categoria);
     public void deleteCategoria(int id);

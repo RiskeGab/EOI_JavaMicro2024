@@ -1,12 +1,11 @@
 package com.example;
 
-import java.util.Locale.Category;
 import java.util.Scanner;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
 import com.example.dao.CategoriaDAOHibernate;
-import com.example.dao.CategoryDAO;
+import com.example.dao.CategoriaDAO;
 import com.example.entidades.Categoria;
 
 /**
@@ -16,7 +15,7 @@ import com.example.entidades.Categoria;
 public class App 
 {
     private static Scanner sc = new Scanner(System.in);
-    private static CategoryDAO categoriaDAO = new CategoriaDAOHibernate();
+    private static CategoriaDAO categoriaDAO = new CategoriaDAOHibernate();
 
     public static void listarCategorias() {
         categoriaDAO.getCategorias().forEach(categoria -> System.out.println(categoria));
@@ -26,7 +25,7 @@ public class App
         System.out.print("Introduce el nombre: ");
         String nombre = sc.nextLine();
         
-        Category nuevaCategoria = new Categoria(0, nombre);
+        Categoria nuevaCategoria = new Categoria(0, nombre);
         categoriaDAO.insertCategoria(nuevaCategoria);
     }
  
@@ -37,7 +36,7 @@ public class App
         int id = sc.nextInt();
         sc.nextLine();
         
-        categoryDAO.deleteCategoria(id);
+        categoriaDAO.deleteCategoria(id);
     }    
 
     public static void actualizarCategoria() {
@@ -50,7 +49,7 @@ public class App
         System.out.print("Introduce el nuevo nombre: ");
         String nombre = sc.nextLine().trim();
 
-        Category categoria = new Categoria(id, nombre);
+        Categoria categoria = new Categoria(id, nombre);
         categoriaDAO.updateCategoria(categoria);
     }    
 
@@ -67,16 +66,16 @@ public class App
 
         switch (opcion.toLowerCase()) {
             case "c":
-                //crearCategoria();
+                crearCategoria();
                 break;
             case "r":
                 listarCategorias();
                 break;
             case "u":
-                //actualizarCategoria();
+                actualizarCategoria();
                 break;
             case "d":
-                //borrarCategoria();
+                borrarCategoria();
                 break;
             default:
                 System.err.println("Opción no válida");
