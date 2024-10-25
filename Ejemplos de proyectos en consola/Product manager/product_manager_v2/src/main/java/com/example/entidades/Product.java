@@ -35,7 +35,7 @@ public class Product {
 
     @ManyToOne(cascade = CascadeType.ALL)
     @JoinColumn(name = "category")
-    int categoria;
+    Category categoria; 
 
     @Override
     public String toString() {

@@ -60,7 +60,7 @@ public class App {
         int categoria = sc.nextInt();
         sc.nextLine();
 
-        Product nuevoProducto = new Product(0, referencia, nombre, precio, categoria);
+        //Product nuevoProducto = new Product(0, referencia, nombre, precio, categoria);
         //productDAO.insertProducto(nuevoProducto);
     }
 
@@ -118,7 +118,7 @@ public class App {
         int categoria = sc.nextInt();
         sc.nextLine();
 
-        Product producto = new Product(id, referencia, nombre, precio, categoria);
+        //Product producto = new Product(id, referencia, nombre, precio, categoria);
         //productDAO.updateProducto(producto);
     }
 
