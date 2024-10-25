@@ -13,7 +13,7 @@ import lombok.Data;
 
 @Entity
 @NamedQueries({
-    @NamedQuery(name="Category.findAll", query="select c from Category c")
+    @NamedQuery(name="Categoria.findAll", query="select c from Categoria c")
 })
 @Data @AllArgsConstructor
 public class Categoria {
