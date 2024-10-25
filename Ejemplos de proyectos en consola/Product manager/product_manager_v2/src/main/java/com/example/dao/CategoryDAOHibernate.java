@@ -7,7 +7,7 @@ import javax.persistence.EntityManager;
 import com.example.conexion.EntityManagerBuilder;
 import com.example.entidades.Category;
 
-public class CategoryDAOHibernate implements CategoryDAO{
+public class CategoryDAOHibernate implements CategoryDAO {
 
     @Override
     public List<Category> getCategorias() {
@@ -16,5 +16,17 @@ public class CategoryDAOHibernate implements CategoryDAO{
         em.close();
         return list;
     }
+
+    @Override
+    public int insertCategoria(Category categoria) {
+        EntityManager em = EntityManagerBuilder.getEntityManagerFactory().createEntityManager();
+        em.getTransaction().begin();
+        em.persist(categoria);
+        em.getTransaction().commit();
+        em.close();
+        
+        return categoria.getId();
+    }
+    
     
 }

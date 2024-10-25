@@ -42,7 +42,7 @@ public class App {
         String nombre = sc.nextLine();
         
         Category nuevaCategoria = new Category(0, nombre);
-        //categoryDAO.insertCategoria(nuevaCategoria);
+        categoryDAO.insertCategoria(nuevaCategoria);
     }
 
     public static void crearProducto() {

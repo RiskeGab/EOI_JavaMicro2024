@@ -6,4 +6,5 @@ import com.example.entidades.Category;
 
 public interface CategoryDAO {
     public List<Category> getCategorias();
+    public int insertCategoria(Category categoria);
 }
