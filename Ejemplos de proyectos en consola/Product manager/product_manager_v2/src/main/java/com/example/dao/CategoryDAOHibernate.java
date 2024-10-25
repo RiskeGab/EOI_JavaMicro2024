@@ -27,6 +27,16 @@ public class CategoryDAOHibernate implements CategoryDAO {
         
         return categoria.getId();
     }
+
+    @Override
+    public void deleteCategoria(int id) {
+        EntityManager em = EntityManagerBuilder.getEntityManagerFactory().createEntityManager();
+        em.getTransaction().begin();
+        Category categoria = em.getReference(Category.class, id);
+        em.remove(categoria);
+        em.getTransaction().commit();
+        em.close();
+    }
     
     
 }
