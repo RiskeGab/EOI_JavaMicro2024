@@ -5,8 +5,8 @@ import java.util.List;
 import javax.persistence.EntityManager;
 
 import com.example.conexion.EntityManagerBuilder;
-import com.example.entidades.Category;
 import com.example.entidades.Product;
+import com.example.entidades.Category;
 
 public class ProductDAOHibernate implements ProductDAO {
 
@@ -26,5 +26,21 @@ public class ProductDAOHibernate implements ProductDAO {
         em.close();
         return list;
     }
+
+    @Override
+    public int insertProducto(Product producto, int idCategoria) {
+        EntityManager em = EntityManagerBuilder.getEntityManagerFactory().createEntityManager();
+        
+        Category categoria = em.find(Category.class, idCategoria);
+        producto.setCategoria(categoria);
+
+        em.getTransaction().begin();
+        em.persist(producto);
+        em.getTransaction().commit();
+        em.close();
+        
+        return producto.getId();
+    }
+    
     
 }

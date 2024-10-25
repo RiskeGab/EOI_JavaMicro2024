@@ -60,8 +60,8 @@ public class App {
         int categoria = sc.nextInt();
         sc.nextLine();
 
-        //Product nuevoProducto = new Product(0, referencia, nombre, precio, categoria);
-        //productDAO.insertProducto(nuevoProducto);
+        Product nuevoProducto = new Product(0, referencia, nombre, precio, null);
+        productDAO.insertProducto(nuevoProducto, categoria);
     }
 
     public static void borrarCategoria() {
