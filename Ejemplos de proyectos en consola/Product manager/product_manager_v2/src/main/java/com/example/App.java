@@ -95,7 +95,7 @@ public class App {
         String nombre = sc.nextLine().trim();
 
         Category categoria = new Category(id, nombre);
-        //categoryDAO.updateCategoria(categoria);
+        categoryDAO.updateCategoria(categoria);
     }
 
     public static void actualizarProducto() {

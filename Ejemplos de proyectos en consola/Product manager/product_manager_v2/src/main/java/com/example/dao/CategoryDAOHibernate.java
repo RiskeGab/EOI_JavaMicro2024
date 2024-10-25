@@ -37,6 +37,15 @@ public class CategoryDAOHibernate implements CategoryDAO {
         em.getTransaction().commit();
         em.close();
     }
+
+    @Override
+    public void updateCategoria(Category categoria) {
+        EntityManager em = EntityManagerBuilder.getEntityManagerFactory().createEntityManager();
+        em.getTransaction().begin();
+        em.merge(categoria);
+        em.getTransaction().commit();
+        em.close();
+    }
     
     
 }
