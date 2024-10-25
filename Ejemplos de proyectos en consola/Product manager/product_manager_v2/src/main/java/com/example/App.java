@@ -26,7 +26,7 @@ public class App {
     }
 
     public static void listarProductos() {
-        //productDAO.getProductos().forEach(producto -> System.out.println(producto));
+        productDAO.getProductos().forEach(producto -> System.out.println(producto));
     }
 
     public static void listarProductosCategoria() {

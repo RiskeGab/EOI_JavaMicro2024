@@ -5,6 +5,7 @@ import java.util.List;
 import javax.persistence.EntityManager;
 
 import com.example.conexion.EntityManagerBuilder;
+import com.example.entidades.Category;
 import com.example.entidades.Product;
 
 public class ProductDAOHibernate implements ProductDAO {
@@ -17,6 +18,13 @@ public class ProductDAOHibernate implements ProductDAO {
                                     .getResultList();
         return productos;
     }
-    
 
+    @Override
+    public List<Product> getProductos() {
+        EntityManager em = EntityManagerBuilder.getEntityManagerFactory().createEntityManager();
+        List<Product> list = em.createNamedQuery("Product.findAll", Product.class).getResultList();
+        em.close();
+        return list;
+    }
+    
 }
