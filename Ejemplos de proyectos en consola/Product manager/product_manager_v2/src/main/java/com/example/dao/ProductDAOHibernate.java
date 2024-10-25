@@ -53,5 +53,18 @@ public class ProductDAOHibernate implements ProductDAO {
         em.remove(producto);
         em.getTransaction().commit();
         em.close();
-    }    
+    }
+
+    @Override
+    public void updateProducto(Product producto, int idCategoria) {
+        EntityManager em = EntityManagerBuilder.getEntityManagerFactory().createEntityManager();
+
+        Category categoria = em.find(Category.class, idCategoria);
+        producto.setCategoria(categoria);
+
+        em.getTransaction().begin();
+        em.merge(producto);
+        em.getTransaction().commit();
+        em.close();
+    }
 }

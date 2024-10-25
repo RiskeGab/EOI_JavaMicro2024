@@ -118,8 +118,8 @@ public class App {
         int categoria = sc.nextInt();
         sc.nextLine();
 
-        //Product producto = new Product(id, referencia, nombre, precio, categoria);
-        //productDAO.updateProducto(producto);
+        Product producto = new Product(id, referencia, nombre, precio, null);
+        productDAO.updateProducto(producto, categoria);
     }
 
     public static void menuProductos() {
