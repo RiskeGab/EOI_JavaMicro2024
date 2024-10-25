@@ -1,6 +1,8 @@
 package com.example;
 
 import java.util.Scanner;
+import java.util.logging.Level;
+import java.util.logging.Logger;
 
 import com.example.dao.CategoryDAO;
 import com.example.dao.CategoryDAOHibernate;
@@ -183,6 +185,8 @@ public class App {
     }
 
     public static void main(String[] args) {
+        Logger.getLogger("org.hibernate").setLevel(Level.OFF);
+
         String opcion = "";
 
         do {
