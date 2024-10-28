@@ -60,6 +60,9 @@ public class TraductorApplication {
         }
         else {
             traduccion = espanolIngles.get(texto);
+            if (traduccion != null) {
+                traduccion += " / " + inglesItaliano.get(traduccion);
+            }
         }
 
 		return traduccion == null ? "" : traduccion;
