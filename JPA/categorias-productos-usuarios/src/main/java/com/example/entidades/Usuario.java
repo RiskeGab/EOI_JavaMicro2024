@@ -50,4 +50,8 @@ public class Usuario {
         this.id = id;
         this.nombre = nombre;
     }
+
+    public String toString() {
+        return String.format("%5d %-40s", id, nombre);
+    }
 }
