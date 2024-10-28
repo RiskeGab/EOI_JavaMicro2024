@@ -170,6 +170,9 @@ public class App
             System.out.println("c. Categorías");
             System.out.println("p. Productos");
             System.out.println("s. Salir");
+            System.out.print("Introduce una opción: ");
+            
+            opcion = sc.nextLine();
 
             switch(opcion) {
                 case "c":

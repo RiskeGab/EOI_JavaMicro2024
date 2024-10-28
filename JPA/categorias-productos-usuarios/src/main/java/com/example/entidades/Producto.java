@@ -6,6 +6,8 @@ import javax.persistence.GenerationType;
 import javax.persistence.Id;
 import javax.persistence.JoinColumn;
 import javax.persistence.ManyToOne;
+import javax.persistence.NamedQueries;
+import javax.persistence.NamedQuery;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
@@ -13,6 +15,9 @@ import lombok.NoArgsConstructor;
 import lombok.NonNull;
 
 @Entity
+@NamedQueries({
+    @NamedQuery(name="Producto.findAll", query="select p from Producto p")
+})
 @Data
 @NoArgsConstructor
 @AllArgsConstructor
@@ -38,5 +43,10 @@ public class Producto {
         this.nombre = nombre;
         this.precio = precio;
         this.categoria = categoria;
+    }
+
+    @Override
+    public String toString() {
+        return String.format("%5d %10s %-30s %10.2f -", id, referencia, nombre, precio) + categoria;
     }
 }
