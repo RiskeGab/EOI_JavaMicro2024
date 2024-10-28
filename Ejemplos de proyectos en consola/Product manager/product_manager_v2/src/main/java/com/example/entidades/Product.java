@@ -34,7 +34,7 @@ public class Product {
     @Column(name = "price")
     double precio;
 
-    @ManyToOne(cascade = CascadeType.ALL)
+    @ManyToOne(cascade = CascadeType.MERGE)
     @JoinColumn(name = "category")
     Category categoria; 
 

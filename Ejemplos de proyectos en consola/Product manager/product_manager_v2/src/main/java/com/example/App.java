@@ -129,7 +129,7 @@ public class App {
         System.out.println("r: Listar Productos");
         System.out.println("r2: Listar Productos por categoría");
         System.out.println("u: Actualizar Producto");
-        System.out.println("d: Borrar Producto (no funciona bien todavía)");
+        System.out.println("d: Borrar Producto");
         System.out.print("Introduzca opción: ");
     
         opcion = sc.nextLine();
