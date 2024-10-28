@@ -191,7 +191,7 @@ public class App
     }    
 
     public static void actualizarUsuario() {
-        listarCategorias();
+        listarUsuarios();
 
         System.out.print("Introduce el identificador del usuario que quieres actualizar: ");
         int id = sc.nextInt();
