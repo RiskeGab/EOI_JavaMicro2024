@@ -22,7 +22,7 @@ public class TraductorApplication {
     private static Map<String, String> espanolIngles = new HashMap<>();
     private static Map<String, String> inglesItaliano = new HashMap<>();
 
-	    // Método para cargar las traducciones desde dos archivos de texto
+    // Método para cargar las traducciones desde dos archivos de texto
     private static void cargarCorpus(String archivoIngles, String archivoEspanol, String archivoItaliano) {
         try {
             // Lee las líneas de los archivos de texto en inglés y español e italiano
@@ -47,13 +47,13 @@ public class TraductorApplication {
         }
     }
 
-	public static void main(String[] args) {
-		cargarCorpus("informatica.en", "informatica.es", "informatica.it");
-		SpringApplication.run(TraductorApplication.class, args);
-	}
+    public static void main(String[] args) {
+        cargarCorpus("informatica.en", "informatica.es", "informatica.it");
+        SpringApplication.run(TraductorApplication.class, args);
+    }
 
-	@GetMapping("/traducir")
-	public String traducir(@RequestParam String texto) {
+    @GetMapping("/traducir")
+    public String traducir(@RequestParam String texto) {
         String traduccion = inglesEspanol.get(texto);
         if (traduccion != null) {
             traduccion += " / " + inglesItaliano.get(texto);
@@ -65,7 +65,7 @@ public class TraductorApplication {
             }
         }
 
-		return traduccion == null ? "" : traduccion;
-	}
+        return traduccion == null ? "" : traduccion;
+    }
 
 }
