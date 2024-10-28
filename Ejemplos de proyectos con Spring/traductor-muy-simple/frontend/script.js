@@ -1,8 +1,8 @@
-const inputIngles = document.getElementById("ingles");
-const outputEspanol = document.getElementById("espanol");
+const input = document.getElementById("input");
+const output = document.getElementById("output");
 
-inputIngles.addEventListener("input", () => {
-    fetch(`http://localhost:8080/traducir?texto=${inputIngles.value}`)
+input.addEventListener("input", () => {
+    fetch(`http://localhost:8080/traducir?texto=${input.value}`)
     .then(respuesta => respuesta.text())
-    .then(traduccion => outputEspanol.value = traduccion);
+    .then(traduccion => output.innerText = traduccion);
 });

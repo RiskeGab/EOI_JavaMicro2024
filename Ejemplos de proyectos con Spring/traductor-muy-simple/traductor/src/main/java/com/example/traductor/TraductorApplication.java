@@ -50,7 +50,9 @@ public class TraductorApplication {
 
 	@GetMapping("/traducir")
 	public String traducir(@RequestParam String texto) {
-		return inglesEspanol.get(texto);
+        String traduccion = inglesEspanol.get(texto);
+        if (traduccion == null) traduccion = espanolIngles.get(texto);
+		return traduccion == null ? "" : traduccion;
 	}
 
 }
