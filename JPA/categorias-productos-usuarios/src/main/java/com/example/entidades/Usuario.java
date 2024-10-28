@@ -45,4 +45,9 @@ public class Usuario {
         inverseJoinColumns = @JoinColumn(name = "idProducto")
     )
     private Set<Producto> favoritos;
+
+    public Usuario(int id, @NonNull String nombre) {
+        this.id = id;
+        this.nombre = nombre;
+    }
 }

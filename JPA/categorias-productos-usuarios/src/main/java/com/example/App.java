@@ -12,6 +12,10 @@ import com.example.dao.ProductoDAOHibernate;
 import com.example.dao.ProductoDAO;
 import com.example.entidades.Producto;
 
+import com.example.dao.UsuarioDAOHibernate;
+import com.example.dao.UsuarioDAO;
+import com.example.entidades.Usuario;
+
 /**
  * Hello world!
  *
@@ -21,6 +25,7 @@ public class App
     private static Scanner sc = new Scanner(System.in);
     private static CategoriaDAO categoriaDAO = new CategoriaDAOHibernate();
     private static ProductoDAO productoDAO = new ProductoDAOHibernate();
+    private static UsuarioDAO usuarioDAO = new UsuarioDAOHibernate();
 
     public static void listarCategorias() {
         categoriaDAO.getCategorias().forEach(categoria -> System.out.println(categoria));
@@ -162,7 +167,72 @@ public class App
                 System.err.println("Opción no válida");
         }
     }
+
+    public static void listarUsuarios() {
+        usuarioDAO.getUsuarios().forEach(usuario -> System.out.println(usuario));
+    }
+
+    public static void crearUsuario() {
+        System.out.print("Introduce el nombre: ");
+        String nombre = sc.nextLine();
+        
+        Usuario nuevoUsuario = new Usuario(nombre);
+        usuarioDAO.insertUsuario(nuevoUsuario);
+    }
+ 
+    public static void borrarUsuario() {
+        listarUsuarios();
+        
+        System.out.print("Introduce el id del usuario que quieres borrar: ");
+        int id = sc.nextInt();
+        sc.nextLine();
+        
+        usuarioDAO.deleteUsuario(id);
+    }    
+
+    public static void actualizarUsuario() {
+        listarCategorias();
+
+        System.out.print("Introduce el identificador del usuario que quieres actualizar: ");
+        int id = sc.nextInt();
+        sc.nextLine();
+
+        System.out.print("Introduce el nuevo nombre: ");
+        String nombre = sc.nextLine().trim();
+
+        Usuario usuario = new Usuario(id, nombre);
+        usuarioDAO.updateUsuario(usuario);
+    }    
+
+    public static void menuUsuarios() {
+        String opcion = "";
+
+        System.out.println("c: Crear Usuario");
+        System.out.println("r: Listar Usuario");
+        System.out.println("u: Actualizar Usuario");
+        System.out.println("d: Borrar Usuario");
+        System.out.print("Introduzca opción: ");
     
+        opcion = sc.nextLine();
+
+        switch (opcion.toLowerCase()) {
+            case "c":
+                crearUsuario();
+                break;
+            case "r":
+                listarUsuarios();
+                break;
+            case "u":
+                actualizarUsuario();
+                break;
+            case "d":
+                borrarUsuario();
+                break;
+            default:
+                System.err.println("Opción no válida");
+        }
+    }
+
     public static void main( String[] args )
     {
         Logger.getLogger("org.hibernate").setLevel(Level.OFF);
@@ -173,6 +243,7 @@ public class App
             System.out.println("\nMenú principal");
             System.out.println("c. Categorías");
             System.out.println("p. Productos");
+            System.out.println("u. Usuarios");
             System.out.println("s. Salir");
             System.out.print("Introduce una opción: ");
             
@@ -184,6 +255,9 @@ public class App
                     break;
                 case "p":
                     menuProductos();
+                    break;
+                case "u":
+                    menuUsuarios();
                     break;
                 case "s":
                     break;
