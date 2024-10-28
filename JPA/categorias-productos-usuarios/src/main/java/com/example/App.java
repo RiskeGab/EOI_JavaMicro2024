@@ -62,7 +62,7 @@ public class App
         String opcion = "";
 
         System.out.println("c: Crear Categoría");
-        System.out.println("r: Listar Categoría");
+        System.out.println("r: Listar Categorías");
         System.out.println("u: Actualizar Categoría");
         System.out.println("d: Borrar Categoría");
         System.out.print("Introduzca opción: ");
@@ -100,6 +100,7 @@ public class App
         double precio = sc.nextDouble();
         System.out.print("Introduce la categoría: ");
         int categoria = sc.nextInt();
+        sc.nextLine();
         
         Producto nuevoProducto = new Producto(referencia, nombre, precio, null);
         productoDAO.insertProducto(nuevoProducto, categoria);
@@ -118,6 +119,7 @@ public class App
     public static void actualizarProducto() {
         System.out.print("Introduce el id del produto a actualizar: ");
         int idProducto = sc.nextInt();
+        sc.nextLine();
         System.out.print("Introduce la referencia: ");
         String referencia = sc.nextLine();
         System.out.print("Introduce el nombre del producto: ");
@@ -126,6 +128,7 @@ public class App
         double precio = sc.nextDouble();
         System.out.print("Introduce la categoría: ");
         int categoria = sc.nextInt();
+        sc.nextLine();
         
         Producto nuevoProducto = new Producto(idProducto, referencia, nombre, precio, null);
         productoDAO.updateProducto(nuevoProducto, categoria);
@@ -135,7 +138,7 @@ public class App
         String opcion = "";
 
         System.out.println("c: Crear Prodcuto");
-        System.out.println("r: Listar Producto");
+        System.out.println("r: Listar Productos");
         System.out.println("u: Actualizar Producto");
         System.out.println("d: Borrar Producto");
         System.out.print("Introduzca opción: ");
