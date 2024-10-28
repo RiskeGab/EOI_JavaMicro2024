@@ -162,6 +162,7 @@ public class App
                 System.err.println("Opción no válida");
         }
     }
+    
     public static void main( String[] args )
     {
         Logger.getLogger("org.hibernate").setLevel(Level.OFF);
