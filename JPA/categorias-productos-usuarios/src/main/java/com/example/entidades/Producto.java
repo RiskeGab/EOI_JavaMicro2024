@@ -31,5 +31,12 @@ public class Producto {
 
     @ManyToOne
     @JoinColumn(name = "categoria")
-    private Categoria categoria;    
+    private Categoria categoria;
+
+    public Producto(@NonNull String referencia, @NonNull String nombre, double precio, Categoria categoria) {
+        this.referencia = referencia;
+        this.nombre = nombre;
+        this.precio = precio;
+        this.categoria = categoria;
+    }
 }

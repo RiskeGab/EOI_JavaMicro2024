@@ -8,6 +8,10 @@ import com.example.dao.CategoriaDAOHibernate;
 import com.example.dao.CategoriaDAO;
 import com.example.entidades.Categoria;
 
+import com.example.dao.ProductoDAOHibernate;
+import com.example.dao.ProductoDAO;
+import com.example.entidades.Producto;
+
 /**
  * Hello world!
  *
@@ -16,6 +20,7 @@ public class App
 {
     private static Scanner sc = new Scanner(System.in);
     private static CategoriaDAO categoriaDAO = new CategoriaDAOHibernate();
+    private static ProductoDAO productoDAO = new ProductoDAOHibernate();
 
     public static void listarCategorias() {
         categoriaDAO.getCategorias().forEach(categoria -> System.out.println(categoria));
@@ -82,10 +87,102 @@ public class App
         }
     }
 
+    public static void listarProductos() {
+        productoDAO.getProductos().forEach(producto -> System.out.println(producto));
+    }
+
+    public static void crearProducto() {
+        System.out.print("Introduce la referencia: ");
+        String referencia = sc.nextLine();
+        System.out.print("Introduce el nombre del producto: ");
+        String nombre = sc.nextLine();
+        System.out.print("Introduce el precio: ");
+        double precio = sc.nextDouble();
+        System.out.print("Introduce la categoría: ");
+        int categoria = sc.nextInt();
+        
+        Producto nuevoProducto = new Producto(referencia, nombre, precio, null);
+        productoDAO.insertProducto(nuevoProducto, categoria);
+    }
+ 
+    public static void borrarProducto() {
+        listarProductos();
+        
+        System.out.print("Introduce el id del producto que quieres borrar: ");
+        int id = sc.nextInt();
+        sc.nextLine();
+        
+        productoDAO.deleteProducto(id);
+    }    
+
+    public static void actualizarProducto() {
+        System.out.print("Introduce el id del produto a actualizar: ");
+        int idProducto = sc.nextInt();
+        System.out.print("Introduce la referencia: ");
+        String referencia = sc.nextLine();
+        System.out.print("Introduce el nombre del producto: ");
+        String nombre = sc.nextLine();
+        System.out.print("Introduce el precio: ");
+        double precio = sc.nextDouble();
+        System.out.print("Introduce la categoría: ");
+        int categoria = sc.nextInt();
+        
+        Producto nuevoProducto = new Producto(idProducto, referencia, nombre, precio, null);
+        productoDAO.updateProducto(nuevoProducto, categoria);
+    }  
+
+    public static void menuProductos() {
+        String opcion = "";
+
+        System.out.println("c: Crear Prodcuto");
+        System.out.println("r: Listar Producto");
+        System.out.println("u: Actualizar Producto");
+        System.out.println("d: Borrar Producto");
+        System.out.print("Introduzca opción: ");
+    
+        opcion = sc.nextLine();
+
+        switch (opcion.toLowerCase()) {
+            case "c":
+                crearProducto();
+                break;
+            case "r":
+                listarProductos();
+                break;
+            case "u":
+                actualizarProducto();
+                break;
+            case "d":
+                borrarProducto();
+                break;
+            default:
+                System.err.println("Opción no válida");
+        }
+    }
     public static void main( String[] args )
     {
         Logger.getLogger("org.hibernate").setLevel(Level.OFF);
 
-        menuCategorias();
+        String opcion = "";
+
+        do {
+            System.out.println("\nMenú principal");
+            System.out.println("c. Categorías");
+            System.out.println("p. Productos");
+            System.out.println("s. Salir");
+
+            switch(opcion) {
+                case "c":
+                    menuCategorias();
+                    break;
+                case "p":
+                    menuProductos();
+                    break;
+                case "s":
+                    break;
+            }
+        } while(!opcion.equals("s"));
+
+        sc.close();
     }
 }
