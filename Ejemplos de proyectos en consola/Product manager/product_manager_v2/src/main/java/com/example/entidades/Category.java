@@ -14,31 +14,31 @@ import javax.persistence.OneToMany;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
+import lombok.NoArgsConstructor;
+import lombok.NonNull;
+import lombok.RequiredArgsConstructor;
 
 @Entity
 @NamedQueries({
     @NamedQuery(name="Category.findAll", query="select c from Category c")
 })
-@Data @AllArgsConstructor
+@Data 
+@AllArgsConstructor
+@NoArgsConstructor
+@RequiredArgsConstructor
 public class Category {
     @Id
 	@GeneratedValue(strategy = GenerationType.IDENTITY)
     private int id;
 
     @Column(name = "name")
+    @NonNull
     private String nombre;
 
     @OneToMany(mappedBy = "categoria", cascade = CascadeType.ALL)
     private List<Product> productos;
 
-    public Category() {
-    }
-
-    public Category(String nombre) {
-        this.nombre = nombre;
-    }
-
-    public Category(int id, String nombre) {
+    public Category(int id, @NonNull String nombre) {
         this.id = id;
         this.nombre = nombre;
     }

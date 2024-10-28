@@ -1,8 +1,8 @@
 package com.example.entidades;
 
-import javax.persistence.CascadeType;
 import javax.persistence.Column;
 import javax.persistence.Entity;
+import javax.persistence.FetchType;
 import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
 import javax.persistence.Id;
@@ -13,13 +13,16 @@ import javax.persistence.NamedQuery;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
+import lombok.NoArgsConstructor;
 
 @Entity
 @NamedQueries({
     @NamedQuery(name="Product.findAll", query="select p from Product p"),
     @NamedQuery(name="Product.findByCategory", query="select p from Product p where p.categoria.id = :idCategoria")
 })
-@Data @AllArgsConstructor
+@Data
+@AllArgsConstructor
+@NoArgsConstructor
 public class Product {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
@@ -34,12 +37,9 @@ public class Product {
     @Column(name = "price")
     double precio;
 
-    @ManyToOne(cascade = CascadeType.MERGE)
+    @ManyToOne(fetch=FetchType.LAZY)
     @JoinColumn(name = "category")
     Category categoria; 
-
-    public Product() {
-    }
 
     @Override
     public String toString() {

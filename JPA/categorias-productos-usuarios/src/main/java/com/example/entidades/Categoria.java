@@ -10,26 +10,26 @@ import javax.persistence.NamedQuery;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
+import lombok.NoArgsConstructor;
+import lombok.NonNull;
+import lombok.RequiredArgsConstructor;
 
 @Entity
 @NamedQueries({
     @NamedQuery(name="Categoria.findAll", query="select c from Categoria c")
 })
-@Data @AllArgsConstructor
+@Data 
+@AllArgsConstructor
+@NoArgsConstructor
+@RequiredArgsConstructor
 public class Categoria {
     @Id
 	@GeneratedValue(strategy = GenerationType.IDENTITY)
     private int id;
 
     @Column(name = "nombre")
+    @NonNull
     private String nombre;
-
-    public Categoria() {
-    }
-
-    public Categoria(String nombre) {
-        this.nombre = nombre;
-    }
 
     @Override
     public String toString() {
