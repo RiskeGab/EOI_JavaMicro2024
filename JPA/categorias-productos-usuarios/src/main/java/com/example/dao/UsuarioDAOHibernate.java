@@ -19,6 +19,7 @@ public class UsuarioDAOHibernate implements UsuarioDAO{
         return list;
     }
 
+    @Override
     public List<Producto> getFavoritos(int idUsuario) {
         EntityManager em = EntityManagerBuilder.getEntityManagerFactory().createEntityManager();
         Usuario usuario = em.find(Usuario.class, idUsuario);
@@ -47,6 +48,53 @@ public class UsuarioDAOHibernate implements UsuarioDAO{
         em.getTransaction().commit();
         em.close();    
     }
+
+    @Override
+    public void agregarProductoFavorito(int idUsuario, int idProducto) {
+        EntityManager em = EntityManagerBuilder.getEntityManagerFactory().createEntityManager();
+        em.getTransaction().begin();
+    
+        // Buscar el usuario y el producto por sus IDs
+        Usuario usuario = em.find(Usuario.class, idUsuario);
+        Producto producto = em.find(Producto.class, idProducto);
+    
+        // Verificar si ambos existen
+        if (usuario != null && producto != null) {
+            usuario.getFavoritos().add(producto);  // Agregar el producto a favoritos
+            em.merge(usuario);  // Guardar los cambios en la base de datos
+        } else {
+            System.out.println("Usuario o producto no encontrado.");
+        }
+    
+        em.getTransaction().commit();
+        em.close();
+    } 
+
+    @Override
+    public void eliminarProductoFavorito(int idUsuario, int idProducto) {
+        EntityManager em = EntityManagerBuilder.getEntityManagerFactory().createEntityManager();
+        em.getTransaction().begin();
+    
+        // Buscar el usuario por su ID
+        Usuario usuario = em.find(Usuario.class, idUsuario);
+    
+        // Si el usuario existe, eliminar el producto de sus favoritos
+        if (usuario != null) {
+            Producto producto = em.find(Producto.class, idProducto);
+            if (producto != null && usuario.getFavoritos().contains(producto)) {
+                usuario.getFavoritos().remove(producto);  // Eliminar el producto de favoritos
+                em.merge(usuario);  // Guardar los cambios en la base de datos
+                System.out.println("Producto eliminado de favoritos.");
+            } else {
+                System.out.println("Producto no encontrado en los favoritos del usuario.");
+            }
+        } else {
+            System.out.println("Usuario no encontrado.");
+        }
+    
+        em.getTransaction().commit();
+        em.close();
+    }    
 
     @Override
     public void deleteUsuario(int idUsuario) {

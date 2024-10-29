@@ -45,7 +45,7 @@ public class App
         
         System.out.print("Introduce el id de la categoría que quieres borrar: ");
         int id = sc.nextInt();
-        sc.nextLine();
+        sc.nextLine();  // Limpiar el buffer
         
         categoriaDAO.deleteCategoria(id);
     }    
@@ -55,7 +55,7 @@ public class App
 
         System.out.print("Introduce el identificador de la categoría que quieres actualizar: ");
         int id = sc.nextInt();
-        sc.nextLine();
+        sc.nextLine();  // Limpiar el buffer
 
         System.out.print("Introduce el nuevo nombre: ");
         String nombre = sc.nextLine().trim();
@@ -106,7 +106,7 @@ public class App
         double precio = sc.nextDouble();
         System.out.print("Introduce la categoría: ");
         int categoria = sc.nextInt();
-        sc.nextLine();
+        sc.nextLine();  // Limpiar el buffer
         
         Producto nuevoProducto = new Producto(referencia, nombre, precio, null);
         productoDAO.insertProducto(nuevoProducto, categoria);
@@ -117,7 +117,7 @@ public class App
         
         System.out.print("Introduce el id del producto que quieres borrar: ");
         int id = sc.nextInt();
-        sc.nextLine();
+        sc.nextLine();  // Limpiar el buffer
         
         productoDAO.deleteProducto(id);
     }    
@@ -134,7 +134,7 @@ public class App
         double precio = sc.nextDouble();
         System.out.print("Introduce la categoría: ");
         int categoria = sc.nextInt();
-        sc.nextLine();
+        sc.nextLine();  // Limpiar el buffer
         
         Producto nuevoProducto = new Producto(idProducto, referencia, nombre, precio, null);
         productoDAO.updateProducto(nuevoProducto, categoria);
@@ -186,7 +186,7 @@ public class App
         
         System.out.print("Introduce el id del usuario que quieres borrar: ");
         int id = sc.nextInt();
-        sc.nextLine();
+        sc.nextLine();  // Limpiar el buffer
         
         usuarioDAO.deleteUsuario(id);
     }    
@@ -196,7 +196,7 @@ public class App
 
         System.out.print("Introduce el identificador del usuario que quieres actualizar: ");
         int id = sc.nextInt();
-        sc.nextLine();
+        sc.nextLine();  // Limpiar el buffer
 
         System.out.print("Introduce el nuevo nombre: ");
         String nombre = sc.nextLine().trim();
@@ -205,15 +205,41 @@ public class App
         usuarioDAO.updateUsuario(usuario);
     }    
 
-    public static void listarProductosFavoritos() {
+    public static int listarProductosFavoritos() {
         listarUsuarios();
-        
+
         System.out.print("Introduce el id del usuario: ");
         int idUsuario = sc.nextInt();
         sc.nextLine();  // Limpiar el buffer
     
         List<Producto> favoritos = usuarioDAO.getFavoritos(idUsuario);
         favoritos.forEach(producto -> System.out.println(producto));
+
+        return idUsuario;
+    }
+
+    public static void agregarProductoFavorito() {
+        listarUsuarios();
+        System.out.print("Introduce el ID del usuario: ");
+        int idUsuario = sc.nextInt();
+        
+        listarProductos();
+        System.out.print("Introduce el ID del producto a agregar como favorito: ");
+        int idProducto = sc.nextInt();
+        sc.nextLine();  // Limpiar el buffer
+    
+        usuarioDAO.agregarProductoFavorito(idUsuario, idProducto);
+        System.out.println("Producto agregado a favoritos.");
+    }
+
+    public static void eliminarProductoFavorito() {
+        int idUsuario = listarProductosFavoritos();
+
+        System.out.print("Introduce el ID del producto a eliminar de favoritos: ");
+        int idProducto = sc.nextInt();
+        sc.nextLine();  // Limpiar el buffer
+    
+        usuarioDAO.eliminarProductoFavorito(idUsuario, idProducto);
     }    
 
     public static void menuUsuarios() {
@@ -224,6 +250,8 @@ public class App
         System.out.println("u: Actualizar Usuario");
         System.out.println("d: Borrar Usuario");
         System.out.println("f. Listar productos favoritos de un usuario");
+        System.out.println("a. Añadir producto a favoritos");
+        System.out.println("e. Eliminar Producto de Favoritos");
         System.out.print("Introduzca opción: ");
     
         opcion = sc.nextLine();
@@ -243,6 +271,12 @@ public class App
                 break;
             case "f":
                 listarProductosFavoritos();
+                break;
+            case "a":
+                agregarProductoFavorito();
+                break;
+            case "e":
+                eliminarProductoFavorito();
                 break;
             default:
                 System.err.println("Opción no válida");
