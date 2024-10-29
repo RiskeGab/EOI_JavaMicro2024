@@ -67,6 +67,7 @@ public class App
     public static void menuCategorias() {
         String opcion = "";
 
+        System.out.println("--- MENÚ CATEGORÍAS ---");
         System.out.println("c: Crear Categoría");
         System.out.println("r: Listar Categorías");
         System.out.println("u: Actualizar Categoría");
@@ -143,6 +144,7 @@ public class App
     public static void menuProductos() {
         String opcion = "";
 
+        System.out.println("--- MENÚ PRODUCTOS ---");
         System.out.println("c: Crear Prodcuto");
         System.out.println("r: Listar Productos");
         System.out.println("u: Actualizar Producto");
@@ -245,13 +247,14 @@ public class App
     public static void menuUsuarios() {
         String opcion = "";
 
+        System.out.println("--- MENÚ USUARIOS ----");
         System.out.println("c: Crear Usuario");
-        System.out.println("r: Listar Usuario");
+        System.out.println("r: Listar Usuarios");
         System.out.println("u: Actualizar Usuario");
         System.out.println("d: Borrar Usuario");
-        System.out.println("f. Listar productos favoritos de un usuario");
-        System.out.println("a. Añadir producto a favoritos");
-        System.out.println("e. Eliminar Producto de Favoritos");
+        System.out.println("f: Listar productos favoritos de un usuario");
+        System.out.println("a: Añadir producto a favoritos");
+        System.out.println("e: Eliminar Producto de Favoritos");
         System.out.print("Introduzca opción: ");
     
         opcion = sc.nextLine();
@@ -286,18 +289,20 @@ public class App
     public static void main( String[] args )
     {
         Logger.getLogger("org.hibernate").setLevel(Level.OFF);
+        Logger.getLogger("org.hibernate.SQL").setLevel(Level.OFF);
+        Logger.getLogger("org.hibernate.type").setLevel(Level.OFF);
 
         String opcion = "";
 
         do {
-            System.out.println("\nMenú principal");
-            System.out.println("c. Categorías");
-            System.out.println("p. Productos");
-            System.out.println("u. Usuarios");
-            System.out.println("s. Salir");
+            System.out.println("\n-- MENÚ PRINCIPAL--");
+            System.out.println("c: Categorías");
+            System.out.println("p: Productos");
+            System.out.println("u: Usuarios");
+            System.out.println("s: Salir");
             System.out.print("Introduce una opción: ");
-            
             opcion = sc.nextLine();
+            System.out.println();
 
             switch(opcion) {
                 case "c":
