@@ -1,5 +1,6 @@
 package com.example;
 
+import java.util.List;
 import java.util.Scanner;
 import java.util.logging.Level;
 import java.util.logging.Logger;
@@ -204,6 +205,17 @@ public class App
         usuarioDAO.updateUsuario(usuario);
     }    
 
+    public static void listarProductosFavoritos() {
+        listarUsuarios();
+        
+        System.out.print("Introduce el id del usuario: ");
+        int idUsuario = sc.nextInt();
+        sc.nextLine();  // Limpiar el buffer
+    
+        List<Producto> favoritos = usuarioDAO.getFavoritos(idUsuario);
+        favoritos.forEach(producto -> System.out.println(producto));
+    }    
+
     public static void menuUsuarios() {
         String opcion = "";
 
@@ -211,6 +223,7 @@ public class App
         System.out.println("r: Listar Usuario");
         System.out.println("u: Actualizar Usuario");
         System.out.println("d: Borrar Usuario");
+        System.out.println("f. Listar productos favoritos de un usuario");
         System.out.print("Introduzca opción: ");
     
         opcion = sc.nextLine();
@@ -227,6 +240,9 @@ public class App
                 break;
             case "d":
                 borrarUsuario();
+                break;
+            case "f":
+                listarProductosFavoritos();
                 break;
             default:
                 System.err.println("Opción no válida");

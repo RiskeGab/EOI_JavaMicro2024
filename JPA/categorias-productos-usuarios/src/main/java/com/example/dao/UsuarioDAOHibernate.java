@@ -1,30 +1,31 @@
 package com.example.dao;
 
+import java.util.ArrayList;
 import java.util.List;
 
 import javax.persistence.EntityManager;
 
 import com.example.conexion.EntityManagerBuilder;
+import com.example.entidades.Producto;
 import com.example.entidades.Usuario;
 
 public class UsuarioDAOHibernate implements UsuarioDAO{
-
-    @Override
-    public void deleteUsuario(int idUsuario) {
-        EntityManager em = EntityManagerBuilder.getEntityManagerFactory().createEntityManager();
-        em.getTransaction().begin();
-        Usuario usuario = em.getReference(Usuario.class, idUsuario);
-        em.remove(usuario);
-        em.getTransaction().commit();
-        em.close();
-    }
-
     @Override
     public List<Usuario> getUsuarios() {
         EntityManager em = EntityManagerBuilder.getEntityManagerFactory().createEntityManager();
         List<Usuario> list = em.createNamedQuery("Usuario.findAll", Usuario.class).getResultList();
         em.close();
+
         return list;
+    }
+
+    public List<Producto> getFavoritos(int idUsuario) {
+        EntityManager em = EntityManagerBuilder.getEntityManagerFactory().createEntityManager();
+        Usuario usuario = em.find(Usuario.class, idUsuario);
+        List<Producto> favoritos = new ArrayList<>(usuario.getFavoritos()); 
+        em.close();
+
+        return favoritos;
     }
 
     @Override
@@ -47,4 +48,13 @@ public class UsuarioDAOHibernate implements UsuarioDAO{
         em.close();    
     }
 
+    @Override
+    public void deleteUsuario(int idUsuario) {
+        EntityManager em = EntityManagerBuilder.getEntityManagerFactory().createEntityManager();
+        em.getTransaction().begin();
+        Usuario usuario = em.getReference(Usuario.class, idUsuario);
+        em.remove(usuario);
+        em.getTransaction().commit();
+        em.close();
+    }
 }
