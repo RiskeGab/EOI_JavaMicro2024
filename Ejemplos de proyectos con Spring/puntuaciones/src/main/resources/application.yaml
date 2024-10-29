@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: Puntuaciones Spring
+  datasource:
+    url: jdbc:mariadb://localhost/puntuaciones
+    username: root
+    password: 
+    driver-class-name: org.mariadb.jdbc.Driver
