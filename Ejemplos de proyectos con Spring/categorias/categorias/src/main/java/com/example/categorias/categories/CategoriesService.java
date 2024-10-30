@@ -23,7 +23,15 @@ public class CategoriesService {
     }
 
     public Category insert(Category c) {
-        //c.setId(0); // Ponemos a 0 para asegurarnos que haya una inserción en vez de una actualización (de momento solo lo tenemos en Postman)
+        c.setId(0); // Ponemos a 0 para asegurarnos que haya una inserción en vez de una actualización
+        return catRepository.save(c);
+    }
+
+    public Category update(Category c, int id) {
+        if (!catRepository.existsById(id)) {
+            throw new ResponseStatusException(HttpStatus.NOT_FOUND, "Categoria no encontrada");
+        }
+        c.setId(id);
         return catRepository.save(c);
     }
 
