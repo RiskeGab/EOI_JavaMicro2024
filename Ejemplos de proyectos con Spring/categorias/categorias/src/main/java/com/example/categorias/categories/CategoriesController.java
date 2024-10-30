@@ -20,7 +20,7 @@ import org.springframework.web.bind.annotation.PutMapping;
 @RequestMapping("/categories")
 @RequiredArgsConstructor
 public class CategoriesController {
-    private CategoriesService catService;
+    private final CategoriesService catService;
 
     @GetMapping
     public List<Category> getCategories() {

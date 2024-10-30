@@ -9,7 +9,7 @@ import lombok.RequiredArgsConstructor;
 @Service
 @RequiredArgsConstructor
 public class CategoriesService {
-    public CategoriesRepository catRepository;
+    public final CategoriesRepository catRepository;
 
     public List<Category> getCategories() {
         return (List<Category>) catRepository.findAll();
