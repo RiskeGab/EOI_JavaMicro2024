@@ -23,7 +23,11 @@ public class CategoriesService {
     }
 
     public Category insert(Category c) {
-        //c.setId(0); // Ponemos a 0 para asegurarnos que haya una inserción en vez de una actualización
+        //c.setId(0); // Ponemos a 0 para asegurarnos que haya una inserción en vez de una actualización (de momento solo lo tenemos en Postman)
         return catRepository.save(c);
+    }
+
+    public void delete(int id) {
+        catRepository.deleteById(id);
     }
 }

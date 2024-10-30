@@ -46,6 +46,6 @@ public class CategoriesController {
     @DeleteMapping("/{id}")
     @ResponseStatus(HttpStatus.NO_CONTENT)
     public void deleteCategory(@PathVariable int id) {
+        catService.delete(id);
     }
-    
 }
