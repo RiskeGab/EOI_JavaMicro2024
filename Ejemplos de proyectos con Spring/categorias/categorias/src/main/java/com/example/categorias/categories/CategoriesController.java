@@ -33,8 +33,9 @@ public class CategoriesController {
     }
     
     @PostMapping
+    @ResponseStatus(HttpStatus.CREATED)
     public Category insertCategory(@RequestBody Category c) { 
-        return null;
+        return catService.insert(c);
     }
     
     @PutMapping("/{id}")

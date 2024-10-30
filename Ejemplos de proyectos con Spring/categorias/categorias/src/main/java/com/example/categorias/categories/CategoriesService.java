@@ -21,4 +21,9 @@ public class CategoriesService {
         return catRepository.findById(id)
                 .orElseThrow(() -> new ResponseStatusException(HttpStatus.NOT_FOUND, "Categoria no encontrada"));
     }
+
+    public Category insert(Category c) {
+        //c.setId(0); // Ponemos a 0 para asegurarnos que haya una inserción en vez de una actualización
+        return catRepository.save(c);
+    }
 }
