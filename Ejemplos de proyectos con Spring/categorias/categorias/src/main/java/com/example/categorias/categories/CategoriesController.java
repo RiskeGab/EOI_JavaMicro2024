@@ -29,7 +29,7 @@ public class CategoriesController {
     
     @GetMapping("/{id}")
     public Category getCategory(@PathVariable int id) {
-        return null;
+        return catService.getCategory(id);
     }
     
     @PostMapping
