@@ -20,10 +20,11 @@ import org.springframework.web.bind.annotation.PutMapping;
 @RequestMapping("/categories")
 @RequiredArgsConstructor
 public class CategoriesController {
+    private CategoriesService catService;
 
     @GetMapping
     public List<Category> getCategories() {
-        return null;
+        return catService.getCategories();
     }
     
     @GetMapping("/{id}")
