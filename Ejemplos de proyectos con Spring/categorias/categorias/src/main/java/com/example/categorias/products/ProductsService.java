@@ -11,7 +11,7 @@ import lombok.RequiredArgsConstructor;
 public class ProductsService {
     private final ProductsRepository proRepository;
 
-    public List<Product> getProducts() {
-        return (List<Product>) proRepository.findAll();
+    public List<Product> getProducts(int category) {
+        return proRepository.findByCategory(category);
     }
 }

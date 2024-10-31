@@ -1,7 +1,17 @@
 package com.eoi.puntuaciones.puntuaciones;
 
-import org.springframework.data.repository.CrudRepository;
+import java.util.List;
 
-public interface PuntuacionesRepository extends CrudRepository<Puntuacion, Integer> {
-    
+import org.springframework.data.domain.Sort;
+import org.springframework.data.jdbc.repository.query.Query;
+import org.springframework.data.repository.ListCrudRepository;
+
+public interface PuntuacionesRepository extends ListCrudRepository<Puntuacion, Integer> {
+    // @Query("SELECT * from puntuacion WHERE puntuacion >= :puntuacion")
+    // List<Puntuacion> findPuntuacionMayor(int puntuacion);
+
+    // Esto equivale al méto de arriba, y además ordena
+    List<Puntuacion> findByPuntuacionGreaterThan(int puntuacion, Sort sort);
+
+    List<Puntuacion> findByJugadorContaining(String jugador, Sort sort);
 }

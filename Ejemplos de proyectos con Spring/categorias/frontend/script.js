@@ -1,60 +1,44 @@
 const urlCategories = 'http://localhost:8080/categories';
 const urlProducts = 'http://localhost:8080/products';
 
-document.addEventListener('DOMContentLoaded', () => {
-    cargarCategorias();
-    cargarProductos();
-
-    document.getElementById('btnAgregarCategoria').addEventListener('click', () => {
-        limpiarFormularioCategoria();
-        mostrarFormularioCategoria();
-    });
-
-    document.getElementById('btnGuardarCategoria').addEventListener('click', guardarCategoria);
-
-    document.getElementById('btnAgregarProducto').addEventListener('click', () => {
-        limpiarFormularioProducto();
-        mostrarFormularioProducto();
-    });
-
-    document.getElementById('btnGuardarProducto').addEventListener('click', guardarProducto);
-});
+const tabla = document.querySelector('#tablaCategorias tbody');
 
 // Funciones para Categorías
 async function cargarCategorias() {
     const response = await fetch(urlCategories);
     const categorias = await response.json();
-    const tabla = document.querySelector('#tablaCategorias tbody');
     tabla.innerHTML = '';
-    categorias.forEach(cat => {
-        const row = document.createElement('tr');
-        
-        const idCell = document.createElement('td');
-        idCell.textContent = cat.id;
-        
-        const nameCell = document.createElement('td');
-        nameCell.textContent = cat.name;
-        
-        const actionsCell = document.createElement('td');
-        const editIcon = document.createElement('i');
-        editIcon.className = 'bi bi-pencil-square text-warning me-2';
-        editIcon.style.cursor = 'pointer';
-        editIcon.addEventListener('click', () => editarCategoria(cat.id, cat.name));
-        
-        const deleteIcon = document.createElement('i');
-        deleteIcon.className = 'bi bi-trash text-danger';
-        deleteIcon.style.cursor = 'pointer';
-        deleteIcon.addEventListener('click', () => eliminarCategoria(cat.id));
+    categorias.forEach(addCategoria);
+}
 
-        actionsCell.appendChild(editIcon);
-        actionsCell.appendChild(deleteIcon);
+function addCategoria(cat) {
+    const row = document.createElement('tr');
         
-        row.appendChild(idCell);
-        row.appendChild(nameCell);
-        row.appendChild(actionsCell);
-        
-        tabla.appendChild(row);
-    });
+    const idCell = document.createElement('td');
+    idCell.textContent = cat.id;
+    
+    const nameCell = document.createElement('td');
+    nameCell.textContent = cat.name;
+    
+    const actionsCell = document.createElement('td');
+    const editIcon = document.createElement('i');
+    editIcon.className = 'bi bi-pencil-square text-warning me-2';
+    editIcon.style.cursor = 'pointer';
+    editIcon.addEventListener('click', () => editarCategoria(cat.id, cat.name));
+    
+    const deleteIcon = document.createElement('i');
+    deleteIcon.className = 'bi bi-trash text-danger';
+    deleteIcon.style.cursor = 'pointer';
+    deleteIcon.addEventListener('click', () => eliminarCategoria(cat.id ,row));
+
+    actionsCell.appendChild(editIcon);
+    actionsCell.appendChild(deleteIcon);
+    
+    row.appendChild(idCell);
+    row.appendChild(nameCell);
+    row.appendChild(actionsCell);
+    
+    tabla.appendChild(row);
 }
 
 function mostrarFormularioCategoria() {
@@ -76,19 +60,23 @@ async function guardarCategoria() {
         url += `/${id}`;
         method = 'PUT';
     }
-    await fetch(url, {
+    const resp = await fetch(url, {
         method,
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify(categoria)
     });
     document.getElementById('formularioCategoria').style.display = 'none';
     limpiarFormularioCategoria();
-    cargarCategorias();
+    if(!id) {
+        addCategoria(await resp.json());
+    } else {
+        cargarCategorias();
+    }
 }
 
-async function eliminarCategoria(id) {
+async function eliminarCategoria(id, row) {
     await fetch(`${urlCategories}/${id}`, { method: 'DELETE' });
-    cargarCategorias();
+    row.remove();
 }
 
 function editarCategoria(id, nombre) {
@@ -194,4 +182,22 @@ async function editarProducto(id) {
 
     mostrarFormularioProducto();
 }
+
+cargarCategorias();
+cargarProductos();
+
+document.getElementById('btnAgregarCategoria').addEventListener('click', () => {
+    limpiarFormularioCategoria();
+    mostrarFormularioCategoria();
+});
+
+document.getElementById('btnGuardarCategoria').addEventListener('click', guardarCategoria);
+
+document.getElementById('btnAgregarProducto').addEventListener('click', () => {
+    limpiarFormularioProducto();
+    mostrarFormularioProducto();
+});
+
+document.getElementById('btnGuardarProducto').addEventListener('click', guardarProducto);
+
 

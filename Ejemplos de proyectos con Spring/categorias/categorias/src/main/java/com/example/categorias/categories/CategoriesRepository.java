@@ -1,7 +1,7 @@
 package com.example.categorias.categories;
 
-import org.springframework.data.repository.CrudRepository;
+import org.springframework.data.repository.ListCrudRepository;
 
-public interface CategoriesRepository extends CrudRepository<Category, Integer>{
+public interface CategoriesRepository extends ListCrudRepository<Category, Integer>{
 
 }

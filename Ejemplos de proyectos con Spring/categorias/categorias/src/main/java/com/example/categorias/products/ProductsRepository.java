@@ -1,8 +1,10 @@
 package com.example.categorias.products;
 
-import org.springframework.data.repository.CrudRepository;
+import java.util.List;
 
-public interface ProductsRepository extends CrudRepository<Product, Integer> {
+import org.springframework.data.repository.ListCrudRepository;
 
-    
+public interface ProductsRepository extends ListCrudRepository<Product, Integer> {
+
+    List<Product> findByCategory(int category);
 }
