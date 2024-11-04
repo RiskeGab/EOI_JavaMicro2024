@@ -18,4 +18,9 @@ public class EventosService {
     public List<EventoSinUsuarios> getAll() {
         return eventosRespository.findBy();
     }
+
+    public Evento insert(Evento e) {
+        e.setId(0);
+        return eventosRespository.save(e);
+    }
 }
