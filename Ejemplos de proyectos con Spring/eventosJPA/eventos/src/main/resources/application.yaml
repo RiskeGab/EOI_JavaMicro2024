@@ -1,0 +1,13 @@
+spring:
+  application:
+    name: Eventos Spring
+  datasource:
+    url: jdbc:mariadb://localhost/gestion_eventos
+    username: root
+    password: 
+    driver-class-name: org.mariadb.jdbc.Driver
+  jpa:
+    show-sql: true
+    properties:
+      hibernate:
+        format_sql: true
