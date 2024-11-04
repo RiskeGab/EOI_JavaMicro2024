@@ -33,7 +33,7 @@ public class EventosController {
     }
     
     @GetMapping("/{id}")
-    public EventoSinUsuarios getMethodName(@RequestParam int id) {
+    public EventoSinUsuarios getMethodName(@PathVariable int id) {
         return eventosService.getById(id);
     }
     

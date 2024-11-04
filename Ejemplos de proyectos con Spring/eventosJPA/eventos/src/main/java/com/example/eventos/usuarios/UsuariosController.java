@@ -32,7 +32,7 @@ public class UsuariosController {
     }
 
     @GetMapping("/{id}")
-    public UsuarioSinEventos getById(@RequestParam int id) {
+    public UsuarioSinEventos getById(@PathVariable int id) {
         return usuariosService.getById(id);
     }
 
