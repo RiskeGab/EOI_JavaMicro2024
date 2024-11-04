@@ -34,6 +34,11 @@ public class EventosController {
         return eventosService.getAll();
     }
     
+    @GetMapping("/{id}")
+    public EventoSinUsuarios getMethodName(@RequestParam int id) {
+        return eventosService.getById(id);
+    }
+    
     @PostMapping
     @ResponseStatus(HttpStatus.CREATED)
     public Evento postMethodName(@RequestBody Evento e) {        

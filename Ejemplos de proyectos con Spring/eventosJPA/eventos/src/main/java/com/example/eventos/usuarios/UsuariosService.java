@@ -17,6 +17,11 @@ public class UsuariosService {
         return usuariosRepository.findBy();
     }
 
+    public UsuarioSinEventos getById(int id) {
+        UsuarioSinEventos u = usuariosRepository.findUsuarioById(id);
+        return u;
+    }
+
     public Usuario insert(Usuario u) {
         u.setId(0);
         return usuariosRepository.save(u);

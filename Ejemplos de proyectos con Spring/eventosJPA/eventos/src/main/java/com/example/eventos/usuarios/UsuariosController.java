@@ -34,6 +34,11 @@ public class UsuariosController {
         return usuariosService.getAll();
     }
 
+    @GetMapping("/{id}")
+    public UsuarioSinEventos getById(@RequestParam int id) {
+        return usuariosService.getById(id);
+    }
+
     @PostMapping
     @ResponseStatus(HttpStatus.CREATED)
     public Usuario insert(@RequestBody Usuario u) {       

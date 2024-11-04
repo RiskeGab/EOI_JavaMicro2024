@@ -19,6 +19,11 @@ public class EventosService {
         return eventosRespository.findBy();
     }
 
+    public EventoSinUsuarios getById(int id) {
+        EventoSinUsuarios e = eventosRespository.findEventoById(id);
+        return e;
+    }
+
     public Evento insert(Evento e) {
         e.setId(0);
         return eventosRespository.save(e);

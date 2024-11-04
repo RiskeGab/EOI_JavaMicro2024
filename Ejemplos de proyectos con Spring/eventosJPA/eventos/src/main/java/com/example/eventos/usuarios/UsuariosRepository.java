@@ -10,5 +10,5 @@ import com.example.eventos.usuarios.proyecciones.UsuarioSinEventos;
 public interface UsuariosRepository extends JpaRepository<Usuario, Integer>{
     List<UsuarioSinEventos> findBy();
 
-    //UsuarioConEventos findUsuarioById(@Param("id") int id);
+    UsuarioSinEventos findUsuarioById(@Param("id") int id);
 }
