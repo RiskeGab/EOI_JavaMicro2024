@@ -24,6 +24,13 @@ public class EventosService {
         return eventosRespository.save(e);
     }
 
+    public Evento update(int id, Evento e) {
+        eventosRespository.findById(id)
+            .orElseThrow(() -> new RuntimeException("Evento no encontrado"));
+        e.setId(id);
+        return eventosRespository.save(e);
+    }
+
     public void delete(int idEvento) {
         eventosRespository.deleteById(idEvento);
     }
