@@ -17,6 +17,8 @@ import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.ResponseStatus;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
+import org.springframework.web.bind.annotation.PutMapping;
+
 
 
 
@@ -36,6 +38,12 @@ public class UsuariosController {
     @ResponseStatus(HttpStatus.CREATED)
     public Usuario insert(@RequestBody Usuario u) {       
         return usuariosService.insert(u);
+    }
+
+    @PutMapping("/{id}")
+    @ResponseStatus(HttpStatus.OK)
+    public Usuario update(@PathVariable int id, @RequestBody Usuario u) {      
+        return usuariosService.update(id, u);
     }
     
     @DeleteMapping("/{id}")

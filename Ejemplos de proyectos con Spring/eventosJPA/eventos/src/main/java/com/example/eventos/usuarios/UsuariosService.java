@@ -22,6 +22,14 @@ public class UsuariosService {
         return usuariosRepository.save(u);
     }
 
+    public Usuario update(int id, Usuario u) {
+        usuariosRepository.findById(id)
+            .orElseThrow(() -> new RuntimeException("Usuario no encontrado"));
+
+        u.setId(id);
+        return usuariosRepository.save(u);
+    }
+
     public void delete(int idUsuario) {
         usuariosRepository.deleteById(idUsuario);
     }
