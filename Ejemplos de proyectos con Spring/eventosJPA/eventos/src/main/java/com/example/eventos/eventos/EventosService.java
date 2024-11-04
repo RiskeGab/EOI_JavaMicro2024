@@ -23,4 +23,8 @@ public class EventosService {
         e.setId(0);
         return eventosRespository.save(e);
     }
+
+    public void delete(int idEvento) {
+        eventosRespository.deleteById(idEvento);
+    }
 }
