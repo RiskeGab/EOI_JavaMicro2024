@@ -30,7 +30,7 @@ public class EventosController {
         return eventosService.getAll();
     }
     
-    @PostMapping("path")
+    @PostMapping
     @ResponseStatus(HttpStatus.CREATED)
     public Evento postMethodName(@RequestBody Evento e) {        
         return eventosService.insert(e);
