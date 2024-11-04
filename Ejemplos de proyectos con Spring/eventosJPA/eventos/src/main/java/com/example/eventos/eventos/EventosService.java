@@ -5,6 +5,7 @@ import java.util.List;
 import org.springframework.stereotype.Service;
 
 import com.example.eventos.eventos.proyecciones.EventoSinUsuarios;
+import com.example.eventos.usuarios.UsuariosRepository;
 
 import lombok.RequiredArgsConstructor;
 
@@ -12,6 +13,7 @@ import lombok.RequiredArgsConstructor;
 @RequiredArgsConstructor
 public class EventosService {
     private final EventosRespository eventosRespository;
+    private final UsuariosRepository usuariosRepository;
 
     public List<EventoSinUsuarios> getAll() {
         return eventosRespository.findBy();

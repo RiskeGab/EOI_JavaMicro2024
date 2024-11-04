@@ -1,5 +1,9 @@
 package com.example.eventos.usuarios;
 
+import java.util.List;
+
+import com.example.eventos.eventos.Evento;
+
 import jakarta.persistence.CascadeType;
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
@@ -23,7 +27,7 @@ public class Usuario {
     private String nombre;
     private String correo;
 
-    /*@ManyToMany(cascade = {
+    @ManyToMany(cascade = {
         CascadeType.PERSIST,
         CascadeType.MERGE
     })
@@ -31,5 +35,5 @@ public class Usuario {
         name = "usuario_asiste_evento",
         joinColumns = @JoinColumn(name = "usuario"),
         inverseJoinColumns = @JoinColumn(name = "evento"))
-    private List<Evento> eventos; */
+    private List<Evento> eventos;
 }
