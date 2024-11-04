@@ -16,4 +16,9 @@ public class UsuariosService {
     List<UsuarioSinEventos> getAll() {
         return usuariosRepository.findBy();
     }
+
+    public Usuario insert(Usuario u) {
+        u.setId(0);
+        return usuariosRepository.save(u);
+    }
 }
