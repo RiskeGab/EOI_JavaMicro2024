@@ -154,7 +154,7 @@ Además, se utilizó la extensión de **Postman en VS Code** para facilitar las 
 
 ## Conclusiones
 
-Este proyecto de gestión de usuarios y eventos demuestra cómo una aplicación web puede beneficiarse de un diseño basado en microservicios y operaciones CRUD, que facilita una interacción eficiente y permite una administración intuitiva de datos. Gracias a la utilización de tecnologías como Spring Boot, JPA y una interfaz con Bootstrap, se logró un equilibrio entre funcionalidad y usabilidad.
+Este proyecto de gestión de usuarios y eventos demuestra cómo una aplicación web puede beneficiarse de un diseño basado en microservicios y operaciones CRUD, que facilita una interacción eficiente y permite una administración intuitiva de datos. Gracias a la utilización de tecnologías como Spring Boot, JPA y una interfaz con Bootstrap, se logra un equilibrio entre funcionalidad y usabilidad.
 
 El uso de pruebas exhaustivas con Postman, tanto en su aplicación independiente como en la extensión para VS Code, permitió verificar la correcta funcionalidad de los endpoints, garantizando que la API responde de manera consistente y segura ante diversas peticiones. Esto refuerza la confiabilidad de la aplicación en entornos reales y facilita su futura expansión.
 
