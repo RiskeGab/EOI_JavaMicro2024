@@ -8,12 +8,10 @@ Este proyecto es una aplicación web que permite la gestión de usuarios y event
 2. [Tecnologías Utilizadas](#tecnologías-utilizadas)
 3. [Estructura del Proyecto](#estructura-del-proyecto)
 4. [Descripción de la Base de Datos](#descripción-de-la-base-de-datos)
-5. [Instalación y Ejecución](#instalación-y-ejecución)
-6. [Uso](#uso)
-7. [API Endpoints](#api-endpoints)
+5. [Uso](#uso)
+6. [API Endpoints](#api-endpoints)
+7. [Pruebas](#pruebas)
 8. [Consideraciones de Diseño](#consideraciones-de-diseño)
-9. [Contribuciones](#contribuciones)
-10. [Licencia](#licencia)
 
 ## Características
 
@@ -89,7 +87,7 @@ La base de datos cuenta con dos tablas principales: `Usuario` y `Evento`, relaci
      - `usuario`: ID del usuario (clave ajena).
      - `evento`: ID del evento (clave ajena).
 
-La configuración de esta base de datos facilita que un usuario pueda inscribirse en múltiples eventos y un evento pueda tener varios usuarios inscritos【21:0†Usuario.java】【21:5†Evento.java】.
+La configuración de esta base de datos facilita que un usuario pueda inscribirse en múltiples eventos y un evento pueda tener varios usuarios inscritos.
 
 ## Uso
 
@@ -123,15 +121,23 @@ La API REST incluye los siguientes endpoints:
 - **PUT** `/eventos/{id}` - Actualizar un evento existente.
 - **DELETE** `/eventos/{id}` - Eliminar un evento.
 
+## Pruebas
+
+### Pruebas con Postman
+
+Se han realizado pruebas exhaustivas de la API utilizando **Postman** para validar el correcto funcionamiento de cada endpoint. Estas pruebas se ejecutaron en la aplicación externa de Postman, probando las operaciones de CRUD para usuarios y eventos, así como la correcta respuesta y formato de datos.
+
+Además, se utilizó la extensión de **Postman en VS Code** para facilitar las pruebas directamente desde el entorno de desarrollo. Esto permitió iterar rápidamente en los casos de prueba y verificar la funcionalidad de la API sin cambiar de aplicación.
+
 ## Consideraciones de Diseño
 
 ### Backend
 
 - **Persistencia con JPA**: Las entidades `Usuario` y `Evento` se mapean en tablas de la base de datos y sus operaciones se manejan a través de `UsuariosRepository` y `EventosRepository`.
-- **Proyecciones**: El uso de `UsuarioSinEventos` en el paquete `proyecciones` permite optimizar ciertas consultas excluyendo datos innecesarios de la relación.
+- **Proyecciones**: El uso de `UsuarioSinEventos` y `EventoSinUsuarios` en los paquetes `proyecciones` permite optimizar ciertas consultas excluyendo datos innecesarios de la relación.
 
 ### Frontend
 
 - **Interactividad**: El archivo `script.js` maneja la interacción en la interfaz, incluyendo la carga inicial y el manejo de eventos de usuario.
 - **Estilo y Responsividad**: Uso de Bootstrap para un diseño responsivo.
-- **Tema Oscuro/Claro**: Implementación de un tema que puede alternarse dinámicamente【15†index.html】【14†script.js】.
+- **Tema Oscuro/Claro**: El tema puede alternarse dinámicamente.
