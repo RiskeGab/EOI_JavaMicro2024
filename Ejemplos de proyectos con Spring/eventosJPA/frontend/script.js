@@ -210,3 +210,16 @@ document.getElementById('btnAgregarEvento').addEventListener('click', () => {
 });
 
 document.getElementById('btnGuardarEvento').addEventListener('click', guardarEvento);
+
+document.getElementById('toggleTheme').addEventListener('click', () => {
+    const body = document.body;
+    const themeIcon = document.getElementById('themeIcon');
+    
+    if (body.getAttribute('data-bs-theme') === 'dark') {
+        body.setAttribute('data-bs-theme', 'light');
+        themeIcon.classList.replace('bi-moon-fill', 'bi-sun-fill'); // Cambia a icono de sol
+    } else {
+        body.setAttribute('data-bs-theme', 'dark');
+        themeIcon.classList.replace('bi-sun-fill', 'bi-moon-fill'); // Cambia a icono de luna
+    }
+});
