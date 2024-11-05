@@ -2,7 +2,9 @@ package com.example.eventos.usuarios;
 
 import java.util.List;
 
+import org.springframework.http.HttpStatus;
 import org.springframework.stereotype.Service;
+import org.springframework.web.server.ResponseStatusException;
 
 import com.example.eventos.usuarios.proyecciones.UsuarioSinEventos;
 
@@ -28,9 +30,9 @@ public class UsuariosService {
     }
 
     public Usuario update(int id, Usuario u) {
-        usuariosRepository.findById(id)
-            .orElseThrow(() -> new RuntimeException("Usuario no encontrado"));
-
+        if (!usuariosRepository.existsById(id)) {
+            throw new ResponseStatusException(HttpStatus.NOT_FOUND, "Usuario no encontrado");
+        }
         u.setId(id);
         return usuariosRepository.save(u);
     }

@@ -2,7 +2,9 @@ package com.example.eventos.eventos;
 
 import java.util.List;
 
+import org.springframework.http.HttpStatus;
 import org.springframework.stereotype.Service;
+import org.springframework.web.server.ResponseStatusException;
 
 import com.example.eventos.eventos.proyecciones.EventoSinUsuarios;
 
@@ -28,8 +30,9 @@ public class EventosService {
     }
 
     public Evento update(int id, Evento e) {
-        eventosRespository.findById(id)
-            .orElseThrow(() -> new RuntimeException("Evento no encontrado"));
+        if (!eventosRespository.existsById(id)) {
+            throw new ResponseStatusException(HttpStatus.NOT_FOUND, "Evento no encontrado");
+        }
         e.setId(id);
         return eventosRespository.save(e);
     }
