@@ -1,9 +1,9 @@
 {
 	"info": {
-		"_postman_id": "dcaf3017-52dc-4072-a317-63c27b44a0c4",
+		"_postman_id": "919402b6-ce5c-434d-81a3-4ab027982954",
 		"name": "EOI Back 2024",
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
-		"_exporter_id": "39390751"
+		"_exporter_id": "682596"
 	},
 	"item": [
 		{
@@ -412,13 +412,32 @@
 					"response": []
 				},
 				{
+					"name": "Get evento id",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:8080/eventos",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8080",
+							"path": [
+								"eventos"
+							]
+						}
+					},
+					"response": []
+				},
+				{
 					"name": "Insertar usuario",
 					"request": {
 						"method": "POST",
 						"header": [],
 						"body": {
 							"mode": "raw",
-							"raw": "{\r\n    \"id\": 0,\r\n    \"nombre\": \"Usuario de prueba\",\r\n    \"correo\": \"prueba@prueba.com\"\r\n}",
+							"raw": "{\r\n    \"nombre\": \"Prueba usuario 2\",\r\n    \"correo\": \"pru@eba.es\"\r\n}",
 							"options": {
 								"raw": {
 									"language": "json"
@@ -474,7 +493,7 @@
 						"header": [],
 						"body": {
 							"mode": "raw",
-							"raw": "{\r\n    \"id\": 0,\r\n    \"titulo\": \"Título de prueba\",\r\n    \"descripcion\": \"Descripción de prueba\",\r\n    \"precio\": 1,\r\n    \"fecha\": \"2024-01-01\"\r\n}",
+							"raw": "{\r\n    \"titulo\": \"rt\",\r\n    \"descripcion\": \"\",\r\n    \"precio\": -43,\r\n    \"fecha\": \"2024-12-01\"\r\n}",
 							"options": {
 								"raw": {
 									"language": "json"
