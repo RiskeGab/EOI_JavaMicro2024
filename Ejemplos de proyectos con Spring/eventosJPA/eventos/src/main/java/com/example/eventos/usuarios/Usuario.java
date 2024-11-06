@@ -3,6 +3,7 @@ package com.example.eventos.usuarios;
 import java.util.List;
 
 import com.example.eventos.eventos.Evento;
+import com.example.eventos.usuarios.dto.UsuarioDTO;
 
 import jakarta.persistence.CascadeType;
 import jakarta.persistence.Entity;
@@ -36,4 +37,8 @@ public class Usuario {
         joinColumns = @JoinColumn(name = "usuario"),
         inverseJoinColumns = @JoinColumn(name = "evento"))
     private List<Evento> eventos;
+
+    static Usuario fromDTO(UsuarioDTO usuarioDTO) {
+        return new Usuario(0, usuarioDTO.getNombre(), usuarioDTO.getCorreo(), null);
+    }
 }

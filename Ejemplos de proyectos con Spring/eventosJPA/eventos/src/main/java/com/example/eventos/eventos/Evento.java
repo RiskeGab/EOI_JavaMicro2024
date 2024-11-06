@@ -3,6 +3,7 @@ package com.example.eventos.eventos;
 import java.time.LocalDate;
 import java.util.List;
 
+import com.example.eventos.eventos.dto.EventoDTO;
 import com.example.eventos.usuarios.Usuario;
 
 import jakarta.persistence.Entity;
@@ -30,4 +31,9 @@ public class Evento {
 
     @ManyToMany(mappedBy = "eventos")
     private List<Usuario> usuarios;
+
+    static Evento fromDTO(EventoDTO eventoDTO) {
+        return new Evento(0, eventoDTO.getTitulo(), eventoDTO.getDescripcion(), eventoDTO.getPrecio(),
+                LocalDate.parse(eventoDTO.getFecha()), null);
+    }
 }

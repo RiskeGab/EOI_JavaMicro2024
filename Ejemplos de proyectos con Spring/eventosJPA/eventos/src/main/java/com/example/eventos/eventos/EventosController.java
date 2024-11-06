@@ -8,12 +8,15 @@ import org.springframework.web.bind.annotation.DeleteMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
+import com.example.eventos.eventos.dto.EventoDTO;
+import com.example.eventos.eventos.dto.RespuestaEventoDTO;
+import com.example.eventos.eventos.dto.RespuestaEventosDTO;
 import com.example.eventos.eventos.proyecciones.EventoSinUsuarios;
 
+import jakarta.validation.Valid;
 import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
-import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.ResponseStatus;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
@@ -28,24 +31,24 @@ public class EventosController {
     private final EventosService eventosService;
 
     @GetMapping
-    public List<EventoSinUsuarios> getAll() {
-        return eventosService.getAll();
+    public RespuestaEventosDTO getAll() {
+        return new RespuestaEventosDTO(eventosService.getAll());
     }
     
     @GetMapping("/{id}")
-    public EventoSinUsuarios getMethodName(@PathVariable int id) {
-        return eventosService.getById(id);
+    public RespuestaEventoDTO getMethodName(@PathVariable int id) {
+        return new RespuestaEventoDTO(eventosService.getById(id));
     }
     
     @PostMapping
     @ResponseStatus(HttpStatus.CREATED)
-    public Evento postMethodName(@RequestBody Evento e) {        
-        return eventosService.insert(e);
+    public RespuestaEventoDTO postMethodName(@RequestBody @Valid EventoDTO e) {        
+        return new RespuestaEventoDTO(eventosService.insert(e));
     }
 
     @PutMapping("/{id}")
-    public Evento putMethodName(@PathVariable int id, @RequestBody Evento e) {
-        return eventosService.update(id, e);
+    public RespuestaEventoDTO putMethodName(@PathVariable int id, @RequestBody @Valid EventoDTO e) {
+        return new RespuestaEventoDTO(eventosService.update(id, e));
     }
     
     @DeleteMapping("/{id}")

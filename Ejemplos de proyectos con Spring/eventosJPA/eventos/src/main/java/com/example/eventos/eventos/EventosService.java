@@ -5,7 +5,9 @@ import java.util.List;
 import org.springframework.http.HttpStatus;
 import org.springframework.stereotype.Service;
 import org.springframework.web.server.ResponseStatusException;
+import org.yaml.snakeyaml.events.Event;
 
+import com.example.eventos.eventos.dto.EventoDTO;
 import com.example.eventos.eventos.proyecciones.EventoSinUsuarios;
 
 import lombok.RequiredArgsConstructor;
@@ -24,17 +26,20 @@ public class EventosService {
         return e;
     }
 
-    public Evento insert(Evento e) {
-        e.setId(0);
-        return eventosRespository.save(e);
+    public EventoSinUsuarios insert(EventoDTO eventoDTO) {
+        Evento evento = eventosRespository.save(Evento.fromDTO(eventoDTO));
+        return eventosRespository.findEventoById(evento.getId());
     }
 
-    public Evento update(int id, Evento e) {
+    public EventoSinUsuarios update(int id, EventoDTO eventoDTO) {
         if (!eventosRespository.existsById(id)) {
             throw new ResponseStatusException(HttpStatus.NOT_FOUND, "Evento no encontrado");
         }
-        e.setId(id);
-        return eventosRespository.save(e);
+
+        Evento evento = Evento.fromDTO(eventoDTO); 
+        evento.setId(id);
+        eventosRespository.save(evento);
+        return eventosRespository.findEventoById(evento.getId());
     }
 
     public void delete(int idEvento) {

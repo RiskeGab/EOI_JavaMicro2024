@@ -6,6 +6,7 @@ import org.springframework.http.HttpStatus;
 import org.springframework.stereotype.Service;
 import org.springframework.web.server.ResponseStatusException;
 
+import com.example.eventos.usuarios.dto.UsuarioDTO;
 import com.example.eventos.usuarios.proyecciones.UsuarioSinEventos;
 
 import lombok.RequiredArgsConstructor;
@@ -24,17 +25,19 @@ public class UsuariosService {
         return u;
     }
 
-    public Usuario insert(Usuario u) {
-        u.setId(0);
-        return usuariosRepository.save(u);
+    public UsuarioSinEventos insert(UsuarioDTO usuarioDTO) {
+        Usuario usuario = usuariosRepository.save(Usuario.fromDTO(usuarioDTO));
+        return usuariosRepository.findUsuarioById(usuario.getId());
     }
 
-    public Usuario update(int id, Usuario u) {
+    public UsuarioSinEventos update(int id, UsuarioDTO usuarioDTO) {
         if (!usuariosRepository.existsById(id)) {
             throw new ResponseStatusException(HttpStatus.NOT_FOUND, "Usuario no encontrado");
         }
-        u.setId(id);
-        return usuariosRepository.save(u);
+        Usuario usuario = Usuario.fromDTO(usuarioDTO);
+        usuario.setId(id);
+        usuariosRepository.save(usuario);
+        return usuariosRepository.findUsuarioById(usuario.getId());
     }
 
     public void delete(int idUsuario) {

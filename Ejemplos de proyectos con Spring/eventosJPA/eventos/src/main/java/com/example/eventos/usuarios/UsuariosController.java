@@ -8,8 +8,12 @@ import org.springframework.web.bind.annotation.DeleteMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
+import com.example.eventos.usuarios.dto.RespuestaUsuarioDTO;
+import com.example.eventos.usuarios.dto.RespuestaUsuariosDTO;
+import com.example.eventos.usuarios.dto.UsuarioDTO;
 import com.example.eventos.usuarios.proyecciones.UsuarioSinEventos;
 
+import jakarta.validation.Valid;
 import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
@@ -27,25 +31,25 @@ public class UsuariosController {
     private final UsuariosService usuariosService;
 
     @GetMapping
-    public List<UsuarioSinEventos> getAll() {
-        return usuariosService.getAll();
+    public RespuestaUsuariosDTO getAll() {
+        return new RespuestaUsuariosDTO(usuariosService.getAll());
     }
 
     @GetMapping("/{id}")
-    public UsuarioSinEventos getById(@PathVariable int id) {
-        return usuariosService.getById(id);
+    public RespuestaUsuarioDTO getById(@PathVariable int id) {
+        return new RespuestaUsuarioDTO(usuariosService.getById(id));
     }
 
     @PostMapping
     @ResponseStatus(HttpStatus.CREATED)
-    public Usuario insert(@RequestBody Usuario u) {       
-        return usuariosService.insert(u);
+    public RespuestaUsuarioDTO insert(@RequestBody @Valid UsuarioDTO u) {       
+        return new RespuestaUsuarioDTO(usuariosService.insert(u));
     }
 
     @PutMapping("/{id}")
     @ResponseStatus(HttpStatus.OK)
-    public Usuario update(@PathVariable int id, @RequestBody Usuario u) {      
-        return usuariosService.update(id, u);
+    public RespuestaUsuarioDTO update(@PathVariable int id, @RequestBody @Valid UsuarioDTO u) {      
+        return new RespuestaUsuarioDTO(usuariosService.update(id, u));
     }
     
     @DeleteMapping("/{id}")
