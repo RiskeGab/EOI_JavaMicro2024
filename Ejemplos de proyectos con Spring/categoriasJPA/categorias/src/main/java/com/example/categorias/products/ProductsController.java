@@ -16,7 +16,7 @@ import org.springframework.web.bind.annotation.ResponseStatus;
 import org.springframework.web.bind.annotation.RestController;
 
 import com.example.categorias.categories.CategoriesService;
-import com.example.categorias.products.projections.ProductWithCategoryRecord;
+import com.example.categorias.products.projections.ProductWithCategory;
 import com.example.categorias.products.projections.ProductWithoutCategory;
 
 import lombok.RequiredArgsConstructor;
@@ -37,7 +37,7 @@ public class ProductsController {
     }
 
     @GetMapping("/{id}")
-    public ProductWithCategoryRecord getProduct(@PathVariable int id) {
+    public ProductWithCategory getProduct(@PathVariable int id) {
         return proService.getProduct(id);
     }
     
