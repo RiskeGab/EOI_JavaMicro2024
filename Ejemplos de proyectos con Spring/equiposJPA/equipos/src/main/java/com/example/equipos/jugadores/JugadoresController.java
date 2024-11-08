@@ -33,6 +33,11 @@ public class JugadoresController {
         return new RespuestaJugadoresDTO(jugadoresService.getAll());
     }
 
+    @GetMapping("/{id}")
+    public RespuestaJugadorDTO getMethodName(@PathVariable int id) {
+        return new RespuestaJugadorDTO(jugadoresService.getById(id));
+    }
+
     @PostMapping
     @ResponseStatus(HttpStatus.CREATED)
     public RespuestaJugadorDTO postMethodName(@RequestBody @Valid JugadorDTO j) {        

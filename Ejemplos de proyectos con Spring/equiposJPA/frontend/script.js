@@ -105,12 +105,12 @@ async function eliminarEquipo(id) {
 }
 
 async function editarEquipo(id) {
-    const response = await fetch(`${urlEquipos}/${id}`);
-    const equipo = await response.json();
+    let response = await fetch(`${urlEquipos}/${id}`);
+    response = await response.json();
 
-    document.getElementById('equipoId').value = equipo.id;
-    document.getElementById('equipoNombre').value = equipo.nombre;
-    document.getElementById('equipoCiudad').value = equipo.ciudad;
+    document.getElementById('equipoId').value = response.equipo.id;
+    document.getElementById('equipoNombre').value = response.equipo.nombre;
+    document.getElementById('equipoCiudad').value = response.equipo.ciudad;
 
     document.getElementById('formularioEquipo').style.display = 'block';
 }
@@ -201,14 +201,14 @@ async function eliminarJugador(id) {
 }
 
 async function editarJugador(id) {
-    const response = await fetch(`${urlJugadores}/${id}`);
-    const jugador = await response.json();
+    let response = await fetch(`${urlJugadores}/${id}`);
+    response = await response.json();
 
-    document.getElementById('jugadorId').value = jugador.id;
-    document.getElementById('jugadorNombre').value = jugador.nombre;
-    document.getElementById('jugadorNumero').value = jugador.numero;
-    document.getElementById('jugadorSueldo').value = jugador.sueldo;
-    document.getElementById('jugadorEquipo').value = jugador.equipo.nombre;
+    document.getElementById('jugadorId').value = response.jugador.id;
+    document.getElementById('jugadorNombre').value = response.jugador.nombre;
+    document.getElementById('jugadorNumero').value = response.jugador.numero;
+    document.getElementById('jugadorSueldo').value = response.jugador.sueldo;
+    document.getElementById('jugadorEquipo').value = response.jugador.equipo;
 
     document.getElementById('formularioJugador').style.display = 'block';
 }

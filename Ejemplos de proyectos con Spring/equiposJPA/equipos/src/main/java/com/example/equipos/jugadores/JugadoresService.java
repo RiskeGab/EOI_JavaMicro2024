@@ -6,9 +6,6 @@ import org.springframework.http.HttpStatus;
 import org.springframework.stereotype.Service;
 import org.springframework.web.server.ResponseStatusException;
 
-import com.example.equipos.equipos.Equipo;
-import com.example.equipos.equipos.dto.EquipoDTO;
-import com.example.equipos.equipos.proyecciones.EquipoSinJugadores;
 import com.example.equipos.jugadores.dto.JugadorDTO;
 import com.example.equipos.jugadores.proyecciones.JugadorSinEquipo;
 
@@ -23,9 +20,14 @@ public class JugadoresService {
         return jugadoresRepository.findBy();
     }
 
+    public JugadorSinEquipo getById(int id) {
+        JugadorSinEquipo e = jugadoresRepository.findJugadorById(id);
+        return e;
+    }
+
     public JugadorSinEquipo insert(JugadorDTO jugadorDTO) {
         Jugador jugador = jugadoresRepository.save(Jugador.fromDTO(jugadorDTO));
-        return jugadoresRepository.findEquipoById(jugador.getId());
+        return jugadoresRepository.findJugadorById(jugador.getId());
     }
 
     public void delete(int idJugador) {
@@ -40,6 +42,6 @@ public class JugadoresService {
         Jugador jugador = Jugador.fromDTO(jugadorDTO); 
         jugador.setId(id);
         jugadoresRepository.save(jugador);
-        return jugadoresRepository.findEquipoById(jugador.getId());
+        return jugadoresRepository.findJugadorById(jugador.getId());
     }
 }

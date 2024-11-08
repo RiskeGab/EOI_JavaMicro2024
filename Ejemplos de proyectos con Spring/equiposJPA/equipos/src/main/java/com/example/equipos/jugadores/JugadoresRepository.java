@@ -10,5 +10,5 @@ import com.example.equipos.jugadores.proyecciones.JugadorSinEquipo;
 @Repository
 public interface JugadoresRepository extends JpaRepository<Jugador, Integer> {
         List<JugadorSinEquipo> findBy();
-        JugadorSinEquipo findEquipoById(int id);
+        JugadorSinEquipo findJugadorById(int id);
 }

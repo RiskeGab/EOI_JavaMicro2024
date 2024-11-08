@@ -20,6 +20,11 @@ public class EquiposService {
         return equiposRepository.findBy();
     }
 
+    public EquipoSinJugadores getById(int id) {
+        EquipoSinJugadores e = equiposRepository.findEquipoById(id);
+        return e;
+    }
+
     public EquipoSinJugadores insert(EquipoDTO equipoDTO) {
         Equipo equipo = equiposRepository.save(Equipo.fromDTO(equipoDTO));
         return equiposRepository.findEquipoById(equipo.getId());

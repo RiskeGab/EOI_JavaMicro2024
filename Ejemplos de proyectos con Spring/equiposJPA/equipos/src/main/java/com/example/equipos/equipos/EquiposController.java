@@ -31,6 +31,11 @@ public class EquiposController {
         return new RespuestaEquiposDTO(equiposService.getAll());
     }
 
+    @GetMapping("/{id}")
+    public RespuestaEquipoDTO getMethodName(@PathVariable int id) {
+        return new RespuestaEquipoDTO(equiposService.getById(id));
+    }
+
     @PostMapping
     @ResponseStatus(HttpStatus.CREATED)
     public RespuestaEquipoDTO postMethodName(@RequestBody @Valid EquipoDTO e) {        
