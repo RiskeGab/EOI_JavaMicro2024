@@ -22,4 +22,8 @@ public class JugadoresService {
         Jugador jugador = jugadoresRepository.save(Jugador.fromDTO(jugadorDTO));
         return jugadoresRepository.findEquipoById(jugador.getId());
     }
+
+    public void delete(int idJugador) {
+        jugadoresRepository.deleteById(idJugador);
+    }
 }

@@ -25,8 +25,8 @@ public class EquiposService {
         return equiposRepository.findEquipoById(equipo.getId());
     }
 
-    public void delete(int idEvento) {
-        equiposRepository.deleteById(idEvento);
+    public void delete(int idEquipo) {
+        equiposRepository.deleteById(idEquipo);
     }
 
     public EquipoSinJugadores update(int id, EquipoDTO equipoDTO) {
