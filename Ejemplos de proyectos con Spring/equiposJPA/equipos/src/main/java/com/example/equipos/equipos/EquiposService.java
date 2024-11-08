@@ -22,4 +22,8 @@ public class EquiposService {
         Equipo equipo = equiposRepository.save(Equipo.fromDTO(equipoDTO));
         return equiposRepository.findEquipoById(equipo.getId());
     }
+
+    public void delete(int idEvento) {
+        equiposRepository.deleteById(idEvento);
+    }
 }
