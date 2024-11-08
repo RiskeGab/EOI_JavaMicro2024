@@ -8,5 +8,5 @@ import lombok.Data;
 @Data
 @AllArgsConstructor
 public class RespuestaEquipoDTO {
-    private EquipoSinJugadores evento;
+    private EquipoSinJugadores equipo;
 }

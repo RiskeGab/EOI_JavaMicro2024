@@ -7,10 +7,10 @@ const selectEquipo = document.getElementById('jugadorEquipo');
 
 // Cargar lista de equipos en el select de jugadores
 async function cargarEquiposEnSelect() {
-    const response = await fetch(urlEquipos);
-    const equipos = await response.json();
+    let response = await fetch(urlEquipos);
+    response = await response.json();
     selectEquipo.innerHTML = '<option value="">Seleccione un equipo</option>'; // Opción por defecto
-    equipos.forEach(equipo => {
+    response.equipos.forEach(equipo => { 
         const option = document.createElement('option');
         option.value = equipo.id;
         option.textContent = equipo.nombre;
@@ -25,10 +25,10 @@ function toggleFormulario(formularioId) {
 
 // Funciones para Equipos
 async function cargarEquipos() {
-    const response = await fetch(urlEquipos);
-    const equipos = await response.json();
+    let response = await fetch(urlEquipos);
+    response = await response.json();
     tablaEquipos.innerHTML = '';
-    equipos.forEach(addEquipo);
+    response.equipos.forEach(addEquipo);
 }
 
 function addEquipo(equipo) {
