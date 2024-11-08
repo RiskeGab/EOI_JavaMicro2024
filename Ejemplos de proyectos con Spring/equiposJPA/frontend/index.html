@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gestión de Equipos y Jugadores</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons/font/bootstrap-icons.css" rel="stylesheet">
+    <script src="script.js" defer></script>
+</head>
+
+<body data-bs-theme="dark">
+    <div class="position-absolute top-0 end-0 m-3">
+        <button id="toggleTheme" class="btn btn-secondary">
+            <i id="themeIcon" class="bi bi-moon-fill"></i>
+        </button>
+    </div>
+
+    <div class="container mt-5">
+        <h1 class="mb-4">Gestión de Equipos y Jugadores</h1>
+
+        <!-- Sección de Equipos -->
+        <div class="mb-5">
+            <h2>Equipos</h2>
+            <table class="table table-bordered" id="tablaEquipos">
+                <thead>
+                    <tr>
+                        <th>ID</th>
+                        <th>Nombre</th>
+                        <th>Ciudad</th>
+                        <th>Fecha de Creación</th>
+                        <th>Acciones</th>
+                    </tr>
+                </thead>
+                <tbody></tbody>
+            </table>
+            <button id="btnAgregarEquipo" class="btn btn-primary mb-3">Añadir equipo</button>
+            <div id="formularioEquipo" style="display:none;">
+                <input type="hidden" id="equipoId">
+                <div class="mb-3">
+                    <label for="equipoNombre" class="form-label">Nombre</label>
+                    <input type="text" class="form-control" id="equipoNombre">
+                </div>
+                <div class="mb-3">
+                    <label for="equipoCiudad" class="form-label">Ciudad</label>
+                    <input type="text" class="form-control" id="equipoCiudad">
+                </div>
+                <div class="mb-3">
+                    <label for="equipoFechaCreacion" class="form-label">Fecha de Creación</label>
+                    <input type="date" class="form-control" id="equipoFechaCreacion">
+                </div>
+                <button id="btnGuardarEquipo" class="btn btn-success">Guardar</button>
+            </div>
+        </div>
+
+        <!-- Sección de Jugadores -->
+        <div>
+            <h2>Jugadores</h2>
+            <table class="table table-bordered" id="tablaJugadores">
+                <thead>
+                    <tr>
+                        <th>ID</th>
+                        <th>Nombre</th>
+                        <th>Posición</th>
+                        <th>Equipo</th>
+                        <th>Acciones</th>
+                    </tr>
+                </thead>
+                <tbody></tbody>
+            </table>
+            <button id="btnAgregarJugador" class="btn btn-primary mb-3">Añadir jugador</button>
+            <div id="formularioJugador" style="display:none;">
+                <input type="hidden" id="jugadorId">
+                <div class="mb-3">
+                    <label for="jugadorNombre" class="form-label">Nombre</label>
+                    <input type="text" class="form-control" id="jugadorNombre">
+                </div>
+                <div class="mb-3">
+                    <label for="jugadorPosicion" class="form-label">Posición</label>
+                    <input type="text" class="form-control" id="jugadorPosicion">
+                </div>
+                <div class="mb-3">
+                    <label for="jugadorEquipo" class="form-label">Equipo</label>
+                    <select class="form-control" id="jugadorEquipo"></select>
+                </div>                
+                <button id="btnGuardarJugador" class="btn btn-success">Guardar</button>
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>
