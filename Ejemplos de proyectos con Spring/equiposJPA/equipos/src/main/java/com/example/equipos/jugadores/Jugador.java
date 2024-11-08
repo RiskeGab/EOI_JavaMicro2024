@@ -1,5 +1,7 @@
 package com.example.equipos.jugadores;
 
+import com.example.equipos.jugadores.dto.JugadorDTO;
+
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
@@ -20,4 +22,8 @@ public class Jugador {
     private int numero;
     private double sueldo;
     private int equipo;
+
+    static Jugador fromDTO(JugadorDTO jugadorDTO) {
+        return new Jugador(0, jugadorDTO.getNombre(), jugadorDTO.getNumero(), jugadorDTO.getSueldo(), jugadorDTO.getEquipo());
+    }
 }
