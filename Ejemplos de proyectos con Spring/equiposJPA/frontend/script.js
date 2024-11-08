@@ -132,8 +132,8 @@ function addJugador(jugador) {
     const nombreCell = document.createElement('td');
     nombreCell.textContent = jugador.nombre;
 
-    const posicionCell = document.createElement('td');
-    posicionCell.textContent = jugador.posicion;
+    const numeroCell = document.createElement('td');
+    numeroCell.textContent = jugador.numero;
 
     const equipoCell = document.createElement('td');
     equipoCell.textContent = jugador.equipo.nombre;
@@ -154,7 +154,7 @@ function addJugador(jugador) {
 
     row.appendChild(idCell);
     row.appendChild(nombreCell);
-    row.appendChild(posicionCell);
+    row.appendChild(numeroCell);
     row.appendChild(equipoCell);
     row.appendChild(actionsCell);
 
@@ -164,16 +164,17 @@ function addJugador(jugador) {
 function limpiarFormularioJugador() {
     document.getElementById('jugadorId').value = '';
     document.getElementById('jugadorNombre').value = '';
-    document.getElementById('jugadorPosicion').value = '';
+    document.getElementById('jugadorNumero').value = '';
     document.getElementById('jugadorEquipo').value = '';
 }
 
 async function guardarJugador() {
     const id = document.getElementById('jugadorId').value;
     const nombre = document.getElementById('jugadorNombre').value;
-    const posicion = document.getElementById('jugadorPosicion').value;
+    const numero = document.getElementById('jugadorNumero').value;
+    const sueldo = document.getElementById('jugadorSueldo').value;
     const equipo = document.getElementById('jugadorEquipo').value;
-    const jugador = { nombre, posicion, equipo: { id: equipo } };
+    const jugador = { nombre, numero, sueldo, equipo };
     let url = urlJugadores;
     let method = 'POST';
     if (id) {
@@ -201,7 +202,8 @@ async function editarJugador(id) {
 
     document.getElementById('jugadorId').value = jugador.id;
     document.getElementById('jugadorNombre').value = jugador.nombre;
-    document.getElementById('jugadorPosicion').value = jugador.posicion;
+    document.getElementById('jugadorNumero').value = jugador.numero;
+    document.getElementById('jugadorSueldo').value = jugador.sueldo;
     document.getElementById('jugadorEquipo').value = jugador.equipo.nombre;
 
     document.getElementById('formularioJugador').style.display = 'block';
