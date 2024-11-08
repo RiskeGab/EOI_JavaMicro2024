@@ -9,8 +9,6 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.ResponseStatus;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.example.equipos.equipos.dto.EquipoDTO;
-import com.example.equipos.equipos.dto.RespuestaEquipoDTO;
 import com.example.equipos.jugadores.dto.JugadorDTO;
 import com.example.equipos.jugadores.dto.RespuestaJugadorDTO;
 import com.example.equipos.jugadores.dto.RespuestaJugadoresDTO;
