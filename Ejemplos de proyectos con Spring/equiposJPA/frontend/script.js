@@ -117,10 +117,10 @@ async function editarEquipo(id) {
 
 // Funciones para Jugadores
 async function cargarJugadores() {
-    const response = await fetch(urlJugadores);
-    const jugadores = await response.json();
+    let response = await fetch(urlJugadores);
+    response = await response.json();
     tablaJugadores.innerHTML = '';
-    jugadores.forEach(addJugador);
+    response.jugadores.forEach(addJugador);
 }
 
 function addJugador(jugador) {
