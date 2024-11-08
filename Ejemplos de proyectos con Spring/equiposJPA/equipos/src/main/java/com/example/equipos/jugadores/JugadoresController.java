@@ -12,7 +12,7 @@ import lombok.RequiredArgsConstructor;
 @CrossOrigin("*")
 @RestController
 @RequiredArgsConstructor
-@RequestMapping("/equipos")
+@RequestMapping("/jugadores")
 public class JugadoresController {
     private final JugadoresService jugadoresService;
     

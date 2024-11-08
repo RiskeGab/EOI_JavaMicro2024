@@ -10,5 +10,5 @@ import lombok.Data;
 @Data
 @AllArgsConstructor
 public class RespuestaJugadoresDTO {
-    private List<JugadorSinEquipo> jugador;
+    private List<JugadorSinEquipo> jugadores;
 }
