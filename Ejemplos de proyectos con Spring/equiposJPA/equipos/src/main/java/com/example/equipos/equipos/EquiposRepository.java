@@ -8,6 +8,6 @@ import org.springframework.stereotype.Repository;
 import com.example.equipos.equipos.proyecciones.EquipoSinJugadores;
 
 @Repository
-public interface EquiposRepository extends JpaRepository<EquipoSinJugadores, Integer> {
+public interface EquiposRepository extends JpaRepository<Equipo, Integer> {
         List<EquipoSinJugadores> findBy();
 }
