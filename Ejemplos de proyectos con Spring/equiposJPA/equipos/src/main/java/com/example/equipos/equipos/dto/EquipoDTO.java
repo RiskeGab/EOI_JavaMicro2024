@@ -11,5 +11,5 @@ public class EquipoDTO {
     @NotBlank(message = "La ciudad no puede estar vacía")
     private String ciudad;
     @NotBlank(message = "El precio no puede ser negativo")
-    private double fechaCreacion;
+    private String fechaCreacion;
 }

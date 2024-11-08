@@ -1,5 +1,9 @@
 package com.example.equipos.equipos;
 
+import java.time.LocalDate;
+
+import com.example.equipos.equipos.dto.EquipoDTO;
+
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
@@ -20,4 +24,8 @@ public class Equipo {
     private String nombre;
     private String ciudad;
     private String fechaCreacion;
+
+    static Equipo fromDTO(EquipoDTO equipoDTO) {
+        return new Equipo(0, equipoDTO.getNombre(), equipoDTO.getCiudad(), equipoDTO.getFechaCreacion());
+    }
 }

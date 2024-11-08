@@ -14,6 +14,6 @@ public class EquiposService {
     private final EquiposRepository equiposRepository;
 
     public List<EquipoSinJugadores> getAll() {
-        return equiposRepository.findAll();
+        return equiposRepository.findBy();
     }
 }
