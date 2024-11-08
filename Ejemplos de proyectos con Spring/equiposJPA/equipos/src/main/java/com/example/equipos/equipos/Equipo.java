@@ -25,7 +25,7 @@ public class Equipo {
     private String ciudad;
     private String fechaCreacion;
 
-    /*static Equipo fromDTO(EquipoDTO equipoDTO) {
+    static Equipo fromDTO(EquipoDTO equipoDTO) {
         return new Equipo(0, equipoDTO.getNombre(), equipoDTO.getCiudad(), equipoDTO.getFechaCreacion());
-    }*/
+    }
 }
