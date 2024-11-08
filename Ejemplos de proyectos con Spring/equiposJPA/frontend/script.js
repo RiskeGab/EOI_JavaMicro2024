@@ -111,6 +111,7 @@ async function editarEquipo(id) {
     document.getElementById('equipoId').value = response.equipo.id;
     document.getElementById('equipoNombre').value = response.equipo.nombre;
     document.getElementById('equipoCiudad').value = response.equipo.ciudad;
+    document.getElementById('equipoFechaCreacion').value = response.equipo.fechaCreacion;
 
     document.getElementById('formularioEquipo').style.display = 'block';
 }
@@ -169,6 +170,7 @@ function limpiarFormularioJugador() {
     document.getElementById('jugadorId').value = '';
     document.getElementById('jugadorNombre').value = '';
     document.getElementById('jugadorNumero').value = '';
+    document.getElementById('jugadorSueldo').value = '';
     document.getElementById('jugadorEquipo').value = '';
 }
 
