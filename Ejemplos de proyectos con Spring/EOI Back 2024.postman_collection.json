@@ -1,9 +1,9 @@
 {
 	"info": {
-		"_postman_id": "919402b6-ce5c-434d-81a3-4ab027982954",
+		"_postman_id": "7e6c88e0-bdcd-4d2b-bb54-41ec145705e5",
 		"name": "EOI Back 2024",
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
-		"_exporter_id": "682596"
+		"_exporter_id": "39390751"
 	},
 	"item": [
 		{
@@ -578,6 +578,202 @@
 							"path": [
 								"eventos",
 								"7"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Equipos",
+			"item": [
+				{
+					"name": "Get equipos",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:8080/equipos",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8080",
+							"path": [
+								"equipos"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Get jugadores",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:8080/jugadores",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8080",
+							"path": [
+								"jugadores"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Delete equipo",
+					"request": {
+						"method": "DELETE",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:8080/equipos/8",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8080",
+							"path": [
+								"equipos",
+								"8"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Delete jugador",
+					"request": {
+						"method": "DELETE",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:8080/equipos/8",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8080",
+							"path": [
+								"equipos",
+								"8"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Post equipo",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"nombre\": \"Equipo de prueba\",\r\n    \"ciudad\": \"Alicante\",\r\n    \"fechaCreacion\": \"2024-01-01\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "http://localhost:8080/equipos",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8080",
+							"path": [
+								"equipos"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Post jugador",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"nombre\": \"Juanito\",\r\n    \"numero\": 3,\r\n    \"sueldo\": 1000.0,\r\n    \"equipo\": 9\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "http://localhost:8080/jugadores",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8080",
+							"path": [
+								"jugadores"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Put jugador",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"nombre\": \"Juanito\",\r\n    \"numero\": 3,\r\n    \"sueldo\": 1000.0,\r\n    \"equipo\": 9\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "http://localhost:8080/jugadores",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8080",
+							"path": [
+								"jugadores"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Put equipo",
+					"request": {
+						"method": "PUT",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"id\": 4,\r\n    \"nombre\": \"Equipo modificado\",\r\n    \"ciudad\": \"Alicante\",\r\n    \"fechaCreacion\": \"2024-01-01\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "http://localhost:8080/equipos/4",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8080",
+							"path": [
+								"equipos",
+								"4"
 							]
 						}
 					},
