@@ -10,7 +10,7 @@ import lombok.NoArgsConstructor;
 public class JugadorDTO {
     @NotBlank(message = "El nombre no puede estar vacío")
     private String nombre;
-    @NotBlank(message = "La número del jugador no puede estar vacío")
+    @Positive(message = "El número del jugador no puede ser negativo")
     private int numero;
     @Positive(message = "El sueldo de un jugador no puede ser negativo")
     private double sueldo;
