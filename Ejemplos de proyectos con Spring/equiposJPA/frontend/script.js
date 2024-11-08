@@ -135,6 +135,9 @@ function addJugador(jugador) {
     const numeroCell = document.createElement('td');
     numeroCell.textContent = jugador.numero;
 
+    const sueldoCell = document.createElement('td');
+    sueldoCell.textContent = jugador.sueldo;
+
     const equipoCell = document.createElement('td');
     equipoCell.textContent = jugador.equipo.nombre;
 
@@ -155,6 +158,7 @@ function addJugador(jugador) {
     row.appendChild(idCell);
     row.appendChild(nombreCell);
     row.appendChild(numeroCell);
+    row.appendChild(sueldoCell);
     row.appendChild(equipoCell);
     row.appendChild(actionsCell);
 
