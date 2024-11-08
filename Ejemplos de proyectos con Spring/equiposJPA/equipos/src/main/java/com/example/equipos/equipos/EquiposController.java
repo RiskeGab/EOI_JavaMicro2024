@@ -7,6 +7,7 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
+import com.example.equipos.equipos.dto.RespuestaEquiposDTO;
 import com.example.equipos.equipos.proyecciones.EquipoSinJugadores;
 
 import lombok.RequiredArgsConstructor;
@@ -19,8 +20,8 @@ public class EquiposController {
     private final EquiposService equiposService;
     
     @GetMapping
-    public List<EquipoSinJugadores> getAll() {
-        return equiposService.getAll();
+    public RespuestaEquiposDTO getAll() {
+        return new RespuestaEquiposDTO(equiposService.getAll());
     }
 
 }
