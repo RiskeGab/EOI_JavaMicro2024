@@ -1,9 +1,9 @@
 {
 	"info": {
-		"_postman_id": "7e6c88e0-bdcd-4d2b-bb54-41ec145705e5",
+		"_postman_id": "42466393-5fd9-409e-9c31-296d58b88555",
 		"name": "EOI Back 2024",
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
-		"_exporter_id": "39390751"
+		"_exporter_id": "682596"
 	},
 	"item": [
 		{
@@ -494,6 +494,516 @@
 						"body": {
 							"mode": "raw",
 							"raw": "{\r\n    \"titulo\": \"rt\",\r\n    \"descripcion\": \"\",\r\n    \"precio\": -43,\r\n    \"fecha\": \"2024-12-01\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "http://localhost:8080/eventos",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8080",
+							"path": [
+								"eventos"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Actualizar evento",
+					"request": {
+						"method": "PUT",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"id\": 6,\r\n    \"titulo\": \"Título de prueba\",\r\n    \"descripcion\": \"Descripción de prueba\",\r\n    \"precio\": 1,\r\n    \"fecha\": \"2024-01-01\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "http://localhost:8080/eventos/6",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8080",
+							"path": [
+								"eventos",
+								"6"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Borrar usuario",
+					"request": {
+						"method": "DELETE",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:8080/usuarios/6",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8080",
+							"path": [
+								"usuarios",
+								"6"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Borrar evento",
+					"request": {
+						"method": "DELETE",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:8080/eventos/7",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8080",
+							"path": [
+								"eventos",
+								"7"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Eventos con Imagenes",
+			"item": [
+				{
+					"name": "Get usuarios",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:8080/usuarios",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8080",
+							"path": [
+								"usuarios"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Get eventos",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:8080/eventos",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8080",
+							"path": [
+								"eventos"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Get evento id",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:8080/eventos/214",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8080",
+							"path": [
+								"eventos",
+								"214"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Insertar usuario",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"nombre\": \"Prueba usuario 2\",\r\n    \"correo\": \"pru@eba.es\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "http://localhost:8080/usuarios",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8080",
+							"path": [
+								"usuarios"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Actualizar usuario",
+					"request": {
+						"method": "PUT",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"id\": 2,\r\n    \"nombre\": \"Usuario de prueba\",\r\n    \"correo\": \"prueba@prueba.com\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "http://localhost:8080/usuarios",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8080",
+							"path": [
+								"usuarios"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Insertar evento",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"titulo\": \"Prueba\",\r\n    \"descripcion\": \"Evento de prueba\",\r\n    \"precio\": 50,\r\n    \"fecha\": \"2024-12-01\",\r\n    \"imagen\": \"data:image/webp;base64,UklGRsgFAABXRUJQVlA4ILwFAADwGwCdASpVAFUAPkkejEOioaGWrM4YKASEsoBo1H7P9ap5wG2zu1ryQPTS/W6lt/ib55+OL197bZSJ8J7Ce0nYA71XuXuW/tf4iusSsu+Xeeb/c+W1/ZvyA9+v01/2/Va/4h4SAVL1zW6Uraqwg99xRHbnU1bNPs8iS11CXhVsWorlXymhNEOc6sUZhlAhNisXiBY7nI4fc+yxDcJbEZiDPh6/lkKBa5gxGcaBvi4H+78Wq1Zt+gcdMXrkT9rL8/hCEvZXP8R4OzSDwcWj2K7U7nwuFRr1pAL/0gDdJhVPijDtPQjF36wAAP7/tRE8aAjWm0IY8QXI46LldliDKZIG5SipsBXwfe/AtiLhfp9bw85qUgGx511N4KrLSJmiDPd+CgpX7H4XjVjdENngcDYWeDDlZrqFh6Ri3K5kHVgss1OVAechrIn42ZQfE/pi76rUQUfPA9un5+vmJ8SY/NyjfbJc4E2IBuum80e5zNLzswdDPg5Pvc62CZl/pIyz1UWckPjX1Sodzbd8NkIsEK6Dxt+iemXn9qtyesLNKLf1rzqw/C1z4nJqi98S+i02X0D58q52Wte1rZC82S3nq3Lm3lELrjiDs+7xadB1KPLgMI+10J/rqQU3yrOJWrQoSkAvBhflUNr0WvcKWhENWuKL0hkGYJwImqR7fJVPSfZFkpFoDsxj396AR76pSbch7oF25PrTSkQkN+a61Z2Aefujn9O+eH8//7GADNdBAhjMg9Erx3AbvHF6X4KrQSwgMg1+zERlJ1jEfjVyVeVT5fcCs7fwAo/IlACiAY+XjwY7qeaFlfKZwNwAWg3OFpxdi+tK/jiuYC+zlpej5HTsh7tUMK7nMXK8+vxiHeGdWO2OV60NicZ6PlH0kYjLsoU53jAEiuycXxxqrp9zDbuO6hfpAiIPlKufj74n0r/KwH9D2NCm40hkwfaTx5IRNx0u/DB8v1b6wiwqmhvubONs+mUqtaymw4RiGA28nhccSchhYujRashTtC8TY63jm3gaL1gYxbPwKJgLZAeLrU3sk2JkPl6JjMnzuDybMUlmi6JWRPjAr/JZ3XSzIUIWAX4iVLdqrZy457WobZ8Knfmqnmw6C5UTPc4n6nZHfcFI2yX0H6GiTgik7hLuY8UFbv+ObEszC21zXPZGZ7jRdb2DozO7yyw5jBz7gKmmeKzGsi6jsU3k/7LR+rxMVbt3ebZ7z8AVxEWwY0DUDWlgA/JImT5IRm+f6byYVOylqW3oMwKEfqac8BHTWBA0/gIVquz4L0XTLN+LAowibf7g6Rw4WYmp/U/I7jWbW5r9JE1r+pS4ludjDzgEE2K5dQ/uGGO5zxlT8IcwCpCoGOBRa+hIm2KlN/02l54Cl9rMBRKuWChZrbyaJLIuGVU+vRse9SnNTgLkPw17NIYjuJTzxEgqJADTuRn7StqwwpZjTsS+WOgT3GKCfNtlHFSNLMFU/CaxveYBTcKx1jY/pQM7HDcNoCdJb69ikP07Tj2Kx0iyh3nSChY5fHVYINTPJ8eliHzSP/pKJedile7MKahT03NaYHLWOmPjEtC4ECJiKROoij6qbQOfthO+1icxbCKepIEhw+ozjAc9RcTtCcevEVraH55JDOT3wKb/+C4beZvUyqDhNuKp5MLT8Ki+o9tOG6hwchVEPMu96eP88qNtFtVaphuAJ/VZQnf8XYB1MzcZAecvy60tAl35hE05l5ikBQDVz2oT3b7WDfZ45xExNBixdFgXpipFpTWZpS4l//j08eAqZPZCS8jB56HfKY/5iRhOU4WH3UPpy2yKVOiYOuT4vwJHIEf9ObqiPk33XuHqRj6h9EkYu1OGVAqUeIzQ+uZIBilTHPQs/0tXvKhXZFLj+E0ShM49CY1cecTJcXGe3xV/x25F9m1zeBJ/ExM9xKutUwSZ0D8/8DifQP/EiT+XGZs/thqBCf4DjwphAAAA\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "http://localhost:8080/eventos",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8080",
+							"path": [
+								"eventos"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Actualizar evento",
+					"request": {
+						"method": "PUT",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"id\": 6,\r\n    \"titulo\": \"Título de prueba\",\r\n    \"descripcion\": \"Descripción de prueba\",\r\n    \"precio\": 1,\r\n    \"fecha\": \"2024-01-01\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "http://localhost:8080/eventos/6",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8080",
+							"path": [
+								"eventos",
+								"6"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Borrar usuario",
+					"request": {
+						"method": "DELETE",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:8080/usuarios/6",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8080",
+							"path": [
+								"usuarios",
+								"6"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Borrar evento",
+					"request": {
+						"method": "DELETE",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:8080/eventos/7",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8080",
+							"path": [
+								"eventos",
+								"7"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Eventos con Login",
+			"item": [
+				{
+					"name": "Registrar usuario",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"nombre\": \"Prueba usuario 2\",\n    \"correo\": \"pru@eba.es\",\n    \"password\": \"1234\",\n    \"avatar\": \"data:image/webp;base64,UklGRsgFAABXRUJQVlA4ILwFAADwGwCdASpVAFUAPkkejEOioaGWrM4YKASEsoBo1H7P9ap5wG2zu1ryQPTS/W6lt/ib55+OL197bZSJ8J7Ce0nYA71XuXuW/tf4iusSsu+Xeeb/c+W1/ZvyA9+v01/2/Va/4h4SAVL1zW6Uraqwg99xRHbnU1bNPs8iS11CXhVsWorlXymhNEOc6sUZhlAhNisXiBY7nI4fc+yxDcJbEZiDPh6/lkKBa5gxGcaBvi4H+78Wq1Zt+gcdMXrkT9rL8/hCEvZXP8R4OzSDwcWj2K7U7nwuFRr1pAL/0gDdJhVPijDtPQjF36wAAP7/tRE8aAjWm0IY8QXI46LldliDKZIG5SipsBXwfe/AtiLhfp9bw85qUgGx511N4KrLSJmiDPd+CgpX7H4XjVjdENngcDYWeDDlZrqFh6Ri3K5kHVgss1OVAechrIn42ZQfE/pi76rUQUfPA9un5+vmJ8SY/NyjfbJc4E2IBuum80e5zNLzswdDPg5Pvc62CZl/pIyz1UWckPjX1Sodzbd8NkIsEK6Dxt+iemXn9qtyesLNKLf1rzqw/C1z4nJqi98S+i02X0D58q52Wte1rZC82S3nq3Lm3lELrjiDs+7xadB1KPLgMI+10J/rqQU3yrOJWrQoSkAvBhflUNr0WvcKWhENWuKL0hkGYJwImqR7fJVPSfZFkpFoDsxj396AR76pSbch7oF25PrTSkQkN+a61Z2Aefujn9O+eH8//7GADNdBAhjMg9Erx3AbvHF6X4KrQSwgMg1+zERlJ1jEfjVyVeVT5fcCs7fwAo/IlACiAY+XjwY7qeaFlfKZwNwAWg3OFpxdi+tK/jiuYC+zlpej5HTsh7tUMK7nMXK8+vxiHeGdWO2OV60NicZ6PlH0kYjLsoU53jAEiuycXxxqrp9zDbuO6hfpAiIPlKufj74n0r/KwH9D2NCm40hkwfaTx5IRNx0u/DB8v1b6wiwqmhvubONs+mUqtaymw4RiGA28nhccSchhYujRashTtC8TY63jm3gaL1gYxbPwKJgLZAeLrU3sk2JkPl6JjMnzuDybMUlmi6JWRPjAr/JZ3XSzIUIWAX4iVLdqrZy457WobZ8Knfmqnmw6C5UTPc4n6nZHfcFI2yX0H6GiTgik7hLuY8UFbv+ObEszC21zXPZGZ7jRdb2DozO7yyw5jBz7gKmmeKzGsi6jsU3k/7LR+rxMVbt3ebZ7z8AVxEWwY0DUDWlgA/JImT5IRm+f6byYVOylqW3oMwKEfqac8BHTWBA0/gIVquz4L0XTLN+LAowibf7g6Rw4WYmp/U/I7jWbW5r9JE1r+pS4ludjDzgEE2K5dQ/uGGO5zxlT8IcwCpCoGOBRa+hIm2KlN/02l54Cl9rMBRKuWChZrbyaJLIuGVU+vRse9SnNTgLkPw17NIYjuJTzxEgqJADTuRn7StqwwpZjTsS+WOgT3GKCfNtlHFSNLMFU/CaxveYBTcKx1jY/pQM7HDcNoCdJb69ikP07Tj2Kx0iyh3nSChY5fHVYINTPJ8eliHzSP/pKJedile7MKahT03NaYHLWOmPjEtC4ECJiKROoij6qbQOfthO+1icxbCKepIEhw+ozjAc9RcTtCcevEVraH55JDOT3wKb/+C4beZvUyqDhNuKp5MLT8Ki+o9tOG6hwchVEPMu96eP88qNtFtVaphuAJ/VZQnf8XYB1MzcZAecvy60tAl35hE05l5ikBQDVz2oT3b7WDfZ45xExNBixdFgXpipFpTWZpS4l//j08eAqZPZCS8jB56HfKY/5iRhOU4WH3UPpy2yKVOiYOuT4vwJHIEf9ObqiPk33XuHqRj6h9EkYu1OGVAqUeIzQ+uZIBilTHPQs/0tXvKhXZFLj+E0ShM49CY1cecTJcXGe3xV/x25F9m1zeBJ/ExM9xKutUwSZ0D8/8DifQP/EiT+XGZs/thqBCf4DjwphAAAA\"\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "http://localhost:8080/auth/registro",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8080",
+							"path": [
+								"auth",
+								"registro"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Login usuario",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"correo\": \"pru@eba.es\",\n    \"password\": \"1234\"\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "http://localhost:8080/auth/login",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8080",
+							"path": [
+								"auth",
+								"login"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Get usuarios",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:8080/usuarios",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8080",
+							"path": [
+								"usuarios"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Get eventos",
+					"request": {
+						"auth": {
+							"type": "bearer",
+							"bearer": [
+								{
+									"key": "token",
+									"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJhcnR1cm9iZXIiLCJpZCI6NTMsImlhdCI6MTczMTQ0MTQ1OCwiZXhwIjoxNzMyMDQ2MjU4fQ.7jNC3nY-lFCSYnuy-acbC8NbYSqSAv-tJ2gB9daEBh0",
+									"type": "string"
+								}
+							]
+						},
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:8080/eventos",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8080",
+							"path": [
+								"eventos"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Get evento id",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:8080/eventos/214",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8080",
+							"path": [
+								"eventos",
+								"214"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Insertar usuario",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"nombre\": \"Prueba usuario 2\",\r\n    \"correo\": \"pru@eba.es\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "http://localhost:8080/usuarios",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8080",
+							"path": [
+								"usuarios"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Actualizar usuario",
+					"request": {
+						"method": "PUT",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"id\": 2,\r\n    \"nombre\": \"Usuario de prueba\",\r\n    \"correo\": \"prueba@prueba.com\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "http://localhost:8080/usuarios",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8080",
+							"path": [
+								"usuarios"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Insertar evento",
+					"request": {
+						"auth": {
+							"type": "bearer",
+							"bearer": [
+								{
+									"key": "token",
+									"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJhcnR1cm9iZXIiLCJpZCI6NTMsImlhdCI6MTczMTQ0MTQ1OCwiZXhwIjoxNzMyMDQ2MjU4fQ.7jNC3nY-lFCSYnuy-acbC8NbYSqSAv-tJ2gB9daEBh0",
+									"type": "string"
+								}
+							]
+						},
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"titulo\": \"Prueba\",\r\n    \"descripcion\": \"Evento de prueba\",\r\n    \"precio\": 50,\r\n    \"fecha\": \"2024-12-01\",\r\n    \"imagen\": \"data:image/webp;base64,UklGRsgFAABXRUJQVlA4ILwFAADwGwCdASpVAFUAPkkejEOioaGWrM4YKASEsoBo1H7P9ap5wG2zu1ryQPTS/W6lt/ib55+OL197bZSJ8J7Ce0nYA71XuXuW/tf4iusSsu+Xeeb/c+W1/ZvyA9+v01/2/Va/4h4SAVL1zW6Uraqwg99xRHbnU1bNPs8iS11CXhVsWorlXymhNEOc6sUZhlAhNisXiBY7nI4fc+yxDcJbEZiDPh6/lkKBa5gxGcaBvi4H+78Wq1Zt+gcdMXrkT9rL8/hCEvZXP8R4OzSDwcWj2K7U7nwuFRr1pAL/0gDdJhVPijDtPQjF36wAAP7/tRE8aAjWm0IY8QXI46LldliDKZIG5SipsBXwfe/AtiLhfp9bw85qUgGx511N4KrLSJmiDPd+CgpX7H4XjVjdENngcDYWeDDlZrqFh6Ri3K5kHVgss1OVAechrIn42ZQfE/pi76rUQUfPA9un5+vmJ8SY/NyjfbJc4E2IBuum80e5zNLzswdDPg5Pvc62CZl/pIyz1UWckPjX1Sodzbd8NkIsEK6Dxt+iemXn9qtyesLNKLf1rzqw/C1z4nJqi98S+i02X0D58q52Wte1rZC82S3nq3Lm3lELrjiDs+7xadB1KPLgMI+10J/rqQU3yrOJWrQoSkAvBhflUNr0WvcKWhENWuKL0hkGYJwImqR7fJVPSfZFkpFoDsxj396AR76pSbch7oF25PrTSkQkN+a61Z2Aefujn9O+eH8//7GADNdBAhjMg9Erx3AbvHF6X4KrQSwgMg1+zERlJ1jEfjVyVeVT5fcCs7fwAo/IlACiAY+XjwY7qeaFlfKZwNwAWg3OFpxdi+tK/jiuYC+zlpej5HTsh7tUMK7nMXK8+vxiHeGdWO2OV60NicZ6PlH0kYjLsoU53jAEiuycXxxqrp9zDbuO6hfpAiIPlKufj74n0r/KwH9D2NCm40hkwfaTx5IRNx0u/DB8v1b6wiwqmhvubONs+mUqtaymw4RiGA28nhccSchhYujRashTtC8TY63jm3gaL1gYxbPwKJgLZAeLrU3sk2JkPl6JjMnzuDybMUlmi6JWRPjAr/JZ3XSzIUIWAX4iVLdqrZy457WobZ8Knfmqnmw6C5UTPc4n6nZHfcFI2yX0H6GiTgik7hLuY8UFbv+ObEszC21zXPZGZ7jRdb2DozO7yyw5jBz7gKmmeKzGsi6jsU3k/7LR+rxMVbt3ebZ7z8AVxEWwY0DUDWlgA/JImT5IRm+f6byYVOylqW3oMwKEfqac8BHTWBA0/gIVquz4L0XTLN+LAowibf7g6Rw4WYmp/U/I7jWbW5r9JE1r+pS4ludjDzgEE2K5dQ/uGGO5zxlT8IcwCpCoGOBRa+hIm2KlN/02l54Cl9rMBRKuWChZrbyaJLIuGVU+vRse9SnNTgLkPw17NIYjuJTzxEgqJADTuRn7StqwwpZjTsS+WOgT3GKCfNtlHFSNLMFU/CaxveYBTcKx1jY/pQM7HDcNoCdJb69ikP07Tj2Kx0iyh3nSChY5fHVYINTPJ8eliHzSP/pKJedile7MKahT03NaYHLWOmPjEtC4ECJiKROoij6qbQOfthO+1icxbCKepIEhw+ozjAc9RcTtCcevEVraH55JDOT3wKb/+C4beZvUyqDhNuKp5MLT8Ki+o9tOG6hwchVEPMu96eP88qNtFtVaphuAJ/VZQnf8XYB1MzcZAecvy60tAl35hE05l5ikBQDVz2oT3b7WDfZ45xExNBixdFgXpipFpTWZpS4l//j08eAqZPZCS8jB56HfKY/5iRhOU4WH3UPpy2yKVOiYOuT4vwJHIEf9ObqiPk33XuHqRj6h9EkYu1OGVAqUeIzQ+uZIBilTHPQs/0tXvKhXZFLj+E0ShM49CY1cecTJcXGe3xV/x25F9m1zeBJ/ExM9xKutUwSZ0D8/8DifQP/EiT+XGZs/thqBCf4DjwphAAAA\"\r\n}",
 							"options": {
 								"raw": {
 									"language": "json"
