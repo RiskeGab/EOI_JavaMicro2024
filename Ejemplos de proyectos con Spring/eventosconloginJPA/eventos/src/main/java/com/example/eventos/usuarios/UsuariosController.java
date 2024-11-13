@@ -3,6 +3,8 @@ package com.example.eventos.usuarios;
 import java.security.NoSuchAlgorithmException;
 
 import org.springframework.http.HttpStatus;
+import org.springframework.security.core.Authentication;
+import org.springframework.security.core.context.SecurityContextHolder;
 import org.springframework.web.bind.annotation.DeleteMapping;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
@@ -42,10 +44,12 @@ public class UsuariosController {
         return new RespuestaUsuarioDTO(usuariosService.insert(u));
     }
 
-    @PutMapping("/{id}")
+    @PutMapping
     @ResponseStatus(HttpStatus.OK)
-    public RespuestaUsuarioDTO update(@PathVariable int id, @RequestBody @Valid UsuarioDTO u) {      
-        return new RespuestaUsuarioDTO(usuariosService.update(id, u));
+    public RespuestaUsuarioDTO update(@RequestBody @Valid UsuarioDTO u) {      
+        Authentication auth = SecurityContextHolder.getContext().getAuthentication();
+        Integer idAuth = Integer.parseInt(auth.getCredentials().toString());
+        return new RespuestaUsuarioDTO(usuariosService.update(idAuth, u));
     }
     
     @DeleteMapping("/{id}")

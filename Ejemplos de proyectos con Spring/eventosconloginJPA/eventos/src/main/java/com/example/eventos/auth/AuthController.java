@@ -19,6 +19,7 @@ import lombok.RequiredArgsConstructor;
 import java.security.NoSuchAlgorithmException;
 import java.util.Date;
 
+import org.springframework.beans.factory.annotation.Value;
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
@@ -28,6 +29,9 @@ import org.springframework.web.bind.annotation.RequestBody;
 @RequiredArgsConstructor
 public class AuthController {
     private final UsuariosService usuariosService;
+
+    @Value("${jwt.secret}")
+    private String jwtSecret;
 
     @PostMapping("login")
     public TokenResponseDTO login(@RequestBody @Valid LoginDTO loginDTO) throws NoSuchAlgorithmException {
@@ -42,7 +46,7 @@ public class AuthController {
     }
 
     private String getToken(Usuario user) {
-        Algorithm algorithm = Algorithm.HMAC256("token101");
+        Algorithm algorithm = Algorithm.HMAC256(jwtSecret);
         String token = JWT.create()
                 .withIssuer("arturober")
                 .withClaim("id", user.getId())

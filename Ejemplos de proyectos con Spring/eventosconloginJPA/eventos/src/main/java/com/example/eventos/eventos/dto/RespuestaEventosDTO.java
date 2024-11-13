@@ -19,7 +19,7 @@ public class RespuestaEventosDTO {
 
         List<Evento> eventosImg = eventos.stream().map(e -> {
             Usuario u = new Usuario(e.getCreador().getId(), e.getCreador().getNombre(), e.getCreador().getCorreo(),
-                    null, e.getCreador().getAvatar(), null);
+                    null, baseUrl + "/" + e.getCreador().getAvatar(), null);
             return new Evento(e.getId(), e.getTitulo(), e.getDescripcion(),
                     e.getPrecio(), e.getFecha(), baseUrl + "/" + e.getImagen(), u, null);
         }).toList();
