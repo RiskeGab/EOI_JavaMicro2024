@@ -15,6 +15,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.ResponseStatus;
 import org.springframework.web.bind.annotation.RestController;
 
+import com.example.eventos.eventos.dto.RespuestaEventosDTO;
 import com.example.eventos.usuarios.dto.RespuestaUsuarioDTO;
 import com.example.eventos.usuarios.dto.RespuestaUsuariosDTO;
 import com.example.eventos.usuarios.dto.UsuarioDTO;
@@ -56,5 +57,15 @@ public class UsuariosController {
     @ResponseStatus(HttpStatus.NO_CONTENT)
     public void delete(@PathVariable int id) {
         usuariosService.delete(id);
+    }
+
+    @GetMapping("/{id}/eventos")
+    public RespuestaEventosDTO getEventosUsuario(@PathVariable int id) {
+        return new RespuestaEventosDTO(usuariosService.getEventosAsiste(id));
+    }
+
+    @GetMapping("/{id}/creados")
+    public RespuestaEventosDTO getEventosCreados(@PathVariable int id) {
+        return new RespuestaEventosDTO(usuariosService.getEventosCreados(id));
     }
 }

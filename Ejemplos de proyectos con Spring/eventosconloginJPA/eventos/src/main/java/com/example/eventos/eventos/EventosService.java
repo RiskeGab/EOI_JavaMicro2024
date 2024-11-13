@@ -9,8 +9,8 @@ import org.springframework.stereotype.Service;
 import org.springframework.web.server.ResponseStatusException;
 
 import com.example.eventos.eventos.dto.EventoDTO;
-import com.example.eventos.eventos.proyecciones.EventoSinUsuarios;
 import com.example.eventos.usuarios.Usuario;
+import com.example.eventos.usuarios.UsuariosRepository;
 import com.example.eventos.utils.ImageUtils;
 
 import lombok.NonNull;
@@ -20,18 +20,19 @@ import lombok.RequiredArgsConstructor;
 @RequiredArgsConstructor
 public class EventosService {
     private final @NonNull EventosRepository eventosRepository;
+    private final @NonNull UsuariosRepository usuariosRepository;
     private final @NonNull ImageUtils imageUtils;
 
-    public List<EventoSinUsuarios> getAll() {
+    public List<Evento> getAll() {
         return eventosRepository.findBy();
     }
 
-    public EventoSinUsuarios getById(int id) {
-        EventoSinUsuarios e = eventosRepository.findEventoById(id);
+    public Evento getById(int id) {
+        Evento e = eventosRepository.findEventoById(id);
         return e;
     }
 
-    public EventoSinUsuarios insert(EventoDTO eventoDTO) {
+    public Evento insert(EventoDTO eventoDTO) {
         Authentication auth = SecurityContextHolder.getContext().getAuthentication();
         Integer idAuth = Integer.parseInt(auth.getCredentials().toString());
         Usuario usuario = new Usuario();
@@ -42,7 +43,7 @@ public class EventosService {
         return eventosRepository.findEventoById(evento.getId());
     }
 
-    public EventoSinUsuarios update(int id, EventoDTO eventoDTO) {
+    public Evento update(int id, EventoDTO eventoDTO) {
         Evento evento = getAndCheckEvento(id);
 
         if (!eventoDTO.getImagen().startsWith("http")) { // La imagen viene en Base64
@@ -58,6 +59,44 @@ public class EventosService {
         Evento evento = getAndCheckEvento(idEvento);
         eventosRepository.delete(evento);
     }
+
+    public void asistirEvento(int idEvento) {
+        Authentication auth = SecurityContextHolder.getContext().getAuthentication();
+        Integer idAuth = Integer.parseInt(auth.getCredentials().toString());
+
+        Usuario usuario = usuariosRepository.findById(idAuth).get();
+
+        Evento evento = eventosRepository.findById(idEvento)
+                .orElseThrow(() -> new ResponseStatusException(HttpStatus.NOT_FOUND, "Evento no encontrado"));
+    
+        if(evento.getUsuarios().contains(usuario)) {
+            throw new ResponseStatusException(HttpStatus.BAD_REQUEST, "El usuario ya asiste a este evento");
+        }
+        evento.getUsuarios().add(usuario);
+        usuario.getEventos().add(evento);
+        eventosRepository.flush();
+    }
+
+    public void borraAsistencia(int idEvento) {
+        Authentication auth = SecurityContextHolder.getContext().getAuthentication();
+        Integer idAuth = Integer.parseInt(auth.getCredentials().toString());
+
+        Usuario usuario = usuariosRepository.findById(idAuth).get();
+
+        Evento evento = eventosRepository.findById(idEvento)
+                .orElseThrow(() -> new ResponseStatusException(HttpStatus.NOT_FOUND, "Evento no encontrado"));
+    
+        usuario.getEventos().remove(evento);
+        evento.getUsuarios().remove(usuario);
+        eventosRepository.flush();
+    }
+
+    public List<Usuario> getAsistentesEvento(int idEvento) {
+        Evento evento = eventosRepository.findById(idEvento)
+                .orElseThrow(() -> new ResponseStatusException(HttpStatus.NOT_FOUND, "Evento no encontrado"));
+    
+        return evento.getUsuarios();
+    } 
 
     private Evento getAndCheckEvento(int id) {
         Evento evento = eventosRepository.findById(id)

@@ -3,7 +3,6 @@ package com.example.eventos.eventos.dto;
 import org.springframework.web.servlet.support.ServletUriComponentsBuilder;
 
 import com.example.eventos.eventos.Evento;
-import com.example.eventos.eventos.proyecciones.EventoSinUsuarios;
 import com.example.eventos.usuarios.Usuario;
 
 import lombok.Data;
@@ -12,7 +11,7 @@ import lombok.Data;
 public class RespuestaEventoDTO {
     private Evento evento;
 
-    public RespuestaEventoDTO(EventoSinUsuarios e) {
+    public RespuestaEventoDTO(Evento e) {
         String baseUrl = ServletUriComponentsBuilder.fromCurrentContextPath().build().toUriString();
 
         Usuario u = new Usuario(e.getCreador().getId(), e.getCreador().getNombre(), e.getCreador().getCorreo(),

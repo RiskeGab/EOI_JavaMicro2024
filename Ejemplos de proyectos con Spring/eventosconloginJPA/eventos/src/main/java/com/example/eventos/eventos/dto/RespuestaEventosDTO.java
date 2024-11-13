@@ -5,7 +5,6 @@ import java.util.List;
 import org.springframework.web.servlet.support.ServletUriComponentsBuilder;
 
 import com.example.eventos.eventos.Evento;
-import com.example.eventos.eventos.proyecciones.EventoSinUsuarios;
 import com.example.eventos.usuarios.Usuario;
 
 import lombok.Data;
@@ -14,7 +13,7 @@ import lombok.Data;
 public class RespuestaEventosDTO {
     private List<Evento> eventos;
 
-    public RespuestaEventosDTO(List<EventoSinUsuarios> eventos) {
+    public RespuestaEventosDTO(List<Evento> eventos) {
         String baseUrl = ServletUriComponentsBuilder.fromCurrentContextPath().build().toUriString();
 
         List<Evento> eventosImg = eventos.stream().map(e -> {
