@@ -7,3 +7,7 @@ export interface EventosResponse {
 export interface EventoResponse {
     evento: Evento;
 }
+
+export interface LoginResponse {
+    accessToken: string;
+}

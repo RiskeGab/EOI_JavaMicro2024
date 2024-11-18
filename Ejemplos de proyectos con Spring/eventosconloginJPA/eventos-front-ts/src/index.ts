@@ -1,7 +1,13 @@
+import { AuthService } from "./clases/auth-service";
 import { EventosService } from "./clases/eventos-service";
 import { Evento } from "./interfaces/evento";
 
+if(!localStorage.getItem("token")) {
+  location.assign("login.html");
+}
+
 const eventosService = new EventosService();
+const authService = new AuthService();
 
 const eventoTemplate = document.getElementById(
   "eventoTemplate"
@@ -42,3 +48,8 @@ function addEvento(evento: Evento) {
 
 /* MAIN */
 cargarEventos();
+
+document.getElementById("logout")?.addEventListener("click", () => {
+  authService.logout(); // Borra el token
+  location.assign("login.html");
+});

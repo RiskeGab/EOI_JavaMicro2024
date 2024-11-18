@@ -1,7 +1,13 @@
+import { AuthService } from "./clases/auth-service";
 import { EventosService } from "./clases/eventos-service";
 import { Evento } from "./interfaces/evento";
 
+if(!localStorage.getItem("token")) {
+  location.assign("login.html");
+}
+
 const eventosService = new EventosService();
+const authService = new AuthService();
 
 const imgPreview = document.getElementById("imgPreview") as HTMLImageElement;
 const form = document.getElementById("formEvento") as HTMLFormElement;
@@ -34,4 +40,9 @@ form.addEventListener("submit", async e => {
 
     await eventosService.addEvento(evento);
     location.assign("index.html");
+});
+
+document.getElementById("logout")?.addEventListener("click", () => {
+  authService.logout(); // Borra el token
+  location.assign("login.html");
 });
